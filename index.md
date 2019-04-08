@@ -28,7 +28,7 @@ Outside of physics, I like reading, history, and learning languages. I am fluent
 # Publications
 
 * Measurement of neutron production in atmospheric neutrino interactions at the Sudbury Neutrino Observatory
-  B Aharmim _et al._ (SNO Collaboration), [arXiv:1904.01148]()https://arxiv.org/abs/1904.01148)
+  B Aharmim _et al._ (SNO Collaboration), [arXiv:1904.01148](https://arxiv.org/abs/1904.01148)
 
 <!---
 ## Header 2
