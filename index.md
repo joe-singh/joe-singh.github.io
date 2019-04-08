@@ -15,7 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 I am a senior at UC Berkeley, majoring in physics. In the autumn, I will begin my PhD at Stanford University in either experimental high energy/particle 
 physics or cosmology. 
 
-More specifically, my interests lie in experiments focused on neutrinos and dark matter searches. Recently, I have also developed an interest in 
+More specifically, my interests lie in neutrino experiments and dark matter searches. Recently, I have also developed an interest in 
 CMB cosmology due to the wealth of information the CMB contains about neutrinos and dark matter.  
 
 I did my undergrad research work with Prof. Gabriel Orebi Gann and Prof. Matt Pyle. Under Prof. Orebi Gann, I did on data analysis for the SNO 
