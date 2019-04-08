@@ -10,9 +10,19 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 --->
-# Header 1
+# About Me
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I am a senior at UC Berkeley, majoring in physics. In the autumn, I will begin my PhD at Stanford University in either experimental high energy/particle 
+physics or cosmology. 
+
+More specifically, my interests lie in experiments focused on neutrinos and dark matter searches. More recently, I have also developed an interest in 
+CMB cosmology due to the wealth of information the CMB contains about neutrinos and dark matter.  
+
+My undergrad research work was done with Prof. Gabriel Orebi Gann and Prof. Matt Pyle. Under Prof. Orebi Gann, I worked on data analysis for the SNO 
+experiment and on detector analysis for its successor SNO+. My senior thesis focuses on precision detection of vacuum ultraviolet (VUV) photons for
+future liquid argon scintillator experiments. With Prof. Pyle I have been involved in detector R&D for the SuperCDMS experiment as it transitions to 
+lower mass ranges. 
+
 
 ## Header 2
 
