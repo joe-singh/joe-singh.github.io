@@ -25,6 +25,10 @@ lower mass ranges.
 
 Outside of physics, I like reading, history, and learning languages. I am fluent in Hindi, proficient in French, and conversant in Persian and Turkish.
 
+# Publications
+
+* ##### Measurement of neutron production in atmospheric neutrino interactions at the Sudbury Neutrino Observatory
+  B Aharmim _et al._ (SNO Collaboration), [arXiv:1904.01148][https://arxiv.org/abs/1904.01148]
 <!---
 ## Header 2
 
