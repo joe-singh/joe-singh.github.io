@@ -23,6 +23,7 @@ experiment and on detector analysis for its successor SNO+. My senior thesis foc
 future liquid argon scintillator experiments. With Prof. Pyle I have been involved in detector R&D for the SuperCDMS experiment as it transitions to 
 lower mass ranges. 
 
+Outside of physics, I like reading, history, and learning languages. I am fluent in Hindi, proficient in French, and conversant in Persian and Turkish.
 
 ## Header 2
 
