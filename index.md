@@ -18,8 +18,8 @@ physics or cosmology.
 More specifically, my interests lie in neutrino experiments and dark matter searches. Recently, I have also developed an interest in 
 CMB cosmology due to the wealth of information the CMB contains about neutrinos and dark matter.  
 
-I did my undergrad research work with Prof. Gabriel Orebi Gann and Prof. Matt Pyle. Under Prof. Orebi Gann, I did on data analysis for the SNO 
-experiment and on detector analysis for its successor SNO+. My senior thesis focuses on precision detection of vacuum ultraviolet (VUV) photons for
+I did my undergrad research work with Prof. Gabriel Orebi Gann and Prof. Matt Pyle. Under Prof. Orebi Gann, I did data analysis for the SNO 
+experiment and detector analysis for its successor SNO+. My senior thesis focuses on precision detection of vacuum ultraviolet (VUV) photons for
 future liquid argon scintillator experiments. With Prof. Pyle I have been involved in detector R&D for the SuperCDMS experiment as it transitions to 
 lower mass DM targets. My work in particular has focused on the 0.1 - 1 GeV range. 
 
