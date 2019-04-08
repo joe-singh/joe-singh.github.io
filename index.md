@@ -25,6 +25,7 @@ lower mass ranges.
 
 Outside of physics, I like reading, history, and learning languages. I am fluent in Hindi, proficient in French, and conversant in Persian and Turkish.
 
+<!---
 ## Header 2
 
 > This is a blockquote following a header.
@@ -132,3 +133,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+--->
