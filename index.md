@@ -25,7 +25,7 @@ lower mass DM targets. My work in particular has focused on the 0.1 - 1 GeV rang
 
 Outside of physics, I like reading, history, and learning languages. I am fluent in Hindi, proficient in French, and conversant in Persian and Turkish.
 
-You can get in touch with me [here](mailto:joesingh@stanford.edu)
+You can get in touch with me [here](mailto:joesingh@stanford.edu). 
 
 # Publications
 
