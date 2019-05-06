@@ -27,7 +27,6 @@ Outside of physics, I like reading, basketball, history, and learning languages.
 
 You can get in touch with me [here](mailto:joesingh@stanford.edu). 
 
-[Link to another page](./another-page.html)
 
 # Publications
 

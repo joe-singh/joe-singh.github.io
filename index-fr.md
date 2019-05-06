@@ -10,13 +10,12 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 --->
-# About Me
+# À Propos de Moi
 
-I am a senior at UC Berkeley, majoring in physics. In the autumn, I will begin my PhD at Stanford University in either experimental high energy/particle 
-physics or cosmology. 
+Je suis étudiant à UC Berkeley où j'étudie la physique. Dans l'automne, je commencerai mon doctorat à Stanford en soit la physique des particules soit la cosmologie. 
 
-More specifically, my interests lie in neutrino experiments and dark matter searches. Recently, I have also developed an interest in 
-CMB cosmology due to the wealth of information the CMB contains about neutrinos and dark matter.  
+Plus précisément, je m'intéresse aux expériences du neutrino et aux recherches pour la matière noire. Récemment j'ai commencé de m'intéresser plus à la cosmologie du 
+CMB puisque le CMB contient beaucoup d'information sur les neutrinos et la matière noire.  
 
 I did my undergrad research work with Prof. Gabriel Orebi Gann and Prof. Matt Pyle. Under Prof. Orebi Gann, I did data analysis for the SNO 
 experiment and detector analysis for its successor SNO+. My senior thesis focuses on precision detection of vacuum ultraviolet (VUV) photons for
