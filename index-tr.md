@@ -10,25 +10,25 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 --->
-# À Propos de Moi
+# Kendim Hakkında
 
-Je suis étudiant à UC Berkeley où j'étudie la physique. Dans l'automne, je commencerai mon doctorat à Stanford en soit la physique des particules soit la cosmologie. 
+Ben şu anda UC Berkeley'de fizik okuyan öğrenciyim. Sonbaharda Stanford Üniversitesi'nde doktorama başlayacağım. Doktoram ya parçacık fiziğinde ya da kozmolojinde
+olacak.   
 
-Plus précisément, je m'intéresse aux expériences du neutrino et aux recherches pour la matière noire. Récemment j'ai commencé de m'intéresser plus à la cosmologie du 
-CMB puisque le CMB contient beaucoup d'information sur les neutrinos et la matière noire.  
+Özellikle nötrino deneyleri ve karanlık madde aramalarıyla ilgilenirim. Son zamanlarda CMB kozmoljisiyla ilgilenmeye başladım çünkü CMB'de 
+ nötrino ve karanlık madde hakkında çok fazla bilgi vardır. 
 
-J'ai fait de la recherche à Berkeley avec Prof. Gabriel Orebi Gann et Prof. Matt Pyle. Avec Prof. Orebi Gann, j'ai fait de l'analyse des données pour
-l'expérience SNO et de l'analyse du détecteur pour son successeur SNO+. Ma thèse se concentre sur la détection des photons vacuum ultraviolet (VUV) pour
-les expériences qui vont utiliser l'argon liquide dans l'avenir. Avec Prof.Pyle je me suis occupé de faire de la recherche et développement pour de nouveaux détecteurs
-pour l'expérience SuperCDMS pendant qu'elle commence de passer aux masses plus basses. Mon travail en particulier se base sur les masses entre 0.1 - 1 GeV. 
+Berkeley'de Profesör Gabriel Orebi Gann ve Profesör Matt Pyle ile araştırma yaptım. Prof. Orebi Gann'la SNO nötrino deneyi için veri analizi 
+ve ondan sonra gelen SNO+ deneyi için detektör analizi yaptım. Tezim sıvı argon'u kullanan deneyler için 'vacuum ultraviolet' (VUV) fotonlarla 
+ilgilenecek. Prof. Pyle ile SuperCDMS deneyinin detektörü için ben araştırma ve geliştirme yapıyorum. Benim işim 0.1 ve 1 GeV arasındaki 
+karanlık maddeyle ilgileniyor. 
 
-Sauf la physique, j'aime lire, jouer au basket, l'histoire et apprendres des langues. Je parle couramment hindi et [anglais](./index-md) et j'ai une bonne connaissance 
-du persan et du [turc](./index-tr.md).  
+Fizik dışında, ben okumayı, basketbolu, tarihi ve dil öğrenmeyi severim. Ben Hintçe, [İngilizce](./index.md), [Fransızca](./index-fr.md), ve Farşca biliyorum.  
 
-Vous pouvez me contacter [ici](mailto:joesingh@stanford.edu). 
+Bana [burada] (mailto:joesingh@stanford.edu) ulaşabilirsiniz. 
 
 
-# Publications
+# Yayınlar
 
 * B. Aharmim et al. (SNO Collaboration), _Measurement of neutron production in atmospheric neutrino interactions at the Sudbury Neutrino Observatory_,
   [arXiv:1904.01148](https://arxiv.org/abs/1904.01148)
