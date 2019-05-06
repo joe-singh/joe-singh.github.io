@@ -22,7 +22,7 @@ l'expérience SNO et de l'analyse du détecteur pour son successeur SNO+. Ma th�
 les expériences qui vont utiliser l'argon liquide dans l'avenir. Avec Prof.Pyle je me suis occupé de faire de la recherche et développement pour de nouveaux détecteurs
 pour l'expérience SuperCDMS pendant qu'elle commence de passer aux masses plus basses. Mon travail en particulier se base sur les masses entre 0.1 - 1 GeV. 
 
-Sauf la physique, j'aime lire, jouer au basket, l'histoire et apprendres des langues. Je parle couramment hindi et [anglais](./index-md) et j'ai une bonne connaissance 
+Sauf la physique, j'aime lire, jouer au basket, l'histoire et apprendres des langues. Je parle couramment hindi et [anglais](./index.md) et j'ai une bonne connaissance 
 du persan et du [turc](./index-tr.md).  
 
 Vous pouvez me contacter [ici](mailto:joesingh@stanford.edu). 
