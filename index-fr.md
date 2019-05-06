@@ -17,16 +17,16 @@ Je suis étudiant à UC Berkeley où j'étudie la physique. Dans l'automne, je c
 Plus précisément, je m'intéresse aux expériences du neutrino et aux recherches pour la matière noire. Récemment j'ai commencé de m'intéresser plus à la cosmologie du 
 CMB puisque le CMB contient beaucoup d'information sur les neutrinos et la matière noire.  
 
-I did my undergrad research work with Prof. Gabriel Orebi Gann and Prof. Matt Pyle. Under Prof. Orebi Gann, I did data analysis for the SNO 
-experiment and detector analysis for its successor SNO+. My senior thesis focuses on precision detection of vacuum ultraviolet (VUV) photons for
-future liquid argon scintillator experiments. With Prof. Pyle I have been involved in detector R&D for the SuperCDMS experiment as it transitions to 
-lower mass DM targets. My work in particular has focused on the 0.1 - 1 GeV range. 
+J'ai fait de la recherche à Berkeley avec Prof. Gabriel Orebi Gann et Prof. Matt Pyle. Avec Prof. Orebi Gann, j'ai fait de l'analyse des données pour
+l'expérience SNO et de l'analyse du détecteur pour son successeur SNO+. Ma thèse se concentre sur la détection des photons vacuum ultraviolet (VUV) pour
+les expériences qui vont utiliser l'argon liquide dans l'avenir. Avec Prof.Pyle je me suis occupé de faire de la recherche et développement pour de nouveaux détecteurs
+pour l'expérience SuperCDMS pendant qu'elle commence de passer aux masses plus basses. Mon travail en particulier se base sur les masses entre 0.1 - 1 GeV. 
 
-Outside of physics, I like reading, basketball, history, and learning languages. I am fluent in Hindi, proficient in French, and conversant in Persian and Turkish.
+Sauf la physique, j'aime lire, jouer au basket, l'histoire et apprendres des langues. Je parle couramment hindi et [anglais](./index-md) et j'ai une bonne connaissance 
+du persan et du turc.  
 
-You can get in touch with me [here](mailto:joesingh@stanford.edu). 
+Vous pouvez me contacter [ici](mailto:joesingh@stanford.edu). 
 
-[Link to another page](./another-page.html)
 
 # Publications
 
