@@ -25,7 +25,7 @@ karanlık maddeyle ilgileniyor.
 
 Fizik dışında, ben okumayı, basketbolu, tarihi ve dil öğrenmeyi severim. Ben Hintçe, [İngilizce](./index.md), [Fransızca](./index-fr.md), ve Farşca biliyorum.  
 
-Bana [burada] (mailto:joesingh@stanford.edu) ulaşabilirsiniz. 
+Bana [burada](mailto:joesingh@stanford.edu) ulaşabilirsiniz. 
 
 
 # Yayınlar
