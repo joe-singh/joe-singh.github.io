@@ -23,7 +23,7 @@ experiment and detector analysis for its successor SNO+. My senior thesis focuse
 future liquid argon scintillator experiments. With Prof. Pyle I have been involved in detector R&D for the SuperCDMS experiment as it transitions to 
 lower mass DM targets. My work in particular has focused on the 0.1 - 1 GeV range. 
 
-Outside of physics, I like reading, basketball, history, and learning languages. I am fluent in Hindi, proficient in [French](./index-fr.html), and conversant in Persian and [Turkish](./index-tr.html)).
+Outside of physics, I like reading, basketball, history, and learning languages. I am fluent in Hindi, proficient in [French](./index-fr.html), and conversant in Persian and [Turkish](./index-tr.html).
 
 You can get in touch with me [here](mailto:joesingh@stanford.edu). 
 
