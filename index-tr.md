@@ -23,7 +23,7 @@ ve ondan sonra gelen SNO+ deneyi için detektör analizi yaptım. Tezim sıvı a
 ilgilenecek. Prof. Pyle ile SuperCDMS deneyinin detektörü için ben araştırma ve geliştirme yapıyorum. Benim işim 0.1 ve 1 GeV arasındaki 
 karanlık maddeyle ilgileniyor. 
 
-Fizik dışında, ben okumayı, basketbolu, tarihi ve dil öğrenmeyi severim. Ben Hintçe, [İngilizce](./index.md), [Fransızca](./index-fr.md), ve Farşca biliyorum.  
+Fizik dışında, ben okumayı, basketbolu, tarihi ve dil öğrenmeyi severim. Ben Hintçe, [İngilizce](./index.md), [Fransızca](./index-fr.md), ve Farsça biliyorum.  
 
 Bana [burada](mailto:joesingh@stanford.edu) ulaşabilirsiniz. 
 
