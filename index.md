@@ -22,7 +22,7 @@ future liquid argon scintillator experiments. With Prof. Pyle I have been involv
 lower mass DM targets. My work in particular has focused on the 0.1 - 1 GeV range. 
 
 Outside of physics, I like reading, basketball, history, and learning languages. I am bilingual in Hindi and English and can also speak French, Persian, and 
-Turkish. Part of this interest stems from an international background -- I was lucky enough to spend 6 years in Delhi, 4 in Singapore, 8 in Dubai, and around 9-10
+Turkish. Part of this interest stems from an international background -- I was lucky enough to spend 6 years in Delhi, 4 in Singapore, 8 in Dubai, and now around 9-10
 in California. 
 
 You can get in touch with me [here](mailto:joesingh@stanford.edu). 
