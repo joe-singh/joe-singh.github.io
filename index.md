@@ -31,7 +31,7 @@ You can get in touch with me [here](mailto:joesingh@stanford.edu).
 # Publications
 
 * B. Aharmim et al. (SNO Collaboration), _Measurement of neutron production in atmospheric neutrino interactions at the Sudbury Neutrino Observatory_,
-  [arXiv:1904.01148](https://arxiv.org/abs/1904.01148)
+  [Phys. Rev. D 99, 112007 (2019)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.112007)
 
 <!---
 ## Header 2
