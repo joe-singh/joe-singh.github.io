@@ -26,7 +26,7 @@ Straits of Hormuz and Malacca (near both of which I have lived -- in Dubai and S
 also interested in modern Europe following German unification and areas such as Central Asia influenced by the interesection of Turkic, Persian, and Indian historical
 traditions.  
 
-In terms of having a life, I like playing basketball, and learning languages. I speak English and Hindi, French, Persian, and Turkish. I can also make a half decent kebab! 
+In terms of having a life, I like playing basketball, and learning languages. I speak English and Hindi, French, Persian, and Turkish. I can sometime also make a half decent kebab.   
 
 You can get in touch with me [here](mailto:joesingh@stanford.edu). 
 
