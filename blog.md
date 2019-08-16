@@ -18,10 +18,11 @@ as longterm geopolitical trends, such as the backlash against globalisation and 
 have come up with a great expression for this -- [The Geopolitical Recession](https://www.eurasiagroup.net/issues/top-risks-2017). 
 
 This is mainly intended to be a record of my thoughts on the important developments that occur virtually weekly these days. The name
-is inspired by two of the places where I have lived, Dubai and Singapore, which owe their significant wealth and rapid development to their 
-proximity to the two most important waterways in the world -- the Straits of Hormuz and Malacca respectively.
+is inspired by two of the places where I have lived, Dubai and Singapore. Both
+ owe their significant wealth and rapid development to their proximity to the two most important waterways in the world -- the Straits of Hormuz and Malacca respectively --
+and demonstrate how important the geo in geopolitics is. 
 
-A quick note: Opinions expressed here are solely my own. I try to be factually correct but perfection is alas inevitable -- if I've got
+A quick note: Opinions expressed here are my own. I try to be factually correct but perfection is alas inevitable -- if I've got
 something wrong let me know by [email](mailto:joe_singh@hotmail.co.uk). 
 
 * [16/08/2019 - Kashmir & Article 370: Domestic Blunder and Strategic Success](./blogposts/one.md)
