@@ -12,6 +12,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 --->
 # About Me
 
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
+
 I am an incoming physics PhD student at Stanford University interested in experimental high energy physics or cosmology.
 More specifically, my interests lie in neutrino experiments and dark matter searches. Recently, I have also developed an interest in 
 CMB cosmology due to the wealth of information the CMB contains about neutrinos and dark matter.  
@@ -29,7 +31,6 @@ traditions.
 In terms of having a life, I like playing basketball, and learning languages. I speak English Hindi, French, Persian, and Turkish. I am also always looking out for amazing 
 kebabs, so if you know where to get some or want to discuss physics, you can get in touch with me [here](mailto:joesingh@stanford.edu). 
 
-<img style="max-width: 300px; height: auto;"  align="right;" src="image.jpg" alt="Picture">
 
 # Publications
 
