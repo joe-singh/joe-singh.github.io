@@ -17,7 +17,7 @@ I am an incoming physics PhD student at Stanford University interested in experi
 More specifically, my interests lie in neutrino experiments and dark matter searches. Recently, I have also developed an interest in 
 CMB cosmology due to the wealth of information the CMB contains about neutrinos and dark matter.  
 
-<img align="right" width="256" height="170" src="./image.jpg">
+<img align="right" width="410" height="616" src="./goodpic.jpg">
 I did my undergrad work at UC Berkeley with Prof. Gabriel Orebi Gann and Prof. Matt Pyle. Under Prof. Orebi Gann, I did data analysis for the SNO 
 experiment and detector analysis for its successor SNO+. My senior thesis focused on precision detection of vacuum ultraviolet (VUV) photons for
 future liquid argon scintillator experiments. With Prof. Pyle I have been involved in detector R&D for the SuperCDMS experiment as it transitions to 
