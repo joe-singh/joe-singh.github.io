@@ -13,7 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # About Me
 
 
-<img align="right" width="205" height="308" src="./goodpic.jpg">
+<img align="right" width="205" height="308" src="./goodpic.jpg" hspace="100">
 I am an incoming physics PhD student at Stanford University interested in experimental high energy physics or cosmology.
 More specifically, my interests lie in neutrino experiments and dark matter searches. Recently, I have also developed an interest in 
 CMB cosmology due to the wealth of information the CMB contains about neutrinos and dark matter.  
