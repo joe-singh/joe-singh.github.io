@@ -29,6 +29,8 @@ traditions.
 In terms of having a life, I like playing basketball, and learning languages. I speak English Hindi, French, Persian, and Turkish. I am also always looking out for amazing 
 kebabs, so if you know where to get some or want to discuss physics, you can get in touch with me [here](mailto:joesingh@stanford.edu). 
 
+<img style="float: right;" src="thumbnail.png">
+
 
 # Publications
 
