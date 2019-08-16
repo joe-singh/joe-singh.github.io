@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 --->
-# Strait Cash - A Geopolitics Blog
+# Strait Cash - A Geopolitics Diary
 
 Welcome to Strait Cash, a small corner of the internet where I stash my thoughts on what's happening in the world. It may sound
 cliché, but we do live in very interesting times. The post Cold War liberal world order is appearing to crack at the seams
@@ -22,9 +22,8 @@ is inspired by two of the places where I have lived, Dubai and Singapore, which 
 proximity to the two most important waterways in the world -- the Straits of Hormuz and Malacca respectively.
 
 A quick final note: Opinions expressed here are solely my own. I try to be factually correct but perfection is alas inevitable -- if I've got
-something wrong let me know by [email](mailto:joe_singh@hotmail.co.uk) 
+something wrong let me know by [email](mailto:joe_singh@hotmail.co.uk). 
 
-Hello welcome to lorem ipsum jaason
 
 * [TITLE](./blogposts/first_post.md)
 * [YELADZ](./blogposts/second_post.md)
