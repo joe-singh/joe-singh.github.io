@@ -21,7 +21,7 @@ This is mainly intended to be a record of my thoughts on the important developme
 is inspired by two of the places where I have lived, Dubai and Singapore, which owe their significant wealth and rapid development to their 
 proximity to the two most important waterways in the world -- the Straits of Hormuz and Malacca respectively.
 
-A quick final note: Opinions expressed here are solely my own. I try to be factually correct but perfection is alas inevitable -- if I've got
+A quick note: Opinions expressed here are solely my own. I try to be factually correct but perfection is alas inevitable -- if I've got
 something wrong let me know by [email](mailto:joe_singh@hotmail.co.uk). 
 
 
