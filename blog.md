@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 --->
-# Hormuz to Malacca - A Geopo
+# Strait Cash - A Geopolitics Blog
 
 Hello welcome to lorem ipsum jaason
 
