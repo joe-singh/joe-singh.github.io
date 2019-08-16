@@ -22,7 +22,7 @@ future liquid argon scintillator experiments. With Prof. Pyle I have been involv
 lower mass DM targets. My work in particular has focused on the 0.1 - 1 GeV range. 
 
 Outside of physics I maintain strong interests in geopolitics and history. I particularly like to focus on the geopolitics of the Indian Ocean region between the
-Straits of Hormuz and Malacca (near both of which I have lived -- in Dubai and Singapore) which has recently returned to its traditional historical importance. I am 
+[Straits of Hormuz and Malacca] (./blog.md) (near both of which I have lived -- in Dubai and Singapore) which has recently returned to its traditional historical importance. I am 
 also interested in modern Europe following German unification and areas such as Central Asia influenced by the interesection of Turkic, Persian, and Indian historical
 traditions.  
 
