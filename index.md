@@ -23,12 +23,13 @@ experiment and detector analysis for its successor SNO+. My senior thesis focuse
 future liquid argon scintillator experiments. With Prof. Pyle I have been involved in detector R&D for the SuperCDMS experiment as it transitions to 
 lower mass DM targets. My work in particular has focused on the 0.1 - 1 GeV range. 
 
-Outside of physics I maintain strong interests in geopolitics and history. I particularly like to focus on the geopolitics of the Indian Ocean region between the
-Straits of Hormuz and Malacca (near both of which I have lived -- in Dubai and Singapore) which has recently returned to its traditional importance. My historical interests are modern Europe, especially Germany post 1871, and those areas of Central/Southern Asia under significant Turko-Persian influence.  
+Outside of physics I maintain strong interests in geopolitics and history. I particularly like to focus on the Indian Ocean region between the
+Straits of Hormuz and Malacca (near both of which I have lived -- in Dubai and Singapore) which has recently returned to its traditional importance. My historical interests are modern Europe and Perso-Turkic states of Central and South Asia.  
 
 In terms of having a life, I like playing basketball, and learning languages. I speak English Hindi, French, Persian, and Turkish. I am also always looking out for amazing 
 kebabs, so if you know where to get some or want to discuss physics, you can get in touch with me [here](mailto:joesingh@stanford.edu). 
 
+[TEST](./pers_test.md))
 
 # Publications
 
