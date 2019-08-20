@@ -13,7 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # About Me
 
 
-<img style="position:absolute; LEFT:78% " width="205" height="308" src="./goodpic.jpg">
+<!--<img style="position:absolute; LEFT:78% " width="205" height="308" src="./goodpic.jpg"> -->
 I am an incoming physics PhD student at Stanford University interested in experimental high energy physics or cosmology.
 More specifically, my interests lie in neutrino experiments and dark matter searches. Recently, I have also developed an interest in 
 CMB cosmology due to the wealth of information the CMB contains about neutrinos and dark matter.  
@@ -24,9 +24,7 @@ future liquid argon scintillator experiments. With Prof. Pyle I have been involv
 lower mass DM targets. My work in particular has focused on the 0.1 - 1 GeV range. 
 
 Outside of physics I maintain strong interests in geopolitics and history. I particularly like to focus on the geopolitics of the Indian Ocean region between the
-[Straits of Hormuz and Malacca](./blog.md) (near both of which I have lived -- in Dubai and Singapore) which has recently returned to its traditional historical importance. I am 
-also interested in modern Europe following German unification and areas such as Central Asia influenced by the interesection of Turkic, Persian, and Indian historical
-traditions.  
+Straits of Hormuz and Malacca (near both of which I have lived -- in Dubai and Singapore) which has recently returned to its traditional importance. My historical interests are modern Europe, especially Germany post 1871, and those areas of Central/Southern Asia under significant Turko-Persian influence.  
 
 In terms of having a life, I like playing basketball, and learning languages. I speak English Hindi, French, Persian, and Turkish. I am also always looking out for amazing 
 kebabs, so if you know where to get some or want to discuss physics, you can get in touch with me [here](mailto:joesingh@stanford.edu). 
