@@ -7,7 +7,7 @@ another is celebrated by Iran, Turkey, Azerbaijan, Afghanistan and is influentia
 epic poems in history.
 
 Although reading it in Persian is unfortunately not feasible (yet!!) I found a wonderful podcast by Amir Khadem called [Reading Ferdowsi](https://readingferdowsi.com/) which presents
-the Shahnameh story by story and also offers some commentary to try and parse the beautiful but difficult poetic language and make it easier to understand. As a way to 
+the Shahnameh story by story. It also offers some commentary to try and parse the beautiful but difficult poetic language and make it easier to understand. As a way to 
 practice my Persian, I try to summarise what I was able to understand from the story as well as offer an English translation of my summary for anybody interested. 
 
 * [Chapter 1: *Dastan-e Kiyamars va Siyamak* (The Story of Kiyamars & Siyamak)](./shahnameh/yekom.md)
