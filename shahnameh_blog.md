@@ -1,7 +1,7 @@
 # Shahnameh Blog
 
 Hello and welcome to my Shahnameh blog. As you might have read on the homepage, I'm quite interested in Turko-Persian history and so it's one of my longstanding goals
-to be able to read the Shahnameh in Persian. The [*Shahnameh*](https://en.wikipedia.org/wiki/Shahnameh) or Book of Kings is was written by the poet Ferdowsi in the 
+to be able to read the Shahnameh in Persian. The [*Shahnameh*](https://en.wikipedia.org/wiki/Shahnameh) or Book of Kings was written by the poet Ferdowsi in the 
 10-11th centuries and details Persian legends/history from prehistory to the fall of the Sassanid Empire. It is regarded as a masterpiece across the world and is foundational to the culture of *Iranzamin* or Greater Iran. The Shahnameh in one form or
 another is celebrated by Iran, Turkey, Azerbaijan, Afghanistan and is influential in the Caucasus and Central Asia also. Most sources put the it as one of the longest 
 epic poems in history.
