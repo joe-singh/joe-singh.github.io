@@ -6,7 +6,7 @@
 سی سال بود، تختش را به هوشنگ داد. پس از این، پادشاه ی اول درگذشت.  
 </div>
 <br>
-<div>
 ## Translation
+<div>
 The first story of the Shahnameh is the story of Kiyamars who was the first Emperor of the world. He lived in the age of heroes and was king of the whole world. Man and animal were under his command. Kiyamars had no enemy in the world except for the demon Ahriman. Kiyamars also had a son whose name was Siyamak. Therefore, Siyamak was the first prince. Ferdowsi says that if Kiyamars was like the foundation of a tree, then Siyamak was its branches. Ahriman also had a child who was a large black demon. Siyamak warred with him but  the black demon killed Siyamak with his claws. Siyamak died and Kiyamars’ army was defeated. After the death of his son, Kiyamars mourned until an angel brought him a message from God. The message said that Kiyamars had to take revenge upon Ahriman. Kiyamars himself did not go to fight as he was very old. Before Siyamak’s death, he had had a son and his name was Hushang. Kiyamars sent his army which included men and animals. Hushang, at the head of this army, went to the field of battle and defeated his father’s killer. The courageous prince returned to his grandfather and Kiyamars, whose reign had lasted thirty years, gave his throne to Hushang. After this, the first Emperor passed away. 
 </div>
