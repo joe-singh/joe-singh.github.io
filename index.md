@@ -29,8 +29,6 @@ Straits of Hormuz and Malacca (near both of which I have lived -- in Dubai and S
 In terms of having a life, I like playing basketball, and learning languages. I speak English Hindi, French, Persian, and Turkish. I am also always looking out for amazing 
 kebabs, so if you know where to get some or want to discuss physics, you can get in touch with me [here](mailto:joesingh@stanford.edu). 
 
-[TEST](./shahnameh_blog.md)
-
 # Publications
 
 * B. Aharmim et al. (SNO Collaboration), _Measurement of neutron production in atmospheric neutrino interactions at the Sudbury Neutrino Observatory_,
