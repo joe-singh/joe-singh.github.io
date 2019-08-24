@@ -11,3 +11,4 @@ the Shahnameh story by story. It also offers some commentary to try and parse th
 practice my Persian, I try to summarise what I was able to understand from the story as well as offer an English translation of my summary for anybody interested. 
 
 * [Chapter 1: *Dastan-e Kiyamars va Siyamak* (The Story of Kiyamars & Siyamak)](./shahnameh/yekom.md)
+* [Chapter 2: *Dastan-e Hushang, Tahmuras va Jamshid* (The Story of Hushang, Tahmuras, and Jamshid)](./shahnameh/dovvom.md) 
