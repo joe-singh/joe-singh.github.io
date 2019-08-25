@@ -26,7 +26,7 @@ lower mass DM targets. My work in particular has focused on the 0.1 - 1 GeV rang
 Outside of physics I'm interested in geopolitics and history. I particularly like to focus on the Indian Ocean region between the
 Straits of Hormuz and Malacca (near both of which I have lived -- in Dubai and Singapore) which has recently returned to its traditional importance. My historical interests are modern Europe and Perso-Turkic states of Central and South Asia.  
 
-In terms of having a life, I'm a huge basketball fan (go Dubs/Bears/Cardinal!)). I speak English Hindi, French, Persian, and Turkish. I am also always looking out for amazing 
+In terms of having a life, I'm a huge basketball fan (go Dubs/Bears/Cardinal!). I speak English Hindi, French, Persian, and Turkish. I am also always looking out for amazing 
 kebabs, so if you know where to get some or want to discuss physics, you can get in touch with me [here](mailto:joesingh@stanford.edu). 
 
 # Publications
