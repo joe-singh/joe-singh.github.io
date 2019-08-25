@@ -12,5 +12,5 @@ practice my Persian, I try to summarise what I am able to understand from the st
 
 Quick note: the â sound is pronounced like the au in aura. 
 
-* [Chapter 1: *Dastan-e Kiyamars va Siyamak* (The Story of Kiyamars & Siyamak)](./shahnameh/yekom.md)
-* [Chapter 2: *Dastan-e Hushang, Tahmuras va Jamshid* (The Story of Hushang, Tahmuras, and Jamshid)](./shahnameh/dovvom.md) 
+* [Chapter 1: *Dâstân-e Kiyâmars va Siyâmak* (The Story of Kiyamars & Siyamak)](./shahnameh/yekom.md)
+* [Chapter 2: *Dâstân-e Hushang, Tahmuras va Jamshid* (The Story of Hushang, Tahmuras, and Jamshid)](./shahnameh/dovvom.md) 
