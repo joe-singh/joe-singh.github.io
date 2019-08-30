@@ -32,8 +32,8 @@ Fereydun was born as the son of Abtin. His father fell into the trap of Zahhak�
 <br>
 <br>
 When Fereydun was sixteen years old he asked his mother about his father. She told him that his father was Abtin, grandson of Tahmuras <em>Divband</em>. Thus Fereydun was of the blood of Jamshid. After this Fereydun became angry and wanted revenge on Zahhak, but his mother counseled him to not view the world through the eyes of youth - Zahhak yet had a grand army that could destroy him.
-<em>
-<em>
+<br>
+<br>
 The Dragon King was always afraid of the threat of Fereydun and did not want that anyone support him. He called all the elders of his kingdom to his court and commanded them to sign a document and accept that he was the most just king. While the elders were sitting in his court a man of oppression entered and shouted “I am Kave the complainant!”. He complained about the abduction of youths for their brains and Zahhak granted him his son’s life in exchange for swearing the oath to him. In front of the court, Kave tore the document and threw it to the ground and left holding his son’s hand. All the elders were shocked and asked how the blacksmith could behave like this in front of the king. The Dragon King’s only answer was that there was fear throughout his being. 
 <br>
 <br>
