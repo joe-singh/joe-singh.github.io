@@ -23,7 +23,7 @@ experiment and detector analysis for its successor SNO+. My senior thesis focuse
 future liquid argon scintillator experiments. With Prof. Pyle I have been involved in detector R&D for the SuperCDMS experiment as it transitions to 
 lower mass DM targets. My work in particular has focused on the 0.1 - 1 GeV range. 
 
-Outside of physics I'm interested in geopolitics and history. I particularly like to focus on the Indian Ocean region 
+Outside of physics I'm interested in geopolitics and history. I particularly like to focus on the Indian Ocean region which 
 has recently returned to its traditional importance. My historical interests are modern Europe and Perso-Turkic states of Central and South Asia.  
 
 In terms of having a life, I'm a huge basketball fan (go Dubs/Bears/Cardinal!). I speak English Hindi, French, Persian, and Turkish. I am also always looking out for amazing 
