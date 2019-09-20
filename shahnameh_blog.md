@@ -14,4 +14,5 @@ Quick note: the â sound is pronounced like the au in aura.
 
 * [Chapter 1: *Dâstân-e Kiyâmars va Siyâmak* (The Story of Kiyamars & Siyamak)](./shahnameh/yekom.md)
 * [Chapter 2: *Dâstân-e Hushang, Tahmuras va Jamshid* (The Story of Hushang, Tahmuras, and Jamshid)](./shahnameh/dovvom.md) 
-* [Chapter 3: Chapter 3: *Dastan-e Zahhak, Fereydun va Kave-ye Ahangar* (The Story of Zahhak, Fereydun, and Kave the Blacksmith)](./shahnameh/sevvom.md) 
+* [Chapter 3: *Dastan-e Zahhak, Fereydun va Kave-ye Ahangar* (The Story of Zahhak, Fereydun, and Kave the Blacksmith)](./shahnameh/sevvom.md) 
+* [Chapter 4: *Dastan-e Nabard-e Fereydun va Zahhak* (The Story of the Battle of Fereydun and Zahhak) ](./shahnameh/chaharom.md) 
