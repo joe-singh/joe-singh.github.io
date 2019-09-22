@@ -24,7 +24,7 @@
 <br>
 ## Translation
 <div>
-Fereydun had two brothers and both were older than him. Their names were Katayun and Barmaye. Fereydun and his brothers gallopped to the blacksmiths’ market and commanded a costly and precious mace. The blacksmiths presented the world seeker with a costly mace made of a buffalo’s head and he was ready that the Kelah-e Mahi (crown of greatness?) return to him quickly. 
+Fereydun had two brothers and both were older than him. Their names were Katayun and Barmaye. Fereydun and his brothers gallopped to the blacksmiths’ market and commanded a costly and precious mace. The blacksmiths presented the world seeker with a costly mace made of a buffalo’s head and he was ready that the Crown of Greatness return to him quickly. 
 <br>
 <br>
 With mace and army he went towards Zahhak’s palace and arrived at a place of temples. There, his army gathered. At midnight a <em>Huri</em> with a face of beauty appeared before the brothers. That woman charmed the elder brothers but Fereydun knew that this was an act of God and that the woman did not come from the hand of Ahriman. Because of that woman’s magic, the elder brothers ran towards a tall mountain. There, they dug up rocks and dropped them to the earth that they fall on Fereydun’s head. Ketayun and Barmaye imagined their brother dead but the <em>Farr-e Yazidi</em> protected Fereydun and the rocks shriveled in the air. Even after the effect of the <em>Huri’s</em> spell had passed, Fereydun did not say anything about this to his brothers.
