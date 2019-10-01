@@ -15,8 +15,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <!--<img style="position:absolute; LEFT:78% " width="205" height="308" src="./goodpic.jpg"> -->
 I am an incoming physics PhD student at Stanford University interested in experimental high energy physics or cosmology.
-More specifically, my interests lie in neutrino experiments and dark matter searches. Recently, I have also developed an interest in 
-CMB cosmology due to the wealth of information the CMB contains about neutrinos and dark matter.  
+Currently, I am working in Prof. Giorgio Gratta's group as a rotation student in the effort to make [precision measurements of gravity at 
+the micron scale.](http://grattalab3.stanford.edu/neutrino/gravity/index.html) 
 
 I did my undergrad work at UC Berkeley with Prof. Gabriel Orebi Gann and Prof. Matt Pyle. Under Prof. Orebi Gann, I did data analysis for the SNO 
 experiment and detector analysis for its successor SNO+. My senior thesis focused on precision detection of vacuum ultraviolet (VUV) photons for
