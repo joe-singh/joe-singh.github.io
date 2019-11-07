@@ -28,6 +28,7 @@
 <br>
 <br>
 فریدون پاسخ‌های پسران خود را شنید و روی تخت گرانمیگی برنشست. به فرزندان گفت که اژدهایی که می‌خواست جهان را بسوزد پدرتان بود و بعد از این آزمایش زمان رسیده‌بود که فریدون آنها را بنامد. گفت - 
+<center>
 <br>
 <br>
 <br>توئي مهترین سلم نام تو باد
@@ -56,6 +57,7 @@
 <br>
 <br>اکنون ایرج اندرخور نام او
 <br>همه مهتری بود فرجام او
+</center>
 <br>
 <br>
 و هم به زنانشان اسم داد - زن سلم را کرد آرزو، زن تور آزاد و زن ایرج نیک پی را سهی. بعد از این اخترشناسی به پسران آمد و به آنها گفت که در طالع‌شان جنگ است و باید حاضر باشند. 
@@ -93,9 +95,10 @@ Fereydun went to welcome the sons but wanted again to test them. For this reason
 Fereydun heard the responses of his own sons and lounged on the throne of opulence. To the sons he said that the dragon that wanted to burn the world was your father and after this test the time had come that he name his sons. He said:
 <br>
 <br>
+<center>
 <em>
 You the eldest let Salm be your name.<br>
-Something something <br>
+To the universe be the scent of your desire<br>
 That you leapt to safety from the jaws of the crocodile <br>
 In escaping him you did not pause <br>
 <br>
@@ -103,7 +106,7 @@ In escaping him you did not pause <br>
 The middle one who from the beginning showed an arrow <br>
 Whose bravery grew from my fire <br>
 We shall call him Tur the brave lion <br>
-Something something<br>
+Where did he not bring down his live elephant<br>
 <br>
 <br>
 The smallest one of those men with jewel and battle<br>
@@ -111,10 +114,11 @@ Who is both with acceleration and with pause<br>
 From his territory he chose the fire of the middle one<br>
 Thus he built from the path of the observant<br>
 Brave and young and vigilant was he<br>
-Something something<br>
+In the universe maybe there is one who does not praise him<br>
 Now Iraj Andarkhor is his name<br>
 His conclusion the greatest
 </em>
+</center>
 <br>
 <br>
 And he also named their wives - Salm’s wife he made  rzu, Tur’s wife  zâd, and the wife of Iraj of good foundation Sahi. After this, an astrologer came to the sons and told them that in their future was a war and that they had to be ready. 
