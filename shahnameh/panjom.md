@@ -1,6 +1,6 @@
 # Chapter 5: *Dastan-e Pâdishâhi-ye Fereydun* (The Story of the Reign of Fereyduny)
 
-<div dir="rtf">
+<div dir="rtl">
 فریدون نشست بر تخت مهی و پادشاهی او پانصد سال طول کشید. مادرش فرانک اگاه نبود که فرزندش بادشاه جهان شده‌بود، سرانجام سر آمدند روزگار جادو‌ی بدی. فریدون از نژاد پیشدادی بود اما پادشاه همه‌ی جهان از چین تا روم بود. 
 <br>
 <br>
@@ -94,25 +94,25 @@ Fereydun heard the responses of his own sons and lounged on the throne of opulen
 <br>
 <br>
 <em>
-You the eldest let Salm be your name. 
-Something something
-That you leapt to safety from the jaws of the crocodile
-In escaping him you did not pause
+You the eldest let Salm be your name.<br>
+Something something <br>
+That you leapt to safety from the jaws of the crocodile <br>
+In escaping him you did not pause <br>
 <br>
 <br>
-The middle one who from the beginning showed an arrow
-Whose bravery grew from my fire
-We shall call him Tur the brave lion 
-Something something
+The middle one who from the beginning showed an arrow <br>
+Whose bravery grew from my fire <br>
+We shall call him Tur the brave lion <br>
+Something something<br>
 <br>
 <br>
-The smallest one of those men with jewel and battle
-Who is both with acceleration and with pause
-From his territory he chose the fire of the middle one
-Thus he built from the path of the observant
-Brave and young and vigilant was he
-Something something
-Now Iraj Andarkhor is his name
+The smallest one of those men with jewel and battle<br>
+Who is both with acceleration and with pause<br>
+From his territory he chose the fire of the middle one<br>
+Thus he built from the path of the observant<br>
+Brave and young and vigilant was he<br>
+Something something<br>
+Now Iraj Andarkhor is his name<br>
 His conclusion was the greatest
 </em>
 <br>
