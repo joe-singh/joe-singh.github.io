@@ -115,5 +115,5 @@ His conclusion the greatest
 </center>
 <br>
 <br>
-And he also named their wives - Salm’s wife he made  rzu, Tur’s wife  zâd, and the wife of Iraj of good foundation Sahi. After this, an astrologer came to the sons and told them that in their future was a war and that they had to be ready. 
+And he also named their wives - Salm’s wife he made  Ârzu, Tur’s wife  Âzâd, and the wife of Iraj of good foundation Sahi. After this, an astrologer came to the sons and told them that in their future was a war and that they had to be ready. 
 </div>
