@@ -1,4 +1,4 @@
-# Chapter 5: *Dastan-e Pâdishâhi-ye Fereydun* (The Story of the Reign of Fereyduny)
+# Chapter 5: *Dastan-e Pâdishâhi-ye Fereydun* (The Story of the Reign of Fereydun)
 
 <div dir="rtl">
 فریدون نشست بر تخت مهی و پادشاهی او پانصد سال طول کشید. مادرش فرانک اگاه نبود که فرزندش بادشاه جهان شده‌بود، سرانجام سر آمدند روزگار جادو‌ی بدی. فریدون از نژاد پیشدادی بود اما پادشاه همه‌ی جهان از چین تا روم بود. 
