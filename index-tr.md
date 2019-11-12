@@ -12,18 +12,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 --->
 # Kendim Hakkında
 
-Ben şu anda UC Berkeley'de fizik okuyan öğrenciyim. Sonbaharda Stanford Üniversitesi'nde doktorama başlayacağım. Doktoram ya parçacık fiziğinde ya da kozmolojinde
-olacak.   
+Ben Stanford Üniversitesi'nde öğrenciyim ve doktoramı yapıyorum. 
+Özellikle yüksek enerji fiziği ve kozmoloji aramalarıyla ilgilenirim. Şu anda Giorgio Gratta'nın grubuyla çalışıyorum ve biz [mikrometre 
+mesafelerde olan yerçekimini inceliyoruz](http://grattalab3.stanford.edu/neutrino/gravity/index.html).  
 
-Özellikle nötrino deneyleri ve karanlık madde aramalarıyla ilgilenirim. Son zamanlarda CMB kozmoljisiyla ilgilenmeye başladım çünkü CMB'de 
- nötrino ve karanlık madde hakkında çok fazla bilgi vardır. 
-
-Berkeley'de Profesör Gabriel Orebi Gann ve Profesör Matt Pyle ile araştırma yaptım. Prof. Orebi Gann'la SNO nötrino deneyi için veri analizi 
+Önce ben Berkeley'de okurdum ve Profesör Gabriel Orebi Gann ve Profesör Matt Pyle ile araştırma yaptım. Prof. Orebi Gann'la SNO nötrino deneyi için veri analizi 
 ve ondan sonra gelen SNO+ deneyi için detektör analizi yaptım. Tezim sıvı argon'u kullanan deneyler için 'vacuum ultraviolet' (VUV) fotonlarla 
 ilgilenecek. Prof. Pyle ile SuperCDMS deneyinin detektörü için ben araştırma ve geliştirme yapıyorum. Benim işim 0.1 ve 1 GeV arasındaki 
 karanlık maddeyle ilgileniyor. 
-
-Fizik dışında, ben okumayı, basketbolu, tarihi ve dil öğrenmeyi severim. Ben Hintçe, [İngilizce](./index.md), [Fransızca](./index-fr.md), ve Farsça biliyorum.  
 
 Bana [burada](mailto:joesingh@stanford.edu) ulaşabilirsiniz. 
 

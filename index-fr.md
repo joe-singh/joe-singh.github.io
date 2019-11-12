@@ -12,18 +12,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 --->
 # À Propos de Moi
 
-Je suis étudiant à UC Berkeley où j'étudie la physique. Dans l'automne, je commencerai mon doctorat à Stanford en soit la physique des particules soit la cosmologie. 
+Je suis étudiant en doctorat à Stanford qui s'intéresse à la physique des particules et la cosmologie. Maintentant je travaille avec Giorgio Gratta où nous
+tentons de faire des [mesures précises de la gravité pour les distances de micromètres](http://grattalab3.stanford.edu/neutrino/gravity/index.html).
 
-Plus précisément, je m'intéresse aux expériences du neutrino et aux recherches pour la matière noire. Récemment j'ai commencé de m'intéresser plus à la cosmologie du 
-CMB puisque le CMB contient beaucoup d'information sur les neutrinos et la matière noire.  
-
-J'ai fait de la recherche à Berkeley avec Prof. Gabriel Orebi Gann et Prof. Matt Pyle. Avec Prof. Orebi Gann, j'ai fait de l'analyse des données pour
+Auparavant, j'étais étudiant à UC Berkeley où j'ai fait de la recherche avec Prof. Gabriel Orebi Gann et Prof. Matt Pyle. Avec Prof. Orebi Gann, j'ai fait de l'analyse des données pour
 l'expérience SNO et de l'analyse du détecteur pour son successeur SNO+. Ma thèse se concentre sur la détection des photons vacuum ultraviolet (VUV) pour
 les expériences qui vont utiliser l'argon liquide dans l'avenir. Avec Prof.Pyle je me suis occupé de faire de la recherche et développement pour de nouveaux détecteurs
 pour l'expérience SuperCDMS pendant qu'elle commence de passer aux masses plus basses. Mon travail en particulier se base sur les masses entre 0.1 - 1 GeV. 
-
-Sauf la physique, j'aime lire, jouer au basket, l'histoire et apprendres des langues. Je parle couramment hindi et [anglais](./index.md) et j'ai une bonne connaissance 
-du persan et du [turc](./index-tr.md).  
 
 Vous pouvez me contacter [ici](mailto:joesingh@stanford.edu). 
 
