@@ -29,7 +29,7 @@ has recently returned to its traditional importance. My historical interests are
 In terms of having a life, I'm a huge basketball fan (go Dubs/Bears/Cardinal!). I am also always looking out for amazing 
 kebabs, so if you know where to get some or want to discuss physics, you can get in touch with me [here](mailto:joesingh@stanford.edu). 
 
-[Français](./index-fr.md),[Türkçe](./index-tr.md)
+[Français](./index-fr.md), [Türkçe](./index-tr.md)
 # Publications
 
 * B. Aharmim et al. (SNO Collaboration), _Measurement of neutron production in atmospheric neutrino interactions at the Sudbury Neutrino Observatory_,
