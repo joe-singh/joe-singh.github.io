@@ -21,7 +21,7 @@ Precedentemente ero a UC Berkeley dove ho fatto della ricerca con Prof. Matt Pyl
 Per Prof. Orebi Gann ho fatto analisi dei dati per l'esperimento SNO e delle analisi di rivelatore per il suo 
 successore SNO+. La mia tesi era sul rilevamento preciso dei fotoni ultravioletti da vuoto per gli esperimenti che usano 
 argon liquido. Con Prof. Pyle ho fatto della ricerca per nuovi rivelatori così che l'esperimento possa cercare le particelle di materia
-oscura che sono più leggere.
+oscura che sono più leggere tra 0.1-1 GeV.
  
 
 # Pubblicazioni
