@@ -23,7 +23,7 @@ successore SNO+. La mia tesi era sul rilevamento preciso dei fotoni ultraviolett
 argon liquido. Con Prof. Pyle ho fatto della ricerca per nuovi rivelatori così che l'esperimento possa cercare le particelle di materia
 oscura che sono più leggere (tra 0.1-1 GeV).
  
-Potete contattarmi [qui](mailto:joesingh@stanford.edu)
+Potete contattarmi [qui](mailto:joesingh@stanford.edu).
 
 # Pubblicazioni
 
