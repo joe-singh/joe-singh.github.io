@@ -15,25 +15,16 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <!--<img style="position:absolute; LEFT:78% " width="205" height="308" src="./goodpic.jpg"> -->
 Sono uno studente di dottorato a Stanford University chi si interessa della fisica delle particelle e la 
-cosmologia.
+cosmologia. Adesso lavoro con Giorgio Gratta e il suo esperimento che [misura la gravità per le distanze micrometriche](http://grattalab3.stanford.edu/neutrino/gravity/index.html). 
 
-I am a physics PhD student at Stanford University interested in experimental high energy physics or cosmology.
-Currently, I am working in Prof. Giorgio Gratta's group as a rotation student in the effort to make [precision measurements of gravity at 
-the micron scale.](http://grattalab3.stanford.edu/neutrino/gravity/index.html) 
+Precedentemente ero a UC Berkeley dove ho fatto della ricerca con Prof. Matt Pyle e Prof. Orebi Gann.
+Per Prof. Orebi Gann ho fatto analisi dei dati per l'esperimento SNO e delle analisi di rivelatore per il suo 
+successore SNO+. La mia tesi era sul rilevamento preciso dei fotoni ultravioletti da vuoto per gli esperimenti che usano 
+argon liquido. Con Prof. Pyle ho fatto della ricerca per nuovi rivelatori così che l'esperimento possa cercare le particelle di materia
+oscura che sono più leggere.
+ 
 
-I did my undergrad work at UC Berkeley with Prof. Gabriel Orebi Gann and Prof. Matt Pyle. Under Prof. Orebi Gann, I did data analysis for the SNO 
-experiment and detector analysis for its successor SNO+. My senior thesis focused on precision detection of vacuum ultraviolet (VUV) photons for
-future liquid argon scintillator experiments. With Prof. Pyle I have been involved in detector R&D for the SuperCDMS experiment as it transitions to 
-lower mass DM targets. My work in particular has focused on the 0.1 - 1 GeV range. 
-
-Outside of physics I'm interested in geopolitics and history. I particularly like to focus on the Indian Ocean region which 
-has recently returned to its traditional importance. My historical interests are modern Europe and Perso-Turkic states of Central and South Asia.  
-
-In terms of having a life, I'm a huge basketball fan (go Dubs/Bears/Cardinal!). I am also always looking out for amazing 
-kebabs, so if you know where to get some or want to discuss physics, you can get in touch with me [here](mailto:joesingh@stanford.edu). 
-
-[Français](./index-fr.md), [Türkçe](./index-tr.md)
-# Publications
+# Pubblicazioni
 
 * B. Aharmim et al. (SNO Collaboration), _Measurement of neutron production in atmospheric neutrino interactions at the Sudbury Neutrino Observatory_,
   [Phys. Rev. D 99, 112007 (2019)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.112007)
