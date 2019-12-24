@@ -1,4 +1,4 @@
-# *Shâhnâme Blog* 
+# *Shahname Blog* 
 
 Hello and welcome to my Shahnameh blog. As you might have read on the homepage, I'm quite interested in Turko-Persian history and so it's one of my longstanding goals
 to be able to read the Shahnameh in Persian. The [*Shahnameh*](https://en.wikipedia.org/wiki/Shahnameh) or Book of Kings was written by the poet Ferdowsi in the 
