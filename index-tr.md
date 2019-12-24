@@ -21,7 +21,9 @@ ve ondan sonra gelen SNO+ deneyi için detektör analizi yaptım. Tezim sıvı a
 ilgilenecek. Prof. Pyle ile SuperCDMS deneyinin detektörü için ben araştırma ve geliştirme yapıyorum. Benim işim 0.1 ve 1 GeV arasındaki 
 karanlık maddeyle ilgileniyor. 
 
-Bana [burada](mailto:joesingh@stanford.edu) ulaşabilirsiniz. 
+Berkeley'den önce ben Dubai ve Singapore'da yaşardım ve New Delhi'de doğdum. Basketbolu ve kitap okumayı çok severim, özellikle tarih ve jeopolitik kitapları. 
+Ben hep güzel kebaplar bulmaya çalışıyorum ve eğer onu nereden bulabileceğimi bilirseniz ya benimle fiziği konuşmak isterseniz  
+bana [burada](mailto:joesingh@stanford.edu) ulaşabilirsiniz. 
 
 
 # Yayınlar
