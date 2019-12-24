@@ -21,8 +21,8 @@ to extend these precision measurements to the Angstrom scale via neutron diffrac
 
 I did my undergrad work at UC Berkeley with Prof. Gabriel Orebi Gann and Prof. Matt Pyle. Under Prof. Orebi Gann, I did data analysis for the SNO 
 experiment and detector analysis for its successor SNO+. My senior thesis focused on precision detection of vacuum ultraviolet (VUV) photons for
-future liquid argon scintillator experiments. With Prof. Pyle I have been involved in detector R&D for the SuperCDMS experiment as it transitions to 
-lower mass DM targets. My work in particular has focused on the 0.1 - 1 GeV range. 
+future liquid argon scintillator experiments. With Prof. Pyle I was involved in detector R&D for the SuperCDMS experiment as it transitions to 
+lower mass DM targets. My work in particular focused on the 0.1 - 1 GeV range. 
 
 Prior to Berkeley, I was raised in Dubai and Singapore and born in New Delhi. I am a huge basketball fan and love reading, especially about history
 and geopolitics. I am also always looking out for amazing 
