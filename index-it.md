@@ -22,8 +22,10 @@ Per Prof. Orebi Gann ho fatto analisi dei dati per l'esperimento SNO e delle ana
 successore SNO+. La mia tesi era sul rilevamento preciso dei fotoni ultravioletti da vuoto per gli esperimenti che usano 
 argon liquido. Con Prof. Pyle ho fatto della ricerca per nuovi rivelatori così che l'esperimento possa cercare le particelle di materia
 oscura che sono più leggere (tra 0.1-1 GeV).
- 
-Potete contattarmi [qui](mailto:joesingh@stanford.edu).
+
+Prima di studiare a Berkeley, abitavo a Dubai e Singapore e sono nato a New Delhi. Sono un fan del basket e mi piace leggere, sopratutto i libri
+di storia e di geopolitica. Cerco sempre kebab fantastichi, e se sapete dove posso trovarne o volete discutere di fisica,
+potete contattarmi [qui](mailto:joesingh@stanford.edu).
 
 # Pubblicazioni
 
