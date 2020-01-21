@@ -19,7 +19,7 @@ of Pearls would serve the dual functions of entirely bypassing the Strait of Mal
 
  In addition to the Strait of Malacca, the Indian Ocean is also home to the volatile Strait of Hormuz on its western flank. Combined, these two straits witness the bulk of global energy flows and as such necessitate the naval presence of other distant players such as Britain and France. Add to this the fact that despite this resurgence of India and China, the US 5th and 7th fleets remain the dominant power in the region and it is clear how high the stakes are in the region.
 
-![Oil Flows](./oilflows.png) 
+![Oil Flows](./oilflows.jpeg) 
 {:.image-caption}
 *<center>Daily transit volume of oil in seven major checkpoints. Hormuz and Malacca are head and shoulders above the rest when it comes to how much oil goes through. From Luiz Romero/Quartz.</center>*
 
