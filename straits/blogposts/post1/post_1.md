@@ -12,14 +12,14 @@ The reemergence, as it would be more appropriately called, of the Indian Ocean�
 
  As we see, there is now a resurgence back to the norm, with India’s modest and China’s meteoric recovery. The two giants are beginning to reassert themselves on the global stage, with the Indian Ocean being a vital arena of competition. China has already invested heavily in many countries in the Indian Ocean littoral, examples constructing ports at Hambantota, Sri Lanka and more prominently Gwadar, Pakistan which some analysts speculate could be used as refueling depots for the Chinese Navy in the future. It is also of no small importance that roughly 80% of China’s energy imports come through the Strait of Malacca, and a strong naval presence is necessary to guarantee its energy security. Wary of the String of Pearls that China is wrapping around it in its own backyard, India has also ramped up its engagement in the region. This includes financing the Chahbahar port in Iran and becoming the first non UNSC nation to develop an indigenous submarine capable of launching ballistic missiles (the <em>Arihant</em> class submarine).
 
-![String of Pearls](./pearls.png)
+![String of Pearls](./pearls.jpeg)
 {:.image-caption} 
 *<center> A map of the Indian Ocean Region showing the String of Pearls (China's new red route). Note the strategic locations of Hambantota right at the tip of the new String of Pearls route and Gwadar on the western flank near the Strait of Hormuz. The String
 of Pearls would serve the dual functions of entirely bypassing the Strait of Malacca and constructing potentially militarisable installations at key locations in the region. Actual source unknown, but one of those rare occasions where Quora had actually useful information.</center>*
 
  In addition to the Strait of Malacca, the Indian Ocean is also home to the volatile Strait of Hormuz on its western flank. Combined, these two straits witness the bulk of global energy flows and as such necessitate the naval presence of other distant players such as Britain and France. Add to this the fact that despite this resurgence of India and China, the US 5th and 7th fleets remain the dominant power in the region and it is clear how high the stakes are in the region.
 
-![Oil Flows](./oilflows.jpeg) 
+![Oil Flows](./oilflows.png) 
 {:.image-caption}
 *<center>Daily transit volume of oil in seven major checkpoints. Hormuz and Malacca are head and shoulders above the rest when it comes to how much oil goes through. From Luiz Romero/Quartz.</center>*
 
