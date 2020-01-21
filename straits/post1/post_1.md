@@ -21,7 +21,7 @@ of Pearls would serve the dual functions of entirely bypassing the Strait of Mal
 
 ![Oil Flows](./oilflows.png) 
 {:.image-caption}
-*<center>Daily transit volume of oil in seven major checkpoints. Hormuz and Malacca are head and shoulders above the rest when it comes to how much oil goes through. From Luiz Romero/Quartz.</center>*
+*<center>Daily transit volume of oil in seven major checkpoints. Hormuz and Malacca are head and shoulders above the rest when it comes to how much oil goes through. From <a href="https://www.theatlas.com/charts/SymEHw_c-"Luiz Romero/Quartz>/a>.</center>*
 
 The Indian Ocean also finds itself at the forefront of another issue - climate change. The effects of climate change have begun to have a powerful impact on countries in the Indian Ocean littoral. Bangladesh, for instance, faces a critical threat from rising sea levels due to its low lying land. For the Maldives, the threat is even more acute. With 80% of its roughly 1200 islands within 1m of sea level, climate change could leave the entire country submerged by 2100. Climate change has already begun causing disruptions to India’s monsoon, which is absolutely vital to its agricultural sector which accounts for roughly 20% of GDP and 50% of employment. Indonesia’s capital Jakarta is essentially sinking in large part due to rising sea levels (and other factors such as over-extraction of groundwater), forcing the government to formulate proposals for relocating the seat of government. As the impacts of climate change become more apparent, they will manifest with full force in the Indian Ocean. 
 
