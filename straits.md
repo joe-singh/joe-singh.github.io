@@ -21,4 +21,4 @@ have come up with a great expression for this -- [The Geopolitical Recession](ht
 A quick note: Opinions expressed here are my own. I try to be factually correct but perfection is alas inevitable -- if I've got
 something wrong let me know by [email](mailto:joe_singh@hotmail.co.uk). 
 
-* [1 - The Indian Ocean Region](./straits/blogposts/post1/post_1.md)
+* [1 - The Indian Ocean Region](./straits//post1/post_1.md)
