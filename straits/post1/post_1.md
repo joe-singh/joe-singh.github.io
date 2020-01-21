@@ -15,7 +15,8 @@ The reemergence, as it would be more appropriately called, of the Indian Oceanâ€
 ![String of Pearls](./pearls.jpg)
 {:.image-caption} 
 *<center> A map of the Indian Ocean Region showing the String of Pearls (China's new red route). Note the strategic locations of Hambantota right at the tip of the new String of Pearls route and Gwadar on the western flank near the Strait of Hormuz. The String
-of Pearls would serve the dual functions of entirely bypassing the Strait of Malacca and constructing potentially militarisable installations at key locations in the region. Actual source unknown, but one of those rare occasions where Quora had actually useful information.</center>*
+of Pearls would serve the dual functions of entirely bypassing the Strait of Malacca and constructing potentially militarisable installations at key locations in the region. Actual source unknown, but one of those rare occasions where 
+<a href="https://www.quora.com/What-is-the-String-of-Pearls-theory-1">Quora actually had useful information</a>.</center>*
 
  In addition to the Strait of Malacca, the Indian Ocean is also home to the volatile Strait of Hormuz on its western flank. Combined, these two straits witness the bulk of global energy flows and as such necessitate the naval presence of other distant players such as Britain and France. Add to this the fact that despite this resurgence of India and China, the US 5th and 7th fleets remain the dominant power in the region and it is clear how high the stakes are in the region.
 
