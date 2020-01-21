@@ -25,4 +25,5 @@ and demonstrate how important the geo in geopolitics is.
 A quick note: Opinions expressed here are my own. I try to be factually correct but perfection is alas inevitable -- if I've got
 something wrong let me know by [email](mailto:joe_singh@hotmail.co.uk). 
 
+* [1 - YAYA TEST](./blogposts/post_1.md)
 * [16/08/2019 - Kashmir & Article 370: India's Tactical Blunder Which Will Be A Strategic Success](./blogposts/one.md)
