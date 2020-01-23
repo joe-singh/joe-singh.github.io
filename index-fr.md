@@ -13,7 +13,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # À Propos de Moi
 
 Je suis étudiant en doctorat à Stanford qui s'intéresse à la physique des particules et la cosmologie. Maintentant je travaille avec Giorgio Gratta où nous
-tentons de faire des [mesures précises de la gravité pour les distances de micromètres](http://grattalab3.stanford.edu/neutrino/gravity/index.html).
+tentons de [détecter la matière noire bosonique et fabriquer des capteurs quantiques qui peuvent échapper à la limite quantique standard.](https://irwinlab.sites.stanford.edu/) 
+
 
 Auparavant, j'étais étudiant à UC Berkeley où j'ai fait de la recherche avec Prof. Gabriel Orebi Gann et Prof. Matt Pyle. Avec Prof. Orebi Gann, j'ai fait de l'analyse des données pour
 l'expérience SNO et de l'analyse du détecteur pour son successeur SNO+. Ma thèse se concentre sur la détection des photons vacuum ultraviolet (VUV) pour

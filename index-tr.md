@@ -13,8 +13,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Kendim Hakkında
 
 Ben Stanford Üniversitesi'nde öğrenciyim ve doktoramı yapıyorum. 
-Özellikle yüksek enerji fiziği ve kozmoloji aramalarıyla ilgilenirim. Şu anda Giorgio Gratta'nın grubuyla çalışıyorum ve biz [mikrometre 
-mesafelerde olan yerçekimini inceliyoruz](http://grattalab3.stanford.edu/neutrino/gravity/index.html).  
+Özellikle yüksek enerji fiziği ve kozmoloji aramalarıyla ilgilenirim. Şu anda [Kent Irwin'in grubunda bosonic karanlık maddeyi bulmaya ve standart kuantum sınırını kaçınan yeni kuantum sensörleri
+yaratmaya çalışıyorum](https://irwinlab.sites.stanford.edu/)
 
 Önce ben Berkeley'de okurdum ve Profesör Gabriel Orebi Gann ve Profesör Matt Pyle ile araştırma yaptım. Prof. Orebi Gann'la SNO nötrino deneyi için veri analizi 
 ve ondan sonra gelen SNO+ deneyi için detektör analizi yaptım. Tezim sıvı argon'u kullanan deneyler için 'vacuum ultraviolet' (VUV) fotonlarla 

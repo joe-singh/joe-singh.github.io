@@ -15,7 +15,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <!--<img style="position:absolute; LEFT:78% " width="205" height="308" src="./goodpic.jpg"> -->
 Sono uno studente di dottorato a Stanford University chi si interessa della fisica delle particelle e la 
-cosmologia. Adesso lavoro con Giorgio Gratta e il suo esperimento che [misura la gravità per le distanze micrometriche](http://grattalab3.stanford.edu/neutrino/gravity/index.html). 
+cosmologia. Adesso lavoro con Kent Irwin per il suo esperimento che [cerca la materia oscura bosonica e fabbrichiamo anche sensori quantistichi che possono 
+evitare il limite quantico.](https://irwinlab.sites.stanford.edu/) 
+
 
 Precedentemente ero a UC Berkeley dove ho fatto della ricerca con Prof. Matt Pyle e Prof. Orebi Gann.
 Per Prof. Orebi Gann ho fatto analisi dei dati per l'esperimento SNO e delle analisi di rivelatore per il suo 
