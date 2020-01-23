@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 --->
 # À Propos de Moi
 
-Je suis étudiant en doctorat à Stanford qui s'intéresse à la physique des particules et la cosmologie. Maintentant je travaille avec Giorgio Gratta où nous
+Je suis étudiant en doctorat à Stanford qui s'intéresse à la physique des particules et la cosmologie. Maintentant je travaille avec Kent Irwin et nous
 tentons de [détecter la matière noire bosonique et fabriquer des capteurs quantiques qui peuvent échapper à la limite quantique standard.](https://irwinlab.sites.stanford.edu/) 
 
 
