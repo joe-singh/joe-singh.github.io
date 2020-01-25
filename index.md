@@ -16,8 +16,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <!--<img style="position:absolute; LEFT:78% " width="205" height="308" src="./goodpic.jpg"> -->
 I am a physics PhD student at Stanford University, 
 currently working in Prof. Kent Irwin's group as a rotation student in the effort to [detect bosonic dark matter and fabricate new quantum sensors that can 
-evade the Standard Quantum Limit.](https://irwinlab.sites.stanford.edu/) 
-
+evade the Standard Quantum Limit.](https://irwinlab.sites.stanford.edu/) <img align="right" src="./dp.jpg">
 I did my undergrad work at UC Berkeley with Prof. Gabriel Orebi Gann and Prof. Matt Pyle. Under Prof. Orebi Gann, I did data analysis for the SNO 
 experiment and detector analysis for its successor SNO+. My senior thesis focused on precision detection of vacuum ultraviolet (VUV) photons for
 future liquid argon scintillator experiments. With Prof. Pyle I was involved in detector R&D for the SuperCDMS experiment as it transitions to 
