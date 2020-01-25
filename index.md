@@ -24,10 +24,11 @@ future liquid argon scintillator experiments. With Prof. Pyle I was involved in 
 lower mass DM targets. My work in particular focused on the 0.1 - 1 GeV range. 
 
 Prior to Berkeley, I was raised in Dubai and Singapore and born in New Delhi. I am a huge basketball fan and love reading, especially about history
-and geopolitics. I am also always looking out for amazing 
+and geopolitics. When not doing any of the above, I am usually trying to learn a new language - I can speak 5 so far, and am currently trying to learn Latin
+as a stepping stone to Sanskrit.  I am also always looking out for amazing 
 kebabs, so if you know where to get some or want to discuss physics, you can get in touch with me [here](mailto:joesingh@stanford.edu). 
 
-[Français](./index-fr.md), [Türkçe](./index-tr.md), [Italiano](./index-it.md)
+View this page [en Français](./index-fr.md), [Türkçe](./index-tr.md), [in Italiano](./index-it.md)
 
 # Publications
 
