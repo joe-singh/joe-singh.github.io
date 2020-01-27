@@ -46,7 +46,7 @@ Up till now we have not made much distinction between 2 point and 3 point field 
 True Shooting Percentage. We use TS% This accounts for the fact that a 3 pointer is worth more and accordingly
 contributes more to the percentage:
 
-![fig2](./hobe/fig2.png)
+![fig2](./kobe/fig2.png)
 {:.image-caption}
 *<center>Kobe Bryant FGA vs TS%.</center>*
 
