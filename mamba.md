@@ -151,6 +151,7 @@ independent of each shot result before. The success of the Markov Chain model at
 average cold and hot times is also a strong indication of the validity of applying the Markov Property. Of course,
 this does not mean you should launch full court heaves regularly. The key lies in the right balance of confidence
 and good shot selection with shots taken in rhythm.
+
 The above is of course a strong statement, and most will immediately argue that anybody playing pickup can
 feel the effects of a hot hand. Of course, this work is not conclusive, and an immediate next step is to apply
 the same techniques to other prolific scorers such as Kareem Abdul- Jabbar, Michael Jordan, LeBron James, and
@@ -160,6 +161,7 @@ like Kobe would have a consistency between shots. That is to say his shot form i
 between shots. It is common basketball wisdom that the best shooters have extremely consistent shot forms and
 Kobe was no exception. Such factors that vary much more for the typical casual player than for a Hall of Fame
 scorer could have an impact on the independence of shots.
+
 Finally, however, these numbers could provide motivation to those who seem to always lack confidence on the
 court during games despite having a decent level of skill. The message appears to be that if one is confident
 and does not let past misses affect the psyche, they could potentially develop the same independence of shot
