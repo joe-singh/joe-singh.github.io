@@ -26,7 +26,7 @@ lower mass DM targets. My work in particular focused on the 0.1 - 1 GeV range.
 
 Prior to Berkeley, I was raised in Dubai and Singapore and born in New Delhi. I am a huge basketball fan and love reading, especially about history
 and geopolitics - watch me geek out over the Indian Ocean in my blog [<em>Ars Geopolitica</em>](./straits.md), or read my [Markov Chain analysis of
-Kobe Bryant's shooting](./straits.md) which ties Kobe's confidence to the Markov memoryless property.   
+Kobe Bryant's shooting](./straits.html) which ties Kobe's confidence to the Markov memoryless property.   
 
 When not doing any of the above, I am usually trying to learn a new language (nunc linguam Latinam disco!). I am also always looking out for amazing 
 kebabs, so if you know where to get some or want to discuss physics, you can get in touch with me [here](mailto:joesingh@stanford.edu). 
