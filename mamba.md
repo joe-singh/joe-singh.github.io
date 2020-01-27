@@ -75,7 +75,8 @@ there is a [Kaggle Dataset](https://www.kaggle.com/c/kobe-bryant-shot-selection)
 goals (not all since some data is omitted). In particular, the dataset contains 11466 attempts which come after a
 make, and 14232 which come after a miss. A simple manipulation yields the following probabilities:
 
-|         | After Make | After Miss |
-|---------|------------|------------|
-| P(make) | 0.4396     | 0.4514     |
-| P(miss) | 0.5603     | 0.5486     |
+|  | After Make | After Miss |
+|--------:|-----------:|-----------:|
+| P(make) | 0.4396 | 0.4514 | 
+| P(miss) | 0.5603 | 0.5486 |  
+|  |  |  |  
