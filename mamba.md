@@ -133,7 +133,9 @@ Where p = 0.4396, q = 0.5486 from the table above. π(0) and π(1) are the long 
 the miss and make states respectively. These, together with the normalisation condition (π(0) + π(1) = 1), yield the
 following:
 
+<p align="center">
 ![fig6](./kobe/fig6.png)
+</p>
 
 These numbers don’t appear too special, but compare 0.445, the long term probability of ending up in state 1,
 vs Kobe’s overall career percentage, 0.447, and we see that these two numbers are remarkably close. In fact, the
