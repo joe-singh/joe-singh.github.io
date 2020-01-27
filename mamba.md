@@ -134,7 +134,7 @@ the miss and make states respectively. These, together with the normalisation co
 following:
 
 <p align="center">
-![fig6](./kobe/fig6.png)
+<img srg="./kobe/fig6.png"/>
 </p>
 
 These numbers don’t appear too special, but compare 0.445, the long term probability of ending up in state 1,
