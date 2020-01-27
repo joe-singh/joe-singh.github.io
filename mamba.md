@@ -16,7 +16,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
   <title>In Mmeoriam: The Mamba Mentality & The Memoryless Property</title>
 </head>
 
-# The Mamba Mentality viewed as the Markov Property
+# An Application of the Stochastic Markov Property to the Mamba Mentality.
 
 Kobe Bryant capped off his Hall of Fame career by scoring 60 points against the Utah Jazz at home. He did so in
 exactly 50 field goal attempts. In this respect, that last game serves as a perfect microcosm of Kobe’s 20 seasons
