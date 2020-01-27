@@ -10,23 +10,15 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 --->
-# Ars Geopolitica - A Geopolitics Diary
+# The Mamba Mentality
 
-Welcome to a small corner of the internet where I stash my thoughts on what's happening in the world. It may sound
-cliché, but we do live in very interesting times. The post Cold War liberal world order is appearing to crack at the seams
-as longterm geopolitical trends, such as the backlash against globalisation and rise of China, come to maturity. The folks over at Eurasia Group
-have come up with a great expression for this -- [The Geopolitical Recession](https://www.eurasiagroup.net/issues/top-risks-2017). 
-
-In this uncertain time, the importance of geopolitics has made itself apparent once again. Here, I aim to outline some of the key trends
-that are taking place that shape the trajectory of global events, with particular focus on how geographical factors such influence 
-events. This blog was inspired in part due tio my having lived a majority of my life in the geopolitically central Indian Ocean region, and a 
-majority of that majority living right by the critical chokepoints at the Straits of Hormuz and Malacca, which allowed me to witness the impact of
-geopolitics up close. I have a particular soft spot for the Eurasian landmass (especially anything to do with the stans) 
-and the Indian Ocean, which I will spend most of my time writing about. I was finally driven to put my thoughts to words after a brief
-but insightful conversation with a retired four star admiral at the [Hoover Institution](https://www.hoover.org/), which illustrated the importance of a geostrategic mindset
-in tackling the challenges of the 21st century.  
-
-A quick note: Opinions expressed here are my own. I try to be factually correct but perfection is alas inevitable -- if I've got
-something wrong let me know by [email](mailto:joe_singh@hotmail.co.uk). 
-
-* [1 - The Most Important Ocean You Don't Hear Enough About](./straits//post1/post_1.md)
+Kobe Bryant capped off his Hall of Fame career by scoring 60 points against the Utah Jazz at home. He did so in
+exactly 50 field goal attempts. In this respect, that last game serves as a perfect microcosm of Kobe’s 20 seasons
+in the league; an elite scorer unmatched by anyone at his prime, and an unabashed gunslinger never hesitant to
+let it fly from almost anywhere on the court. It was no coincidence that Kobe was the highest volume perimeter
+shooter in the history of the game with 26200 attempts, surpassed only by elite inside players Karl Malone (26210)
+and Kareem Abdul-Jabbar (28307). It is, therefore, instructive to take a closer look at Kobe’s shot selection
+patterns and their results. In particular we will address the question of the hot hand, the idea that field goal
+percentage increases following a hot streak of made shots. Via a Markov Chain Model, we demonstrate that past
+shots had little notable effect on Kobe’s percentages. In this way, we argue that Kobe Bryant’s confidence was a
+manifestation of the memoryless property of his shooting.
