@@ -78,3 +78,97 @@ make, and 14232 which come after a miss. A simple manipulation yields the follow
 |:-------:|:----------:|:----------:|
 | P(make) | 0.4396 | 0.4514 | 
 | P(miss) | 0.5603 | 0.5486 |  
+{:.image-caption}
+*<center>Kobe Bryant's field goal percentages on shots that come after made and missed shots.</center>*
+
+The key use of our assumption is that now we can bound the errors on these probabilities. Using the Central
+Limit Theorem (those concerned with technicalities can find a calculation at the end), we get bounds of ±0.0092
+and ±0.0082 for P(make) and P(miss) at 95% confidence. So these
+estimated values are pretty solid, and comparing them to Kobe’s overall mark of pmake = .447 we see that they
+don’t differ significantly enough to suggest any major difference after makes or misses. They are both within the
+95% threshold meaning that they are sufficiently close to the overall percentages to be classed as good estimates
+for those percentages. Yet again, the gambler’s fallacy - recast as the hot (or cold) hand- doesn’t seem to survive
+closer scrutiny. Of course, while this analysis was very limited due to the Markov Property, others (see Gilovich, Cognitive Psychology 17, 295-314 (1985)) have conducted
+more thorough analyses which also dispute the existence of a hot hand.
+
+### Just for Fun: A Markov Chain Analysis
+
+![fig3](./kobe/fig3.png)
+{:.image-caption}
+*<center>A basic Markov Chain model for Kobe's shooting.</center>*
+Just for fun, since we have modeled Kobe’s shots with with a Markov model, let’s consider some Markov Chain
+type questions and see if they give us any new insights. One obvious question we may ask is that given that
+Kobe missed his first shot, how many shots will he take to make his first one. The stopping time equation here is
+exceedingly simple:
+
+![fig4](./kobe/eqn.png)
+
+Where q is the probability of a miss given a miss, 0.5486. Thus under this model, we would expect Kobe to take
+2.22 shots before his first make, if we know his first shot was a miss. Alternatively if his shot was a make, by the
+same analysis as above, just replacing q with p, we estimate that Kobe takes 1.78 shots before he misses.
+Are these results correct? We can employ a simple but fairly inelegant procedure to calculate these averages
+from the raw data. Simply take the array of shot data, and order the shots by game. We can then map game IDs
+to arrays containing the shot attempts in those games, and in these arrays we can simply start at every miss and
+see how many missed shots till the next make and then average this value over the game. Finally we average the
+averages over all the data. It must be remembered that our dataset isn’t complete, but since it uses 25699 out
+of the 26200 attempts of Kobe’s career, these actual numbers are very good estimates of the actual values. For
+brevity, let’s call the average number of attempts till a make starting from a miss the cold time and the average
+number of attempts till a miss starting from a make the hot time. Doing the procedure above gives the following
+results:
+
+ |  | Cold Time (# attempts) | Hot Time (# attempts) |
+ |:-------:|:----------:|:----------:|
+ | Actual | 2.21 | 1.83 |
+ | MC Prediction | 2.22 | 1.78 |
+
+The Markov Chain model results are again very close to the actual results.
+
+This Markov Chain is also special in that it is irreducible (we can get from any state in the graph to any other
+state) and aperiodic since it has self loops. So we can ask about the long term probability distribution of being in
+states Make and Miss. Let’s construct the balance equations:
+
+![fig5](./kobe/fig5.png)
+
+Where p = 0.4396, q = 0.5486 from the table above. π(0) and π(1) are the long term probabilities of ending up in
+the miss and make states respectively. These, together with the normalisation condition (π(0) + π(1) = 1), yield the
+following:
+
+![fig6](./kobe/fig6.png)
+
+These numbers don’t appear too special, but compare 0.445, the long term probability of ending up in state 1,
+vs Kobe’s overall career percentage, 0.447, and we see that these two numbers are remarkably close. In fact, the
+difference is well within the margin of error from the above CLT calculations. This supports the validity of the Markov Property
+assumption, since it produces almost exactly the long term result that we expect from Kobe's actual shooting data.
+
+### Conclusions: The Benefits of a Short Term Memory
+
+The league will need to wait for a while till it sees another gunslinger totally unperturbed by the prospect
+of jacking up 50 shots in his last game. However, as the above analysis of his shooting demonstrates, no matter
+what he felt mentally, there is concrete evidence to suggest that Kobe’s shot making followed the Markov property
+very closely - there was little to none hot or cold hand overall. The fact that the probabilities of a make given a
+miss or a make are so close to his overall field goal percentage strongly suggests that each shot result overall is
+independent of each shot result before. The success of the Markov Chain model at predicting the length of Kobe’s
+average cold and hot times is also a strong indication of the validity of applying the Markov Property. Of course,
+this does not mean you should launch full court heaves regularly. The key lies in the right balance of confidence
+and good shot selection with shots taken in rhythm.
+The above is of course a strong statement, and most will immediately argue that anybody playing pickup can
+feel the effects of a hot hand. Of course, this work is not conclusive, and an immediate next step is to apply
+the same techniques to other prolific scorers such as Kareem Abdul- Jabbar, Michael Jordan, LeBron James, and
+Kevin Durant among others. Nevertheless, the sheer volume of data analysed means that our conclusions can’t be
+disregarded just because of ‘feelings’. We may attempt to reconcile this observation by noting that an elite scorer
+like Kobe would have a consistency between shots. That is to say his shot form is unlikely to change too much
+between shots. It is common basketball wisdom that the best shooters have extremely consistent shot forms and
+Kobe was no exception. Such factors that vary much more for the typical casual player than for a Hall of Fame
+scorer could have an impact on the independence of shots.
+Finally, however, these numbers could provide motivation to those who seem to always lack confidence on the
+court during games despite having a decent level of skill. The message appears to be that if one is confident
+and does not let past misses affect the psyche, they could potentially develop the same independence of shot
+attempts that is apparent in Kobe’s career. The technical term for this in statistics is being memoryless, that
+is the outcome at some time is completely independent of what happened before. Kobe’s numbers back up his
+unabashed confidence and lack of hesitation in jacking up shots. Whether it contributed to or detracted from
+winning of course remains another matter - comparing stats like Win Shares vs FGA might be a good way to start
+thinking about that. Nevertheless, when it comes to sheer offensive production, any coach will say that there’s
+hardly any substitute to plenty of practice, rhythm, and confidence. Don’t be a ballhog on the hardwood, be a
+shooter. Ideally, a forgetful, memoryless shooter.
+
+
