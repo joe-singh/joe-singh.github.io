@@ -64,10 +64,9 @@ exists, its impact does not extend forever. This means that if past shots have a
 the most recent shots have the most important impact. In order to make this problem somewhat tractable, we
 further strengthen this assumption by arguing that Kobe’s shot making obeys the Markov Property, viz. the only
 shot with discernible impact on the present is the immediate shot before.
-Let X(i) be the random variable that is 1 if the i
-th shot is a make and 0 otherwise. The Markov Property allows
-us to claim that X(i+1)|X(i)
-is independent of X(i)|X(i−1). Now we aim to estimate the probabilities of makes and misses
+Let X(i) be the random variable that is 1 if shot number i is a make and 0 otherwise. The Markov Property allows
+us to claim that X(i+1) | X(i)
+is independent of X(i) | X(i−1). Now we aim to estimate the probabilities of makes and misses
 given the previous shot, pmake and pmiss.
 It is difficult to find shot tracking data for NBA players since the NBA clamped down on data scraping (the
 absence of which the NBA attributes to a SportVU glitch which has apparently lasted for over a year). Nevertheless,
@@ -75,8 +74,7 @@ there is a [Kaggle Dataset](https://www.kaggle.com/c/kobe-bryant-shot-selection)
 goals (not all since some data is omitted). In particular, the dataset contains 11466 attempts which come after a
 make, and 14232 which come after a miss. A simple manipulation yields the following probabilities:
 
-|  | After Make | After Miss |
-|--------:|-----------:|-----------:|
+|  | After Make | After Miss | 
+|:-------:|:----------:|:----------:|
 | P(make) | 0.4396 | 0.4514 | 
 | P(miss) | 0.5603 | 0.5486 |  
-|  |  |  |  
