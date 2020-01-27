@@ -57,20 +57,25 @@ less pronounced. At the very least, the numbers suggest that shooting a 3 did no
 of a hot hand. That is to say, shooting a 3 did not appear to enhance Kobe’s shooting much more than shooting
 a 2 did, suggesting that if the hot hand exists, it had a uniform impact over 2 point and 3 point field goals.
 
-## A Deeper Look at the Hot Hand
+### A Deeper Look at the Hot Hand
 The data doesn’t present a firm conclusion on the hot hand so far. To get more concrete results, we need to get
 a more concrete statistical model going. We will make one simplifying assumption, namely that if the hot hand
 exists, its impact does not extend forever. This means that if past shots have an impact on present shots, then
 the most recent shots have the most important impact. In order to make this problem somewhat tractable, we
 further strengthen this assumption by arguing that Kobe’s shot making obeys the Markov Property, viz. the only
 shot with discernible impact on the present is the immediate shot before.
-Let X<sub>i</sub> be the random variable that is 1 if the i
+Let X(i) be the random variable that is 1 if the i
 th shot is a make and 0 otherwise. The Markov Property allows
-us to claim that X<sub>i+1</sub>|X<sub>i</sub>
-is independent of X<sub>i</sub>|X<sub>i−1</sub>. Now we aim to estimate the probabilities of makes and misses
+us to claim that X(i+1)|X(i)
+is independent of X(i)|X(i−1). Now we aim to estimate the probabilities of makes and misses
 given the previous shot, pmake and pmiss.
 It is difficult to find shot tracking data for NBA players since the NBA clamped down on data scraping (the
 absence of which the NBA attributes to a SportVU glitch which has apparently lasted for over a year). Nevertheless,
-there is a Kaggle Dataset on Kobe Bryant’s Shot Selection that provides information on a large amount of his field
+there is a [Kaggle Dataset](https://www.kaggle.com/c/kobe-bryant-shot-selection) on Kobe Bryant’s Shot Selection that provides information on a large amount of his field
 goals (not all since some data is omitted). In particular, the dataset contains 11466 attempts which come after a
-make, and 14232 which come after a miss. A simple manipulation via Python yields the following probabilities:
+make, and 14232 which come after a miss. A simple manipulation yields the following probabilities:
+
+|         | After Make | After Miss |
+|---------|------------|------------|
+| P(make) | 0.4396     | 0.4514     |
+| P(miss) | 0.5603     | 0.5486     |
