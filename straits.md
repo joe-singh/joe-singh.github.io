@@ -18,11 +18,12 @@ as longterm geopolitical trends, such as the backlash against globalisation and 
 have come up with a great expression for this -- [The Geopolitical Recession](https://www.eurasiagroup.net/issues/top-risks-2017). 
 
 In this uncertain time, the importance of geopolitics has made itself apparent once again. Here, I aim to outline some of the key trends
-that are taking place that shape the trajectory of global events, with particular focus on how geographical factors such influence 
-events. This blog was inspired in part due to my having lived a majority of my life in the geopolitically central Indian Ocean region, and a 
+that shape the current trajectory of global events. Despite framing the context in which political decisions are made - particularly in the realm of foreign affairs - geopolitics remains 
+far less in everyday conversations than plain old politics. I hope to do my part to change that.  
+ 
+This blog was inspired by my having lived a majority of my life in the geopolitically important Indian Ocean region, and a 
 majority of that majority living right by the critical chokepoints at the Straits of Hormuz and Malacca, which allowed me to witness the impact of
-geopolitics up close. I have a particular soft spot for the Eurasian landmass (especially anything to do with the stans) 
-and the Indian Ocean, which I will spend most of my time writing about. I was finally driven to put my thoughts to words after a brief
+geopolitics up close. I was finally driven to put my thoughts to words after a brief
 but insightful conversation with a retired four star admiral at the [Hoover Institution](https://www.hoover.org/), which illustrated the importance of a geostrategic mindset
 in tackling the challenges of the 21st century.  
 
