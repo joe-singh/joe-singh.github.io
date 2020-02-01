@@ -9,7 +9,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 --->
-# *Ars Geopolitica* 
+# Ars Geopolitica - A Geopolitics Diary 
 
 Welcome to <em>Ars Geopolitica</em>, a small corner of the internet where I stash my thoughts on what's happening in the world. 
 The post Cold War liberal world order is appearing to crack at the seams
