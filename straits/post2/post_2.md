@@ -27,7 +27,7 @@ Notably, the distribution of countries signed up to BRI includes not only Eurasi
 
 The most important BRI initiatives however remain the ones in Eurasia. This is simply a statement of geopolitical fact as power projection over the supercontinent with the largest population and most contested spheres of influence (such as Central Asia, Middle East, and Southeast Asia) is the most critical priority for China to elevate its position vis-à-vis the US. The most prominent examples of BRI projects in Eurasia include the CPEC in Pakistan and the construction of ports along the Indian ocean to advance the Maritime Silk Road.
 
-[!BRI Map](https://www.researchgate.net/profile/Hui_Lu32/publication/327159506/figure/fig1/AS:662417193316353@1534943974512/Map-of-BRI-regions-and-projects.png)
+![BRI Map](https://www.researchgate.net/profile/Hui_Lu32/publication/327159506/figure/fig1/AS:662417193316353@1534943974512/Map-of-BRI-regions-and-projects.png)
 {:.image-caption}
 *<center>A map of China's Belt and Road Initiative, showing the Silk Road Economic Belt in orange and the Maritime Silk Road in blue. Note in particular the economic corridors through Pakistan and Myanmar that give China access
 to the Indian Ocean. Image from <a href="https://www.researchgate.net/figure/Map-of-BRI-regions-and-projects_fig1_327159506" Lu et al.</a></center>*
