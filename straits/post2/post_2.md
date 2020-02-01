@@ -46,21 +46,20 @@ In addition, the CPEC also includes various energy projects targeting coal and r
 
 In addition to Gwadar, China has invested extensively in ports along the Indian Ocean. These include investing in the Chittagong port in Bangladesh and constructing the port of Hambantota from scratch in Sri Lanka. Between 2015 and 2017, China has negotiated leases for the following ports:
 
-* Gwadar, Pakistan: 40 years
-* Kyaukpyu, Myanmar: 50 years
-* Kuantan, Malaysia: 60 years
-* Obock, Djibouti: 10 years
-* Malacca Gateway: 99 Years
-* Hambantota, Sri Lanka: 99 years
-* Muara, Brunei: 60 years
-* Feydhoo Finolhu, Maldives: 50 years
+1. Gwadar, Pakistan: 40 years
+2. Kyaukpyu, Myanmar: 50 years
+3. Kuantan, Malaysia: 60 years
+4. Obock, Djibouti: 10 years
+5. Hambantota, Sri Lanka: 99 years
+6. Muara, Brunei: 60 years
+7. Feydhoo Finolhu, Maldives: 50 years
 
 Putting this list onto a map helps explain China's thinking behind this strategy:
 
 ![Maritime Map](./pearls.png)
 {:.image-caption}
 *<center>The locations of the ports along the Indian Ocean and South China Sea that the Chinese have negotiated leases for. All of these ports have either been constructed by the Chinese or received significant Chinese financial
-backing.</center>* 
+backing. The numbering in the picture matches the numbering in the above list.</center>* 
 
 Seeing these on a map of the Indian Ocean, the Chinese strategy of reestablishing a maritime Silk Road becomes even more apparent. Of special note is Chinese presence in Djibouti, which is its first overseas military base and is 
 strategically located right by the Bab-el Mandeb strait. While not as critical as Hormuz or Malacca, Bab-el Mandeb is nevertheless important due to its role as the entry to the Red Sea and Gulf of Aqaba. It is worth making a quick mention here of the significant investment China is making in the whole of Africa, not just Djibouti. For example, China is financing in part the construction of Egypt’s new capital. Furthermore, the Mombasa-Nairobi Standard Gauge Railway (SGR) in Kenya, which at $3.6 billion is Kenya’s most expensive infrastructure project since investment, was built and is operated by Chinese companies (which hired 25000 Kenyan workers to actually build the railway). Therefore we see that on the broader Indian ocean front also China has begun to project both soft and hard power - the former in the form of economic assistance in building ports all along the Indian ocean and its extensive infrastructure development in Africa, and the latter as exemplified by its military base in Djibouti. 
