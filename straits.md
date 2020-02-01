@@ -1,4 +1,4 @@
-# Ars Geopolitica - A Geopolitics Diary 
+# *Ars Geopolitica* 
 
 Welcome to <em>Ars Geopolitica</em>, a small corner of the internet where I stash my thoughts on what's happening in the world. 
 The post Cold War liberal world order is appearing to crack at the seams
@@ -19,4 +19,4 @@ A quick note: Opinions expressed here are my own. I try to be factually correct 
 something wrong or not given credit properly somewhere, please let me know by [email](mailto:joe_singh@hotmail.co.uk). 
 
 1. [The Indian Ocean Strikes Back](./straits//post1/post_1.md)
-2.  [China's Modern Silk Road and The Revenge of History](./straits/post2/post_2.md)
+2. [China's Modern Silk Road and The Revenge of History](./straits/post2/post_2.md)
