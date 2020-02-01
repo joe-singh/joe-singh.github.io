@@ -27,10 +27,17 @@ Notably, the distribution of countries signed up to BRI includes not only Eurasi
 
 However, geopolitics dictates that the most important BRI projects remain those in Eurasia and along the Indian ocean littoral. Eurasia is home to the vast majority of the world's population and thus affords the largest potential for global integration. As it relates
 to Chinese prestige, Eurasia is also home to the most critical constested spheres of influence, such as the Middle East, Southeast Asia, and Central Asia. Gaining a foothold in these critical theatres will do much to enhance China's
-position vis-à-vis the United States and challenge its role as the global hegemon. The most prominent examples of Eurasian BRI projects include the CPEC in Pakistan and the wholesale construction of ports along the Indian ocean to
-advance the Maritime Silk road. 
+position vis-à-vis the United States and challenge its role as the global hegemon. The advance into Latin America, while a notable advance on the historical blueprint provided by the Han and Mongol Empires, is currently not as significant since Latin America remains a mostly uncontested US sphere of influence for the time being. Turning to Eurasia then, the most prominent examples of BRI projects include the CPEC in Pakistan and the wholesale construction of ports
+along the Indian ocean to advance the Maritime Silk road. 
 
 ![BRI Map](https://www.researchgate.net/profile/Hui_Lu32/publication/327159506/figure/fig1/AS:662417193316353@1534943974512/Map-of-BRI-regions-and-projects.png)
 {:.image-caption}
 *<center>A map of China's Belt and Road Initiative, showing the Silk Road Economic Belt in orange and the Maritime Silk Road in blue. Note in particular the economic corridors through Pakistan and Myanmar that give China access
 to the Indian Ocean. Image from <a href="https://www.researchgate.net/figure/Map-of-BRI-regions-and-projects_fig1_327159506"> Lu et al.</a></center>*
+
+The China-Pakistan Economic Corridor, or CPEC, is a major pillar of the overland Silk Road whereby China is investing extensively in transport and infrastructure projects in Pakistan. This includes a vast network of highways and railways that will replace Pakistan’s current dilapidated transport networks. The Karakoram Highway from Punjab to the Chinese border will be completely rebuilt, and its railway network will eventually be extended to join the Southern Xinjiang Railway in Kashgar - an oasis city which has been a transit point between Central and East Asia for centuries.
+
+![CPEC Map](https://foreignbrief.com/wp-content/uploads/2019/10/China-Pak-Econ-Corridor-Map.jpg)
+{:.image-caption}
+*<center>A detailed look at the network of CPEC transportation and energy projects. Note how the extensive network of highways leads from the Chinese border all the way to the Indian ocean. Also of interest is the diverse range
+of energy projects China is investing in, including coal and an assortment of renewables. Image from the <a href="https://foreignbrief.com/daily-news/prime-minister-imran-khan-will-meet-with-chinese-leaders-in-beijing-to-revive-the-cpec-project/"> Council on Foreign Relations.</a></center> 
