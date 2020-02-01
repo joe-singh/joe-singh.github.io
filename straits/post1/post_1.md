@@ -1,4 +1,4 @@
-# The Most Important Ocean You Don't Hear Enough About
+# The Indian Ocean Strikes Back 
 
 
 In 2018 the United States renamed its Pacific unified combatant command to the Indo-Pacific command. The greater emphasis on the Indian Ocean by the world’s preeminent maritime power was seen as a prudent response to a rapidly evolving global geopolitical context. Many have been wary of China’s stunning rise. President Trump has labeled it a ‘strategic competitor’, suggesting a degree of parity between the two unthinkable twenty years prior. While the Chinese dragon has roared along, the Indian elephant has slowly but surely also mounted its rise, becoming a critical counterweight to Beijing. As the dragon and the elephant jostle for influence in the Indian Ocean, elsewhere other factors such as energy flows through critical chokepoints like the straits of Hormuz and Malacca and the growing impact of climate change make the Indian Ocean the ground zero of the world’s geopolitical future.
