@@ -33,4 +33,4 @@ advance the Maritime Silk road.
 ![BRI Map](https://www.researchgate.net/profile/Hui_Lu32/publication/327159506/figure/fig1/AS:662417193316353@1534943974512/Map-of-BRI-regions-and-projects.png)
 {:.image-caption}
 *<center>A map of China's Belt and Road Initiative, showing the Silk Road Economic Belt in orange and the Maritime Silk Road in blue. Note in particular the economic corridors through Pakistan and Myanmar that give China access
-to the Indian Ocean. Image from <a href="https://www.researchgate.net/figure/Map-of-BRI-regions-and-projects_fig1_327159506" Lu et al.</a></center>*
+to the Indian Ocean. Image from <a href="https://www.researchgate.net/figure/Map-of-BRI-regions-and-projects_fig1_327159506"> Lu et al.</a></center>*
