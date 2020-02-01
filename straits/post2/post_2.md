@@ -41,3 +41,23 @@ The China-Pakistan Economic Corridor, or CPEC, is a major pillar of the overland
 {:.image-caption}
 *<center>A detailed look at the network of CPEC transportation and energy projects. Note how the extensive network of highways leads from the Chinese border all the way to the Indian ocean. Also of interest is the diverse range
 of energy projects China is investing in, including coal and an assortment of renewables. Image from the <a href="https://foreignbrief.com/daily-news/prime-minister-imran-khan-will-meet-with-chinese-leaders-in-beijing-to-revive-the-cpec-project/"> Council on Foreign Relations.</a></center>* 
+
+In addition, the CPEC also includes various energy projects targeting coal and renewable energy. Initially valued at $46 billion, as of 2017, the value of CPEC investments is at $62 billion. The initial figure of $46 billion was equivalent to the cumulative FDI into Pakistan since 1970 and was 17% of Pakistan’s 2015 GDP.  The CPEC has been considered analogous to the Marshall Plan in its impact on Pakistan’s economy and from its size relative to Pakistan’s economy it is no surprise why. Pakistani officials estimate that the CPEC will generate approximately 2 million jobs and add 2-2.5 percentage points to annual GDP growth. The CPEC culminates in the port of Gwadar that the Chinese are constructing on the Indian Ocean. This is absolutely vital, as it reveals the key benefit Beijing receives for its largesse - an alternate corridor to the Indian Ocean that bypasses the Strait of Malacca. This makes China less vulnerable should an adversary attempt to target it by blocking Malacca - through which 80% of China’s energy exports go currently. Therefore the CPEC gives a massive boost to the Pakistani economy, which enables it to engage in more trade with China, and creates an alternate channel for China’s energy imports. This explains the pragmatic value of the CPEC to Beijing, while the prestige boost that such a Marshall Plan-esque undertaking provides also cannot be understated, particularly if it succeeds. 
+
+In addition to Gwadar, China has invested extensively in ports along the Indian Ocean. These include investing in the Chittagong port in Bangladesh and constructing the port of Hambantota from scratch in Sri Lanka. Between 2015 and 2017, China has negotiated leases for the following ports:
+
+* Gwadar, Pakistan: 40 years
+* Kyaukpyu, Myanmar: 50 years
+* Kuantan, Malaysia: 60 years
+* Obock, Djibouti: 10 years
+* Malacca Gateway: 99 Years
+* Hambantota, Sri Lanka: 99 years
+* Muara, Brunei: 60 years
+* Feydhoo Finolhu, Maldives: 50 years
+
+Putting this list onto a map helps explain China's thinking behind this strategy:
+
+![Martime Map](./pearls.png)
+{:.image-caption}
+*<center>The locations of the ports along the Indian Ocean and South China Sea that the Chinese have negotiated leases for. All of these ports have either been constructed by the Chinese or received significant Chinese financial
+backing.</center>* 
