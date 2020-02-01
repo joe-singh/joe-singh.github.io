@@ -40,4 +40,4 @@ The China-Pakistan Economic Corridor, or CPEC, is a major pillar of the overland
 ![CPEC Map](https://foreignbrief.com/wp-content/uploads/2019/10/China-Pak-Econ-Corridor-Map.jpg)
 {:.image-caption}
 *<center>A detailed look at the network of CPEC transportation and energy projects. Note how the extensive network of highways leads from the Chinese border all the way to the Indian ocean. Also of interest is the diverse range
-of energy projects China is investing in, including coal and an assortment of renewables. Image from the <a href="https://foreignbrief.com/daily-news/prime-minister-imran-khan-will-meet-with-chinese-leaders-in-beijing-to-revive-the-cpec-project/"> Council on Foreign Relations.</a></center> 
+of energy projects China is investing in, including coal and an assortment of renewables. Image from the <a href="https://foreignbrief.com/daily-news/prime-minister-imran-khan-will-meet-with-chinese-leaders-in-beijing-to-revive-the-cpec-project/"> Council on Foreign Relations.</a></center>* 
