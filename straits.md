@@ -6,9 +6,9 @@ as longterm geopolitical trends, such as the backlash against globalisation and 
 have come up with a great expression for this -- [The Geopolitical Recession](https://www.eurasiagroup.net/issues/top-risks-2017). 
 
 In this uncertain time, the importance of geopolitics has made itself apparent once again. Here, I aim to outline some of the key trends
-that shape the current trajectory of global events. Despite framing the context in which political decisions are made - particularly in the realm of foreign affairs - geopolitics remains 
-far less in everyday conversations than plain old politics. I hope to do my part to change that.  
- 
+that shape the current trajectory of global events. Despite framing the context in which political decisions are made - particularly in the realm of foreign affairs - 
+geopolitics remains conspicuously absent from everyday conversations unlike plain old politics.	I hope to do my part to change that.
+
 This blog was inspired by my having lived a majority of my life in the geopolitically important Indian Ocean region, and a 
 majority of that majority living right by the critical chokepoints at the Straits of Hormuz and Malacca, which allowed me to witness the impact of
 geopolitics up close. I was finally driven to put my thoughts to words after a brief
