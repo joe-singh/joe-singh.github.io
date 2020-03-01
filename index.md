@@ -31,7 +31,7 @@ and geopolitics - watch me geek out over the Indian Ocean in my blog [<em>Ars Ge
 When not doing any of the above, I am usually trying to learn a new language (nunc linguam Latinam disco!). I am also always looking out for amazing 
 kebabs, so if you know where to get some or want to discuss physics, you can get in touch with me [here](mailto:joesingh@stanford.edu). 
 
-View this page [en Français](./index-fr.md), [Türkçe](./index-tr.md), [in Italiano](./index-it.md), [in lingua Latina](./index-lt.md) 
+View this page [en Français](./index-fr.md), [Türkçe](./index-tr.md), [in Italiano](./index-it.md), [Latine](./index-lt.md) 
 
 # Publications
 
