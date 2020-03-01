@@ -15,25 +15,19 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <!--<img style="position:absolute; LEFT:78% " width="205" height="308" src="./goodpic.jpg"> -->
 <img align="right" src="./dp.jpg" style="max-width:50%; border-radius:5%; padding-left: 10px;">
-I am a physics PhD student at Stanford University, 
-currently working in Prof. Kent Irwin's group as a rotation student in the effort to [detect bosonic dark matter and fabricate new quantum sensors that can 
-evade the Standard Quantum Limit.](https://irwinlab.sites.stanford.edu/)
 
-I did my undergrad work at UC Berkeley with Prof. Gabriel Orebi Gann and Prof. Matt Pyle. Under Prof. Orebi Gann, I did data analysis for the SNO 
-experiment and detector analysis for its successor SNO+. My senior thesis focused on precision detection of vacuum ultraviolet (VUV) photons for
-future liquid argon scintillator experiments. With Prof. Pyle I was involved in detector R&D for the SuperCDMS experiment as it transitions to 
-lower mass DM targets. My work in particular focused on the 0.1 - 1 GeV range. 
+In universitate Stanfordiensi discipulus physicae sum et cum Kent Irwine laboro.
+Nos[materiam nigram invenire et instrumenta quanta nova creare conamur.](https://irwinlab.sites.stanford.edu/)
 
-Prior to Berkeley, I was raised in Dubai and Singapore and born in New Delhi. I am a huge basketball fan (check out my [Markov Chain analysis of
-Kobe Bryant's shooting](./mamba.html) ) and love reading, especially about history
-and geopolitics - watch me geek out over the Indian Ocean in my blog [<em>Ars Geopolitica</em>](./straits.md). 
+Prius, in universitate Californiensi Berkeleiensi cum professoribus Matt Pyle Gabriel Orebi Gannque laborabam in experimentis SNO et SuperCDMS.
+Thesis mea de deprehensione photonum ultraviolacea pro experimentis futuris argoni liquidi erat. 
 
-When not doing any of the above, I am usually trying to learn a new language (nunc linguam Latinam disco!). I am also always looking out for amazing 
-kebabs, so if you know where to get some or want to discuss physics, you can get in touch with me [here](mailto:joesingh@stanford.edu). 
+Ante Berkeleiam, in Dubai Singapuraque habitabam et in Dellio Novo natus sum. Basketball mihi multo placet et libros historicos geopoliticosque 
+legere amo - blog meum [<em>Ars Geopolitica</em>](./straits.md) legite! Etiam, linguas novas discere et kebabes iucundos invenire semper conamur. 
 
-View this page [en Français](./index-fr.md), [Türkçe](./index-tr.md), [in Italiano](./index-it.md), [in lingua Latina](./index-lt.md) 
-
-# Publications
+Si loqui velitis, [huc](mailto:joesingh@stanford.edu) ad me email mittere potestis. 
+ 
+# Publicationes
 
 * B. Aharmim et al. (SNO Collaboration), _Measurement of neutron production in atmospheric neutrino interactions at the Sudbury Neutrino Observatory_,
   [Phys. Rev. D 99, 112007 (2019)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.112007)
