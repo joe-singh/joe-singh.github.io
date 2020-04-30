@@ -16,14 +16,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <!--<img style="position:absolute; LEFT:78% " width="205" height="308" src="./goodpic.jpg"> -->
 <img align="right" src="./dp.jpg" style="max-width:50%; border-radius:5%; padding-left: 10px;">
 
-In universitate Stanfordiensi discipulus physicae sum et cum Kent Irwine laboro.
-Nos [materiam nigram invenire et instrumenta quanta nova creare conamur.](https://irwinlab.sites.stanford.edu/)
+Salvete! Ego in universitate Stanfordiensi discipulus sum physicae et cum Kent Irwin laboro.
+Nos [materiam nigram invenire ac instrumenta quanta nova creare conamur.](https://irwinlab.sites.stanford.edu/)
 
 Prius, in universitate Californiensi Berkeleiensi cum professoribus Matt Pyle Gabriel Orebi Gannque laborabam in experimentis SNO et SuperCDMS.
-Thesis mea de deprehensione photonum ultraviolacea pro experimentis futuris argoni liquidi erat. 
+Thesis mea fuit de deprehensione photonum ultraviolacea pro experimentis futuris argoni liquidi. 
 
 Ante Berkeleiam, in Dubai Singapuraque habitabam et in Dellio Novo natus sum. Basketball mihi valde placet et libros historicos geopoliticosque 
-legere amo. Etiam, linguas novas discere et kebabes iucundos invenire semper conamur. 
+legere amo. Etiam, linguas novas discere et kebabes iucundos invenire semper conor. 
 
 Si loqui velitis, [huc](mailto:joesingh@stanford.edu) mihi email mittere potestis. 
  
