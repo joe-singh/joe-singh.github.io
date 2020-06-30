@@ -22,7 +22,7 @@ Nos [materiam nigram invenire ac instrumenta quanta nova creare conamur.](https:
 Prius, in universitate Californiensi Berkeleiensi cum professoribus Matt Pyle Gabriel Orebi Gannque laborabam in experimentis SNO et SuperCDMS.
 Thesis mea fuit de deprehensione photonum ultraviolacea pro experimentis futuris argoni liquidi. 
 
-Antequam Berkeleiam veni, in Dubai Singapuraque habitabam et in Dellio Novo natus sum. Basketball mihi valde placet et libros historicos geopoliticosque 
+Antequam Berkeleiam veni, Dubai Singapuraeque habitabam et Dellii Novi natus sum. Basketball mihi valde placet et libros historicos geopoliticosque 
 legere amo. Etiam linguas novas discere et kebabes iucundos invenire semper conor. 
 
 Si loqui velitis, [huc](mailto:joesingh@stanford.edu) mihi email mittere potestis. 
