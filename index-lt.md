@@ -15,17 +15,14 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <!--<img style="position:absolute; LEFT:78% " width="205" height="308" src="./goodpic.jpg"> -->
 <img align="right" src="./dp.jpg" style="max-width:50%; border-radius:5%; padding-left: 10px;">
+Salvete! Ego discipulus philosophiae doctoris physicae in Universitate Stanfordiensi sum. Nunc sub [Kent Irwin laboro](https://irwinlab.sites.stanford.edu/). Materiam nigram bosonicam invenire conamur instrumenta quantica nova fabricando.
 
-Salvete! Ego in universitate Stanfordiensi discipulus sum physicae et cum Kent Irwin laboro.
-Nos [materiam nigram invenire ac instrumenta quanta nova creare conamur.](https://irwinlab.sites.stanford.edu/)
+Prius discipulus Universitatis Californiensis Berekeleiensis fui, in qua sub professoribus Matt Pyle et Gabriel Orebi Gann laboravi pro experimentis SNO et SNO+ et SuperCDMS. Thesis mea fuit De Deprehensione Photonum Ultraviolacea Pro Experimentis Futuris Argoni Liquidi.
 
-Prius, in universitate Californiensi Berkeleiensi cum professoribus Matt Pyle Gabriel Orebi Gannque laborabam in experimentis SNO et SuperCDMS.
-Thesis mea fuit de deprehensione photonum ultraviolacea pro experimentis futuris argoni liquidi. 
+Antequam ad Civitates Foederatas veni, Dellii Novi natus sum et Dubai Singapuraeque habitabam. Canistriludium mihi valde placet et libros historicos geopoliticosque legere amo.
 
-Antequam Berkeleiam veni, Dubai Singapuraeque habitabam et Dellii Novi natus sum. Basketball mihi valde placet et libros historicos geopoliticosque 
-legere amo. Etiam linguas novas discere et kebabes iucundos invenire semper conor. 
-
-Si loqui velitis, [huc](mailto:joesingh@stanford.edu) mihi email mittere potestis. 
+Cum non has res facio, linguas novas discere conor. 
+Ego quoque semper kebabes iucundos quaero itaque si scitis unde eos invenire possum vel mecum loqui velitis [hic](mailto:joesingh@stanford.edu) ad me cursum electronicum mittere potestis. 
  
 # Publicationes
 
