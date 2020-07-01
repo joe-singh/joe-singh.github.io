@@ -17,7 +17,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <img align="right" src="./dp.jpg" style="max-width:50%; border-radius:5%; padding-left: 10px;">
 Salvete! Ego discipulus philosophiae doctoris physicae in Universitate Stanfordiensi sum. Nunc sub [Kent Irwin laboro](https://irwinlab.sites.stanford.edu/). Materiam nigram bosonicam invenire conamur instrumenta quantica nova fabricando.
 
-Prius discipulus Universitatis Californiensis Berekeleiensis fui, in qua sub professoribus Matt Pyle et Gabriel Orebi Gann laboravi pro experimentis SNO et SNO+ et SuperCDMS. Thesis mea fuit De Deprehensione Photonum Ultraviolacea Pro Experimentis Futuris Argoni Liquidi.
+Prius discipulus Universitatis Californiensis Berekeleiensis fui, in qua sub professoribus Matt Pyle et Gabriel Orebi Gann laboravi pro experimentis SNO et SNO+ et SuperCDMS. Thesis mea fuit <em>De Deprehensione Photonum Ultraviolacea Pro Experimentis Futuris Argoni Liquidi</em>.
 
 Antequam ad Civitates Foederatas veni, Dellii Novi natus sum et Dubai Singapuraeque habitabam. Canistriludium mihi valde placet et libros historicos geopoliticosque legere amo.
 
