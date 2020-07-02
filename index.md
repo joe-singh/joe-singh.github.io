@@ -28,7 +28,7 @@ Prior to Berkeley, I was raised in Dubai and Singapore and born in New Delhi. I 
 and geopolitics. 
 
 When not doing any of the above, I am usually trying to learn a new language. I am also always looking out for amazing 
-kebabs, so if you know where to get some or want to discuss physics, you can get in touch with me [here](mailto:joesingh@stanford.edu). 
+kebabs, so if you know where to get some or want to discuss physics, you can get in touch with me [here](mailto:joesingh@stanford.edu) 
 or follow me on Twitter.
 
 <a href="https://twitter.com/SinghJyotirmai?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @SinghJyotirmai</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
