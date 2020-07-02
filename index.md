@@ -31,7 +31,7 @@ When not doing any of the above, I am usually trying to learn a new language. I 
 kebabs, so if you know where to get some or want to discuss physics, you can get in touch with me [here](mailto:joesingh@stanford.edu) 
 or follow me on Twitter.
 
-View this page [en Français](./index-fr.md), [Türkçe](./index-tr.md), [Latine](./index-lt.md) <!--[in Italiano](./index-it.md), [Latine](./index-lt.md)--> 
+View this page [en Français](./index-fr.md), [in Italiano](./index-it.md), [Latine](./index-lt), [Türkçe](./index-tr.md) 
 
 # Publications
 
