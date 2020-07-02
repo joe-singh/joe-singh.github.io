@@ -31,8 +31,6 @@ When not doing any of the above, I am usually trying to learn a new language. I 
 kebabs, so if you know where to get some or want to discuss physics, you can get in touch with me [here](mailto:joesingh@stanford.edu) 
 or follow me on Twitter.
 
-<a href="https://twitter.com/SinghJyotirmai?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @SinghJyotirmai</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 View this page [en Français](./index-fr.md), [Türkçe](./index-tr.md), [in Italiano](./index-it.md), [Latine](./index-lt.md) 
 
 # Publications

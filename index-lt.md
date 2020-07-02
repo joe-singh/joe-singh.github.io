@@ -22,7 +22,7 @@ Prius discipulus Universitatis Californiensis Berekeleiensis fui, in qua sub pro
 Antequam ad Civitates Foederatas veni, Dellii Novi natus sum et Dubai Singapuraeque habitabam. Canistriludium mihi valde placet et libros historicos geopoliticosque legere amo.
 
 Cum non has res facio, linguas novas discere conor. 
-Ego quoque semper kebabes iucundos quaero itaque si scitis unde eos invenire possum vel mecum loqui velitis [hic](mailto:joesingh@stanford.edu) ad me cursum electronicum mittere potestis. 
+Ego quoque semper kebabes iucundos quaero itaque si scitis unde eos invenire possum vel mecum loqui velitis [hic](mailto:joesingh@stanford.edu) ad me cursum electronicum mittere potestis vel me sequi potestis super Twitter. 
  
 # Publicationes
 

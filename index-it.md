@@ -26,7 +26,7 @@ oscura che sono più leggere (tra 0.1-1 GeV).
 
 Prima di studiare a Berkeley, abitavo a Dubai e Singapore e sono nato a New Delhi. Sono un fan del basket e mi piace leggere, sopratutto i libri
 di storia e di geopolitica. Cerco sempre kebab fantastichi, e se sapete dove posso trovarne o volete discutere di fisica,
-potete contattarmi [qui](mailto:joesingh@stanford.edu).
+potete contattarmi [qui](mailto:joesingh@stanford.edu) o seguirmi su Twitter. 
 
 # Pubblicazioni
 
