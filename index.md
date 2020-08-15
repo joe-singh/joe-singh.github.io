@@ -33,6 +33,17 @@ or follow me on Twitter.
 
 View this page [en Français](./index-fr.md), [in Italiano](./index-it.md), [Latine](./index-lt), [Türkçe](./index-tr.md) 
 
+| वीर Masculine a-stem | Single | Dual | Plural |
+|:-:|:-:|:-:|:-:|
+| Nominative | वीर:<br>vīráḥ | वीरौ<br>vīraú | वीरा:<br>vīrā́ḥ |
+| Accusative | वीरम्<br>vīrám | वीरौ<br>vīraú | वीरान्<br>vīrā́n |
+| Instrumentative | वीरेण<br>vīréṇa |  वीराेेभ्याम्<br>vīrā́bhyām | वीरै:<br>vīraíḥ |
+| Dative | वीराय<br>vīrā́ya | वीराभ्याम्<br>vīrā́bhyām | वीरेभ्य:<br>vīrébhyaḥ |
+| Ablative | वीरात्<br>vīrā́t | वीराभ्याम्<br>vīrā́bhyām | वीरेभ्य:<br>vīrébhyaḥ |
+| Genitive | वीरस्य<br>vīrásya | वीयो:<br>vīráyoḥ | वीराणाम्<br>vīrā́ṇām |
+| Locative | वीरे<br>vīré | वीरयो:<br>vīráyoḥ | वीरेषु<br>vīréṣu |
+| Vocative | वीर<br>vī́ra | वीरौ<br>vīraú | वीरा:<br>vīrā́ḥ |
+
 # Publications
 
 * B. Aharmim et al. (SNO Collaboration), _Measurement of neutron production in atmospheric neutrino interactions at the Sudbury Neutrino Observatory_,
