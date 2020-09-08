@@ -13,6 +13,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # \*ph₂tḗr 
 
+<style>
+td {
+  font-size: 30px
+}
+</style>
+
 | Language | Nominative Singular | Accusative Singular |
 |:-:|:-:|:-:|
 | PIE | \*ph₂tḗr | \*ph₂térm̥ |
