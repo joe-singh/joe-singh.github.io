@@ -14,6 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 * [\*óynos (one)](./one.md)
 * [\*dwóh₁ (two)](./two.md)
+* [\*tréyes (three)](./three.md)
 
 <!---
 ## Header 2
