@@ -29,4 +29,4 @@ td {
 | **Greek**<br>Modern | τέσσερις<br>tésseris | τέσσερις<br>tésseris | τέσσερα<br>téssera |
 | **Latin**<br>100 BC | quattuor | quattuor | quattuor |
 | **French**<br>Modern | quatre | quatre | — |
-| **English**<br>Modern | four | four | — |`
+| **English**<br>Modern | four | four | — |
