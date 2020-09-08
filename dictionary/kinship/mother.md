@@ -9,13 +9,27 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
---->
-# Kinship 
+-->
 
-* [\*ph₂tḗr (father)](./father.md)
-* [\*méh₂tēr (mother)](./mother.md)
+# \*méh₂tēr 
 
+<style>
+td {
+  font-size: 20px
+}
+</style>
 
+| Language | Nominative Singular | Nominative Plural |
+|:-:|:-:|:-:|
+| PIE<br>4500-2500 BC | \*méh₂tēr | \*méh₂teres |
+| Sanskrit<br>1700-1100 BC  | माता<br>mā́tā | मातरः<br>mā́taraḥ |
+| Hindi<br>Modern | माता<br>mā́tā | माता<br>mā́tā |
+| Persian<br>Modern | مادر<br>mâdar | مادران<br>mâdarân |
+| Russian<br>Modern | ма́ть<br>mátʹ | ма́тери<br>máteri |
+| Greek<br>Modern | μητέρα<br>mitéra | μητέρες<br>mitéres |
+| Latin<br>100 BC | mater | matres |
+| French<br>Modern | mère | mères |
+| English<br>Modern | mother | mothers |
 
 <!---
 ## Header 2
@@ -42,7 +56,6 @@ end
 ```
 
 #### Header 4
-
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
