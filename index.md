@@ -33,7 +33,7 @@ or follow me on Twitter.
 
 View this page [en Français](./index-fr.md), [in Italiano](./index-it.md), [Latine](./index-lt), [Türkçe](./index-tr.md) 
 
-[Test](./test.md)
+[Test](./pie.md)
 
 <!--
 | वीर Masculine a-stem | Single | Dual | Plural |
