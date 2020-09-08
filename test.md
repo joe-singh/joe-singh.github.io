@@ -12,18 +12,19 @@ There should be whitespace between paragraphs. We recommend including a README, 
 -->
 # About Me
 
-## \*déh₃tōr 
+## \*ph₂tḗr 
 
-| वीर Masculine a-stem | Single | Dual | Plural |
+| Language | Nominative Singular | Accusative Singular |
 |:-:|:-:|:-:|:-:|
-| Nominative | वीर:<br>vīráḥ | वीरौ<br>vīraú | वीरा:<br>vīrā́ḥ |
-| Accusative | वीरम्<br>vīrám | वीरौ<br>vīraú | वीरान्<br>vīrā́n |
-| Instrumentative | वीरेण<br>vīréṇa |  वीराेेभ्याम्<br>vīrā́bhyām | वीरै:<br>vīraíḥ |
-| Dative | वीराय<br>vīrā́ya | वीराभ्याम्<br>vīrā́bhyām | वीरेभ्य:<br>vīrébhyaḥ |
-| Ablative | वीरात्<br>vīrā́t | वीराभ्याम्<br>vīrā́bhyām | वीरेभ्य:<br>vīrébhyaḥ |
-| Genitive | वीरस्य<br>vīrásya | वीयो:<br>vīráyoḥ | वीराणाम्<br>vīrā́ṇām |
-| Locative | वीरे<br>vīré | वीरयो:<br>vīráyoḥ | वीरेषु<br>vīréṣu |
-| Vocative | वीर<br>vī́ra | वीरौ<br>vīraú | वीरा:<br>vīrā́ḥ |
+| PIE | \*ph₂tḗr | \*ph₂térm̥ |
+| Sanskrit | पि ता <br>pitā́ |  पितरम् <br>pitáram |
+| Hindi | वीरेण<br>vīréṇa |  वीराेेभ्याम्<br>vīrā́bhyām | वीरै:<br>vīraíḥ |
+| Persian | वीराय<br>vīrā́ya | वीराभ्याम्<br>vīrā́bhyām | वीरेभ्य:<br>vīrébhyaḥ |
+| Russian | वीरात्<br>vīrā́t | वीराभ्याम्<br>vīrā́bhyām | वीरेभ्य:<br>vīrébhyaḥ |
+| Greek | वीरस्य<br>vīrásya | वीयो:<br>vīráyoḥ | वीराणाम्<br>vīrā́ṇām |
+| Latin | वीरे<br>vīré | वीरयो:<br>vīráyoḥ | वीरेषु<br>vīréṣu |
+| French | वीर<br>vī́ra | वीरौ<br>vīraú | वीरा:<br>vīrā́ḥ |
+| English | वीर<br>vī́ra | वीरौ<br>vīraú | वीरा:<br>vīrā́ḥ |
 
 <!---
 ## Header 2
@@ -50,7 +51,6 @@ end
 ```
 
 #### Header 4
-
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
