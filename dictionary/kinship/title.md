@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 * [\*ph₂tḗr (father)](./father.md)
 * [\*méh₂tēr (mother)](./mother.md)
-
+* [\*dʰugh₂tḗr (daughter)](./daughter.md)
 
 
 <!---
