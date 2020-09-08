@@ -12,9 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 --->
 # Indo-European Dictionary
 
-* <p2><a href='./dictionary/kinship/title.md'>Kinship</a></p2> 
-
-* [<h2>Kinship</h2>](./dictionary/kinship/title.md) 
+<h2><a href='./dictionary/kinship/title.md'>Kinship</a></h2> 
 
 
 
