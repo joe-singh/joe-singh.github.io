@@ -19,17 +19,17 @@ td {
 }
 </style>
 
-| Language | Nominative Singular | Accusative Singular |
+| Language | Nominative Singular | Nominative Plural |
 |:-:|:-:|:-:|
-| PIE | \*ph₂tḗr | \*ph₂térm̥ |
-| Sanskrit | पिता<br>pitā́ | पितरम्<br>pitáram |
+| PIE | \*ph₂tḗr | \*ph₂téres |
+| Sanskrit | पिता<br>pitā́ | पितरः<br>pitáraḥ |
 | Hindi | पिता<br>pitā́ | पिता<br>pitā́ |
-| Persian | پدر<br>pedar | – |
-| Russian | оте́ц <br>otéc (< PIE \*átta)  | отца́<br>otcá  |
-| Greek | πατέρας<br>patéras | πατέρα<br>patéra |
-| Latin | pater | patrem |
-| French | père | – |
-| English | father | – |
+| Persian | پدر<br>pedar | پدران<br>pedarân |
+| Russian | оте́ц <br>otéc (< PIE \*átta)  | отцы́<br>otcý |
+| Greek | πατέρας<br>patéras | πατέρες<br>patéres |
+| Latin | pater | patres |
+| French | père | pères |
+| English | father | fathers |
 
 <!---
 ## Header 2
