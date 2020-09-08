@@ -22,14 +22,14 @@ td {
 | Language | Nominative Singular | Nominative Plural |
 |:-:|:-:|:-:|
 | **PIE**<br>4500-2500 BC | \*méh₂tēr | \*méh₂teres |
-| Sanskrit<br>1700-1100 BC  | माता<br>mā́tā | मातरः<br>mā́taraḥ |
-| Hindi<br>Modern | माता<br>mā́tā | माता<br>mā́tā |
-| Persian<br>Modern | مادر<br>mâdar | مادران<br>mâdarân |
-| Russian<br>Modern | ма́ть<br>mátʹ | ма́тери<br>máteri |
-| Greek<br>Modern | μητέρα<br>mitéra | μητέρες<br>mitéres |
-| Latin<br>100 BC | mater | matres |
-| French<br>Modern | mère | mères |
-| English<br>Modern | mother | mothers |
+| **Sanskrit**<br>1700-1100 BC  | माता<br>mā́tā | मातरः<br>mā́taraḥ |
+| **Hindi**<br>Modern | माता<br>mā́tā | माता<br>mā́tā |
+| **Persian**<br>Modern | مادر<br>mâdar | مادران<br>mâdarân |
+| **Russian**<br>Modern | ма́ть<br>mátʹ | ма́тери<br>máteri |
+| **Greek**<br>Modern | μητέρα<br>mitéra | μητέρες<br>mitéres |
+| **Latin**<br>100 BC | mater | matres |
+| **French**<br>Modern | mère | mères |
+| **English**<br>Modern | mother | mothers |
 
 <!---
 ## Header 2
