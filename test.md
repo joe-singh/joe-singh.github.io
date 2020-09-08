@@ -18,7 +18,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 |:-:|:-:|:-:|:-:|
 | PIE | \*ph₂tḗr | \*ph₂térm̥ |
 | Sanskrit | पिता  <br>pitā́ |  पितरम् <br>pitáram |
-| Hindi | वीरेण<br>vīréṇa |  वीराेेभ्याम्<br>vīrā́bhyām | वीरै:<br>vīraíḥ |
+| Hindi | पिता  <br>pitā́ |  पितरम् <br>pitáram |
 | Persian | वीराय<br>vīrā́ya | वीराभ्याम्<br>vīrā́bhyām | वीरेभ्य:<br>vīrébhyaḥ |
 | Russian | वीरात्<br>vīrā́t | वीराभ्याम्<br>vīrā́bhyām | वीरेभ्य:<br>vīrébhyaḥ |
 | Greek | वीरस्य<br>vīrásya | वीयो:<br>vīráyoḥ | वीराणाम्<br>vīrā́ṇām |
