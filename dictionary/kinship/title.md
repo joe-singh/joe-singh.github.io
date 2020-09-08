@@ -17,6 +17,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 * [\*dʰugh₂tḗr (daughter)](./daughter.md)
 * [\*suh₁nús/\*suh₃yús (son)](./son.md)
 * [\*bʰréh₂tēr (brother)](./brother.md)
+* [\*swésōr (sister)](./sister.md)
 
 <!---
 ## Header 2
