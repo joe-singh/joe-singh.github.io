@@ -9,33 +9,27 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
---->
-# Indo-European Dictionary
-
-## Kinship 
-
-* [\*ph₂tḗr (father)](./dictionary/kinship/father.md)
-
-
-
-[Test](./test.md)
-
-<!--
-| वीर Masculine a-stem | Single | Dual | Plural |
-|:-:|:-:|:-:|:-:|
-| Nominative | वीर:<br>vīráḥ | वीरौ<br>vīraú | वीरा:<br>vīrā́ḥ |
-| Accusative | वीरम्<br>vīrám | वीरौ<br>vīraú | वीरान्<br>vīrā́n |
-| Instrumentative | वीरेण<br>vīréṇa |  वीराेेभ्याम्<br>vīrā́bhyām | वीरै:<br>vīraíḥ |
-| Dative | वीराय<br>vīrā́ya | वीराभ्याम्<br>vīrā́bhyām | वीरेभ्य:<br>vīrébhyaḥ |
-| Ablative | वीरात्<br>vīrā́t | वीराभ्याम्<br>vīrā́bhyām | वीरेभ्य:<br>vīrébhyaḥ |
-| Genitive | वीरस्य<br>vīrásya | वीयो:<br>vīráyoḥ | वीराणाम्<br>vīrā́ṇām |
-| Locative | वीरे<br>vīré | वीरयो:<br>vīráyoḥ | वीरेषु<br>vīréṣu |
-| Vocative | वीर<br>vī́ra | वीरौ<br>vīraú | वीरा:<br>vīrā́ḥ |
 -->
-# Publications
 
-* B. Aharmim et al. (SNO Collaboration), _Measurement of neutron production in atmospheric neutrino interactions at the Sudbury Neutrino Observatory_,
-  [Phys. Rev. D 99, 112007 (2019)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.112007)
+# \*ph₂tḗr 
+
+<style>
+td {
+  font-size: 20px
+}
+</style>
+
+| Language | Nominative Singular | Nominative Plural |
+|:-:|:-:|:-:|
+| PIE<br>4500-2500 BC | \*ph₂tḗr | \*ph₂téres |
+| Sanskrit<br>1700-1100 BC  | पिता<br>pitā́ | पितरः<br>pitáraḥ |
+| Hindi<br>Modern | पिता<br>pitā́ | पिता<br>pitā́ |
+| Persian<br>Modern | پدر<br>pedar | پدران<br>pedarân |
+| Russian<br>Modern | оте́ц <br>otéc (< PIE \*átta)  | отцы́<br>otcý |
+| Greek<br>Modern | πατέρας<br>patéras | πατέρες<br>patéres |
+| Latin<br>100 BC | pater | patres |
+| French<br>Modern | père | pères |
+| English<br>Modern | father | fathers |
 
 <!---
 ## Header 2
@@ -62,7 +56,6 @@ end
 ```
 
 #### Header 4
-
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
