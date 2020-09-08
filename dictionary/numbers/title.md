@@ -13,6 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Numbers 
 
 * [\*óynos (one)](./one.md)
+* [\*dwóh₁ (two)](./two.md)
 
 <!---
 ## Header 2
