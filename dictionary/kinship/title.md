@@ -10,9 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 --->
-# Indo-European Dictionary
+# Kinship 
 
-* [## Kinship](./dictionary/kinship/title.md) 
+* [\*ph₂tḗr (father)](./father.md)
 
 
 
