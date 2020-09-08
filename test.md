@@ -22,14 +22,14 @@ td {
 | Language | Nominative Singular | Nominative Plural |
 |:-:|:-:|:-:|
 | PIE | \*ph₂tḗr | \*ph₂téres |
-| Sanskrit | पिता<br>pitā́ | पितरः<br>pitáraḥ |
-| Hindi | पिता<br>pitā́ | पिता<br>pitā́ |
-| Persian | پدر<br>pedar | پدران<br>pedarân |
-| Russian | оте́ц <br>otéc (< PIE \*átta)  | отцы́<br>otcý |
-| Greek | πατέρας<br>patéras | πατέρες<br>patéres |
-| Latin | pater | patres |
-| French | père | pères |
-| English | father | fathers |
+| Sanskrit<br>1700-1100 BC  | पिता<br>pitā́ | पितरः<br>pitáraḥ |
+| Hindi<br>Modern | पिता<br>pitā́ | पिता<br>pitā́ |
+| Persian<br>Modern | پدر<br>pedar | پدران<br>pedarân |
+| Russian<br>Modern | оте́ц <br>otéc (< PIE \*átta)  | отцы́<br>otcý |
+| Greek<br>Modern | πατέρας<br>patéras | πατέρες<br>patéres |
+| Latin<br>100 BC | pater | patres |
+| French<br>Modern | père | pères |
+| English<br>Modern | father | fathers |
 
 <!---
 ## Header 2
