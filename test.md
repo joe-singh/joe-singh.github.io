@@ -17,7 +17,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 | Language | Nominative Singular | Accusative Singular |
 |:-:|:-:|:-:|:-:|
 | PIE | \*ph₂tḗr | \*ph₂térm̥ |
-| Sanskrit | पि ता <br>pitā́ |  पितरम् <br>pitáram |
+| Sanskrit | पिता  <br>pitā́ |  पितरम् <br>pitáram |
 | Hindi | वीरेण<br>vīréṇa |  वीराेेभ्याम्<br>vīrā́bhyām | वीरै:<br>vīraíḥ |
 | Persian | वीराय<br>vīrā́ya | वीराभ्याम्<br>vīrā́bhyām | वीरेभ्य:<br>vīrébhyaḥ |
 | Russian | वीरात्<br>vīrā́t | वीराभ्याम्<br>vīrā́bhyām | वीरेभ्य:<br>vīrébhyaḥ |
