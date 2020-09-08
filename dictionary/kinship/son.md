@@ -11,7 +11,7 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 -->
 
-# \*suh₁nús 
+# \*suh₁nús / \*suh₃yús  
 
 <style>
 td {
@@ -21,7 +21,7 @@ td {
 
 | Language | Nominative Singular | Nominative Plural |
 |:-:|:-:|:-:|
-| **PIE**<br>4500-2500 BC | \*suh₁nús/<br>\*suh₃yús | \*suh₁néwes |
+| **PIE**<br>4500-2500 BC | \*suh₁nús<br>\*suh₃yús | \*suh₁néwes |
 | **Sanskrit**<br>1700-1100 BC  | सूनुः<br>sūnúḥ | सूनवः<br>sūnávaḥ |
 | **Hindi**<br>Modern | बेटा<br>beṭā | बेटे<br>beṭe |
 | **Persian**<br>Modern | پسر<br>pesar | پسران<br>pesarân |
