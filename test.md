@@ -18,12 +18,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 | PIE | \*ph₂tḗr | \*ph₂térm̥ |
 | Sanskrit | पिता<br>pitā́ | पितरम्<br>pitáram |
 | Hindi | पिता<br>pitā́ | पिता<br>pitā́ |
-| Persian | پدر<br>pedar | - |
+| Persian | پدر<br>pedar | – |
 | Russian | оте́ц <br>otéc (< PIE \*átta)  | отца́<br>otcá  |
 | Greek | πατέρας<br>patéras | πατέρα<br>patéra |
 | Latin | pater | patrem |
-| French | père | - |
-| English | father | - |
+| French | père | – |
+| English | father | – |
 
 <!---
 ## Header 2
