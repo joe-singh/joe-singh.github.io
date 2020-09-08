@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 --->
 # Indo-European Dictionary
 
-* [## Kinship](./dictionary/kinship/title.md) 
+* [<h2>Kinship</h2>](./dictionary/kinship/title.md) 
 
 
 
