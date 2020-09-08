@@ -9,33 +9,11 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
---->
+-->
 # About Me
 
+## \*déh₃tōr 
 
-<!--<img style="position:absolute; LEFT:78% " width="205" height="308" src="./goodpic.jpg"> -->
-<img align="right" src="./dp.jpg" style="max-width:50%; border-radius:5%; padding-left: 10px;">
-I am a physics PhD student at Stanford University, 
-currently working in Prof. Kent Irwin's group in the effort to [detect bosonic dark matter and fabricate new quantum sensors that can 
-evade the Standard Quantum Limit.](https://irwinlab.sites.stanford.edu/) 
-
-I did my undergrad work at UC Berkeley with Prof. Gabriel Orebi Gann and Prof. Matt Pyle. Under Prof. Orebi Gann, I did data analysis for the SNO 
-experiment and detector analysis for its successor SNO+. My senior thesis focused on precision detection of vacuum ultraviolet (VUV) photons for
-future liquid argon scintillator experiments. With Prof. Pyle I was involved in detector R&D for the SuperCDMS experiment as it transitions to 
-lower mass DM targets. My work in particular focused on the 0.1 - 1 GeV range. 
-
-Prior to Berkeley, I was raised in Dubai and Singapore and born in New Delhi. I am a huge basketball fan and love reading, especially about history
-and geopolitics. 
-
-When not doing any of the above, I am usually trying to learn a new language. I am also always looking out for amazing 
-kebabs, so if you know where to get some or want to discuss physics, you can get in touch with me [here](mailto:joesingh@stanford.edu) 
-or follow me on Twitter.
-
-View this page [en Français](./index-fr.md), [in Italiano](./index-it.md), [Latine](./index-lt), [Türkçe](./index-tr.md) 
-
-[Test](./test.md)
-
-<!--
 | वीर Masculine a-stem | Single | Dual | Plural |
 |:-:|:-:|:-:|:-:|
 | Nominative | वीर:<br>vīráḥ | वीरौ<br>vīraú | वीरा:<br>vīrā́ḥ |
@@ -46,11 +24,6 @@ View this page [en Français](./index-fr.md), [in Italiano](./index-it.md), [Lat
 | Genitive | वीरस्य<br>vīrásya | वीयो:<br>vīráyoḥ | वीराणाम्<br>vīrā́ṇām |
 | Locative | वीरे<br>vīré | वीरयो:<br>vīráyoḥ | वीरेषु<br>vīréṣu |
 | Vocative | वीर<br>vī́ra | वीरौ<br>vīraú | वीरा:<br>vīrā́ḥ |
--->
-# Publications
-
-* B. Aharmim et al. (SNO Collaboration), _Measurement of neutron production in atmospheric neutrino interactions at the Sudbury Neutrino Observatory_,
-  [Phys. Rev. D 99, 112007 (2019)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.112007)
 
 <!---
 ## Header 2
