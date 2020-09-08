@@ -10,12 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 --->
-# Indo-European Dictionary
+# Numbers 
 
-<h2><a href='./dictionary/kinship/title.html'>Kinship</a></h2> 
-<h2><a href='./dictionary/kinship/title.html'>Numbers</a></h2>
-
-
+* [\*óynos (one)](./one.md)
 
 <!---
 ## Header 2
