@@ -21,7 +21,7 @@ td {
 
 | Language | Nominative Singular | Nominative Plural |
 |:-:|:-:|:-:|
-| PIE | \*ph₂tḗr | \*ph₂téres |
+| PIE<br>4500-2500 BC | \*ph₂tḗr | \*ph₂téres |
 | Sanskrit<br>1700-1100 BC  | पिता<br>pitā́ | पितरः<br>pitáraḥ |
 | Hindi<br>Modern | पिता<br>pitā́ | पिता<br>pitā́ |
 | Persian<br>Modern | پدر<br>pedar | پدران<br>pedarân |
