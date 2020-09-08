@@ -21,7 +21,7 @@ td {
 
 | Language | Nominative Singular | Nominative Plural |
 |:-:|:-:|:-:|
-| PIE<br>4500-2500 BC | \*méh₂tēr | \*méh₂teres |
+| **PIE**<br>4500-2500 BC | \*méh₂tēr | \*méh₂teres |
 | Sanskrit<br>1700-1100 BC  | माता<br>mā́tā | मातरः<br>mā́taraḥ |
 | Hindi<br>Modern | माता<br>mā́tā | माता<br>mā́tā |
 | Persian<br>Modern | مادر<br>mâdar | مادران<br>mâdarân |
