@@ -17,6 +17,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 * [\*tréyes (three)](./three.md)
 * [\*kʷetwóres (four)](./four.md)
 * [\*pénkʷe (five)](./five.md)
+* [\*swéḱs (six)](./six.md)
 
 <!---
 ## Header 2
