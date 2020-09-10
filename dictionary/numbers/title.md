@@ -27,6 +27,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 * [\*kʷétwr̥dḱomt (forty)](./forty.md)
 * [\*pénkʷedḱomt (fifty)](./fifty.md)
 * [\*swéḱsdḱomt (sixty)](./sixty.md)
+* [\*septḿ̥dḱomt (seventy)](./seventy.md)
 
 <!---
 ## Header 2
