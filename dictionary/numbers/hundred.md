@@ -22,7 +22,7 @@ td {
 | Language | Nominative | Centum/Satem |
 |:-:|:-:|:-:|
 | **PIE**<br>4500-2500 BC | \*ḱm̥tóm | — |
-| **Sanskrit**<br>1700-1100 BC  | शतम्<br><p style="color:red;">š</p>atam | Satem |
+| **Sanskrit**<br>1700-1100 BC  | शतम्<br>~~š~~atam | Satem |
 | **Hindi**<br>Modern | सौ<br>sau | Satem |
 | **Avestan**<br>1700-600 BC | 𐬯𐬀𐬙𐬀<br>sata | Satem |
 | **Persian**<br>Modern | صد<br>sad | Satem |
