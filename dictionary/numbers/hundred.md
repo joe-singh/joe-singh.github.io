@@ -22,12 +22,12 @@ td {
 | Language | Nominative | Centum/Satem |
 |:-:|:-:|:-:|
 | **PIE**<br>4500-2500 BC | \*ḱm̥tóm | — |
-| **Sanskrit**<br>1700-1100 BC  | शतम्<br>~~š~~atam | Satem |
-| **Hindi**<br>Modern | सौ<br>sau | Satem |
-| **Avestan**<br>1700-600 BC | 𐬯𐬀𐬙𐬀<br>sata | Satem |
-| **Persian**<br>Modern | صد<br>sad | Satem |
-| **Russian**<br>Modern | сто́<br>stó | Satem |
-| **Greek**<br>Modern | εκατό<br>ekató | Centum |
-| **Latin**<br>100 BC | centum | Centum |
-| **French**<br>Modern | cent | Centum |
-| **English**<br>Modern | hundred | Centum<br>[k]->[h] via<br>Grimm's Law |
+| **Sanskrit**<br>1700-1100 BC  | शतम्<br>**š**atam | Satem |
+| **Hindi**<br>Modern | सौ<br>si**s**au | Satem |
+| **Avestan**<br>1700-600 BC | 𐬯𐬀𐬙𐬀<br>**s**ata | Satem |
+| **Persian**<br>Modern | صد<br>**s**ad | Satem |
+| **Russian**<br>Modern | сто́<br>**s**tó | Satem |
+| **Greek**<br>Modern | εκατό<br>e**k**ató | Centum |
+| **Latin**<br>100 BC | **c**entum | Centum |
+| **French**<br>Modern | **c**ent | Centum |
+| **English**<br>Modern | **h**undred | Centum<br>[k]->[h] via<br>Grimm's Law |
