@@ -23,7 +23,7 @@ td {
 |:-:|:-:|:-:|
 | **PIE**<br>4500-2500 BC | \*ḱm̥tóm | — |
 | **Sanskrit**<br>1700-1100 BC  | शतम्<br><mark>š</mark>atam | Satem |
-| **Hindi**<br>Modern | सौ<br>si**s**au | Satem |
+| **Hindi**<br>Modern | सौ<br>s<span style="background-color: #ff000">s</span>au | Satem |
 | **Avestan**<br>1700-600 BC | 𐬯𐬀𐬙𐬀<br>**s**ata | Satem |
 | **Persian**<br>Modern | صد<br>**s**ad | Satem |
 | **Russian**<br>Modern | сто́<br>**s**tó | Satem |
