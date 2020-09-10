@@ -30,6 +30,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 * [\*septḿ̥dḱomt (seventy)](./seventy.md)
 * [\*oḱtódḱomt (eighty)](./eighty.md)
 * [\*néwn̥dḱomt (ninety)](./ninety.md)
+* [\*ḱm̥tóm (hundred): Centum-Satem Isogloss](./ninety.md)
 
 <!---
 ## Header 2
