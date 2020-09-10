@@ -23,6 +23,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 * [\*h₁néwn̥ (nine)](./nine.md)
 * [\*déḱm̥ (ten)](./ten.md)
 * [\*wídḱm̥ti (twenty)](./twenty.md)
+* [\*tridḱómt (thirty)](./thirty.md)
 
 <!---
 ## Header 2
