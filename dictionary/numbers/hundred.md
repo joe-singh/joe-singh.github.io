@@ -23,11 +23,11 @@ td {
 |:-:|:-:|:-:|
 | **PIE**<br>4500-2500 BC | \*ḱm̥tóm | — |
 | **Sanskrit**<br>1700-1100 BC  | शतम्<br><mark>š</mark>atam | Satem |
-| **Hindi**<br>Modern | सौ<br>s<span style="background-color: #ff000">s</span>au | Satem |
-| **Avestan**<br>1700-600 BC | 𐬯𐬀𐬙𐬀<br>**s**ata | Satem |
-| **Persian**<br>Modern | صد<br>**s**ad | Satem |
-| **Russian**<br>Modern | сто́<br>**s**tó | Satem |
-| **Greek**<br>Modern | εκατό<br>e**k**ató | Centum |
-| **Latin**<br>100 BC | **c**entum | Centum |
-| **French**<br>Modern | **c**ent | Centum |
-| **English**<br>Modern | **h**undred | Centum<br>[k]->[h] via<br>Grimm's Law |
+| **Hindi**<br>Modern | सौ<br>s<mark>s</mark>au | Satem |
+| **Avestan**<br>1700-600 BC | 𐬯𐬀𐬙𐬀<br><mark>s</mark>ata | Satem |
+| **Persian**<br>Modern | صد<br><mark>s</mark>ad | Satem |
+| **Russian**<br>Modern | сто́<br><mark>s</mark>tó | Satem |
+| **Greek**<br>Modern | εκατό<br>e<mark>k</mark>ató | Centum |
+| **Latin**<br>100 BC | <mark>c</mark>entum | Centum |
+| **French**<br>Modern | <mark>c</mark>ent | Centum |
+| **English**<br>Modern | <mark>h</mark>undred | Centum<br>[k]->[h] via<br>Grimm's Law |
