@@ -2,10 +2,10 @@
 
 Welcome to <em>Ars Geopolitica</em>, a small corner of the internet where I stash my thoughts on what's happening in the world. 
 The post Cold War liberal world order is appearing to crack at the seams
-as longterm geopolitical trends, such as the backlash against globalisation and rise of China, come to maturity. The folks over at Eurasia Group
-have come up with a great expression for this -- [The Geopolitical Recession](https://www.eurasiagroup.net/issues/top-risks-2017). 
+as longterm geopolitical trends, such as the backlash against globalisation and rise of China, come to maturity. The COVID crisis
+will simply accelerate the maturation of these trends.
 
-In this uncertain time, the importance of geopolitics has made itself apparent once again. Here, I aim to outline some of the key trends
+In this uncertain time, the importance of geopolitics is apparent once again. I aim to outline some of the key trends
 that shape the current trajectory of global events. Despite framing the context in which political decisions are made - particularly in the realm of foreign affairs - 
 geopolitics remains conspicuously absent from everyday conversations unlike plain old politics.	I hope to do my part to change that.
 
