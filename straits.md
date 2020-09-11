@@ -5,8 +5,8 @@ The post Cold War liberal world order is cracking at the seams
 as longterm geopolitical trends, such as the backlash against globalisation and rise of China, come to maturity. The COVID crisis
 has simply accelerated the maturation of these trends.
 
-In this uncertain time, the importance of geopolitics is apparent once again. I aim to outline some of the key trends
-that shape the current trajectory of global events. Despite framing the context in which political decisions are made - particularly in the realm of foreign affairs - 
+In this uncertain time, the importance of geopolitics is apparent once again. Despite technological advances, geography remains a fundamentail constraint on  
+what states can and cannot do. Despite framing the context in which political decisions are made - particularly in the realm of foreign affairs - 
 geopolitics remains conspicuously absent from everyday conversations unlike plain old politics.	I hope to do my part to change that.
 
 This blog was inspired by my having lived a majority of my life in the geopolitically important Indian Ocean region, and a 
