@@ -1,9 +1,9 @@
 # Ars Geopolitica - A Geopolitics Diary
 
-Welcome to <em>Ars Geopolitica</em>, a small corner of the internet where I stash my thoughts on what's happening in the world. 
-The post Cold War liberal world order is appearing to crack at the seams
+Welcome to <em>Ars Geopolitica</em>, a small corner of the internet where I take a break from physics and turn my attention to the broader world. 
+The post Cold War liberal world order is cracking at the seams
 as longterm geopolitical trends, such as the backlash against globalisation and rise of China, come to maturity. The COVID crisis
-will simply accelerate the maturation of these trends.
+has simply accelerated the maturation of these trends.
 
 In this uncertain time, the importance of geopolitics is apparent once again. I aim to outline some of the key trends
 that shape the current trajectory of global events. Despite framing the context in which political decisions are made - particularly in the realm of foreign affairs - 
