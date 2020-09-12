@@ -12,6 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 --->
 # Fundamental Verbs 
 
+* [\*h₂ṓws (ear)](./ear.md)
 * [\*h₃ókʷs (eye)](./eye.md)
 
 <!---
