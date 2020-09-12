@@ -15,6 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <h2><a href='./dictionary/kinship/title.html'>Family</a></h2> 
 <h2><a href='./dictionary/numbers/title.html'>Numbers</a></h2>
 <h2><a href='./dictionary/verbs/title.html'>Fundamental Verbs</a></h2>
+<h2><a href='./dictionary/body/title.html'>Body Parts</a></h2>
 
 
 
