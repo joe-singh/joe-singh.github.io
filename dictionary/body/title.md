@@ -20,6 +20,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 * [\*h₃ókʷs (eye)](./eye.md)
 * [\*ḱḗr (heart)](./heart.md)
 * [\*néh₂s (nose)](./nose.md)
+* [\*pṓds (foot)](./foot.md)
 
 <!---
 ## Header 2
