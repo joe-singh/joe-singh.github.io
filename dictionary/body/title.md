@@ -14,10 +14,10 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 * [\*ǵónu (knee)](./knee.md)
 * [\*h₁óh₃s (mouth)](./mouth.md)
+* [\*h₂óst (bone)](./bone.md)
 * [\*h₂ṓws (ear)](./ear.md)
 * [\*h₃dónts (tooth)](./tooth.md)
 * [\*h₃ókʷs (eye)](./eye.md)
-* [\*h₂óst (bone)](./bone.md)
 * [\*ḱḗr (heart)](./heart.md)
 
 <!---
