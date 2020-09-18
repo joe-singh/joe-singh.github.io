@@ -27,6 +27,6 @@ td {
 | **Persian**<br>Modern | دل<br>del | دل‌ها<br>delhâ |
 | **Russian**<br>Modern | се́рдце<br>sérdce | сердца́<br>serdcá |
 | **Greek**<br>Modern | καρδιά<br>kardiá | καρδιές<br>kardiés |
-| **Latin**<br>100 BC | cor | cordes |
+| **Latin**<br>100 BC | cor | corda |
 | **French**<br>Modern | cœur | cœurs |
 | **English**<br>Modern | heart | hearts |
