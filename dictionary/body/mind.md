@@ -26,7 +26,7 @@ td {
 | **Hindi**<br>Modern | मन<br>man | मन<br>man |
 | **Persian**<br>Modern | مغز<br>mağz | مغز‌ها<br>mağzhâ |
 | **Russian**<br>Modern | у́м<br>úm | умы́<br>umý |
-| **Greek**<br>Modern | μυαλό<br>myaló (AG menós) | μυαλά<br>myalá |
+| **Greek**<br>Modern | μυαλό<br>myaló<br>(AG menós) | μυαλά<br>myalá |
 | **Latin**<br>100 BC | mens | mentes |
 | **French**<br>Modern | esprit/tête<br>(cf. Italian, Spanish mente) | esprits/têtes<br>(It: menti, Sp: mentes) |
 | **English**<br>Modern | mind | minds |
