@@ -17,6 +17,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 * [\*h₂ṓws (ear)](./ear.md)
 * [\*h₃dónts (tooth)](./tooth.md)
 * [\*h₃ókʷs (eye)](./eye.md)
+* [\*h₂óst (bone)](./bone.md)
 
 <!---
 ## Header 2
