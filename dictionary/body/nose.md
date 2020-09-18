@@ -29,4 +29,4 @@ td {
 | **Greek**<br>Modern | μύτη<br>mýti | μύτες<br>mýtes |
 | **Latin**<br>100 BC | nasus | nasi |
 | **French**<br>Modern | nez | nez |
-| **English**<br>Modern | nose | nose |
+| **English**<br>Modern | nose | noses |
