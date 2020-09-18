@@ -24,7 +24,7 @@ td {
 | **PIE**<br>4500-2500 BC | \*h₃dónts | \*h₃dóntes |
 | **Sanskrit**<br>1700-1100 BC  | दन्तः<br>dántaḥ | दन्ताः<br>dántāḥ |
 | **Hindi**<br>Modern | दाँत<br>dānt | दाँत<br>dānt |
-| **Persian**<br>Modern | دندان<br>dandân | دندان<br>dandânhâ |
+| **Persian**<br>Modern | دندان<br>dandân | دندان‌ها<br>dandânhâ |
 | **Russian**<br>Modern | десна́<br>desná (meaning gums) | дёсны<br>djósny |
 | **Greek**<br>Modern | δόντι<br>dónti | δόντια<br> dóntia |
 | **Latin**<br>100 BC | dens | dentes |
