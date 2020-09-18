@@ -12,6 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 --->
 # Body Parts 
 
+* [\*ǵónu (knee)](./knee.md)
 * [\*h₁óh₃s (mouth)](./mouth.md)
 * [\*h₂ṓws (ear)](./ear.md)
 * [\*h₃dónts (tooth)](./tooth.md)
