@@ -28,5 +28,5 @@ td {
 | **Russian**<br>Modern | у́м<br>úm | умы́<br>umý |
 | **Greek**<br>Modern | μυαλό<br>myaló<br>(AG menós) | μυαλά<br>myalá |
 | **Latin**<br>100 BC | mens | mentes |
-| **French**<br>Modern | esprit/tête<br>(cf. Italian, Spanish mente) | esprits/têtes<br>(It: menti, Sp: mentes) |
+| **French**<br>Modern | esprit/tête<br>(Italian, Spanish mente) | esprits/têtes<br>(It: menti, Sp: mentes) |
 | **English**<br>Modern | mind | minds |
