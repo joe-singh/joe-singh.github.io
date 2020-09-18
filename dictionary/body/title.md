@@ -10,10 +10,11 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 --->
-# Fundamental Verbs 
+# Body Parts 
 
 * [\*h₁óh₃s (mouth)](./mouth.md)
 * [\*h₂ṓws (ear)](./ear.md)
+* [\*h₃dónts (tooth)](./tooth.md)
 * [\*h₃ókʷs (eye)](./eye.md)
 
 <!---
