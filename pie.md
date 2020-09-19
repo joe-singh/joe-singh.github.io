@@ -12,6 +12,11 @@ There should be whitespace between paragraphs. We recommend including a README, 
 --->
 # Indo-European Dictionary
 
+Abbreviations:
+
+* OP - Old Persian
+* AG - Ancient Greek
+
 <h2><a href='./dictionary/kinship/title.html'>Family</a></h2> 
 <h2><a href='./dictionary/numbers/title.html'>Numbers</a></h2>
 <h2><a href='./dictionary/verbs/title.html'>Fundamental Verbs</a></h2>
