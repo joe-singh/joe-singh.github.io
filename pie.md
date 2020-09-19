@@ -16,6 +16,8 @@ Abbreviations:
 
 * OP - Old Persian
 * AG - Ancient Greek
+* Fut - Future
+* < - Comes from 
 
 <h2><a href='./dictionary/kinship/title.html'>Family</a></h2> 
 <h2><a href='./dictionary/numbers/title.html'>Numbers</a></h2>

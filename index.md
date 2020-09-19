@@ -34,7 +34,6 @@ or follow me on Twitter.
 View this page [en Français](./index-fr.md), [in Italiano](./index-it.md), [Latine](./index-lt), [Türkçe](./index-tr.md) 
 
 [Test](./pie.html)
-
 <!--
 | वीर Masculine a-stem | Single | Dual | Plural |
 |:-:|:-:|:-:|:-:|
