@@ -23,7 +23,7 @@ pour l'expérience SuperCDMS pendant qu'elle commence de passer aux masses plus 
 
 Avant d'étudier à Berkeley, j'habitais à Dubai et Singapour et je suis né à New Delhi. Je suis fan de basket et j'aime lire, surtout les livres d'histoire ou de géopolitique. 
 Je cherche toujours des kebabs délicieux et si vous savez d'où je peux en trouver ou vous voulez discuter de physique 
-vous pouvez me contacter [ici](mailto:joesingh@stanford.edu) ou me suivre sur Twitter.  
+vous pouvez me contacter [ici](mailto:joesingh@stanford.edu) ou me suivre sur [Twitter](https://twitter.com/SinghJyotirmai).  
 
 
 # Publications
