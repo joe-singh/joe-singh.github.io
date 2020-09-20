@@ -22,7 +22,7 @@ ilgilenecek. Prof. Pyle ile SuperCDMS deneyinin detektörü için ben araştırm
 karanlık maddeyle ilgileniyor. 
 
 Berkeley'den önce ben Dubai ve Singapore'da yaşardım ve New Delhi'de doğdum. Basketbolu ve kitap okumayı çok severim, özellikle tarih ve jeopolitik kitapları. 
-Ben hep güzel kebaplar bulmaya çalışıyorum ve eğer onu nereden bulabileceğimi bilirseniz ya benimle fiziği konuşmak isterseniz  bana 
+Ben hep güzel kebaplar bulmaya çalışıyorum ve eğer onu nereden bulabileceğimi bilirseniz ya benimle fiziği konuşmak isterseniz bana 
 [burada](mailto:joesingh@stanford.edu) ulaşabilirsiniz yoksa beni [Twitter'de](https://twitter.com/SinghJyotirmai) takip edebilirsiniz. 
 
 
