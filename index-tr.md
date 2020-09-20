@@ -22,14 +22,15 @@ ilgilenecek. Prof. Pyle ile SuperCDMS deneyinin detektörü için ben araştırm
 karanlık maddeyle ilgileniyor. 
 
 Berkeley'den önce ben Dubai ve Singapore'da yaşardım ve New Delhi'de doğdum. Basketbolu ve kitap okumayı çok severim, özellikle tarih ve jeopolitik kitapları. 
-Ben hep güzel kebaplar bulmaya çalışıyorum ve eğer onu nereden bulabileceğimi bilirseniz ya benimle fiziği konuşmak isterseniz  
-bana [burada](mailto:joesingh@stanford.edu) ulaşabilirsiniz yoksa beni [Twitter'de](https://twitter.com/SinghJyotirmai) takip edebilirsiniz. 
+Ben hep güzel kebaplar bulmaya çalışıyorum ve eğer onu nereden bulabileceğimi bilirseniz ya benimle fiziği konuşmak isterseniz  bana 
+[burada](mailto:joesingh@stanford.edu) ulaşabilirsiniz yoksa beni [Twitter'de](https://twitter.com/SinghJyotirmai) takip edebilirsiniz. 
 
 
 # Yayınlar
 
 * B. Aharmim et al. (SNO Collaboration), _Measurement of neutron production in atmospheric neutrino interactions at the Sudbury Neutrino Observatory_,
   [Phys. Rev. D 99, 112007 (2019)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.112007)
+
 <!---
 ## Header 2
 
