@@ -11,7 +11,7 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 -->
 
-# \*suh₁nús / \*suh₃yús  
+# \*suh₁nús / \*suh₃yús (son) 
 
 <style>
 td {
