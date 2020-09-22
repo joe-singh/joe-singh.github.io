@@ -13,7 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Nature 
 
 * [\*h₂stḗr (star)](./star.md)
-* [\*sóh₂wl̥ (sun)](./star.md)
+* [\*sóh₂wl̥ (sun)](./sun.md)
 
 
 <!---
