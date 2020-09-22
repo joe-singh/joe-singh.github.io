@@ -10,21 +10,9 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 --->
-# Indo-European Dictionary
+# Nature 
 
-Abbreviations:
-
-* OP - Old Persian
-* AG - Ancient Greek
-* Fut - Future
-* < - Comes from 
-
-<h2><a href='./dictionary/kinship/title.html'>Family</a></h2> 
-<h2><a href='./dictionary/numbers/title.html'>Numbers</a></h2>
-<h2><a href='./dictionary/verbs/title.html'>Fundamental Verbs</a></h2>
-<h2><a href='./dictionary/body/title.html'>Body Parts</a></h2>
-<h2><a href='./dictionary/nature/title.html'>Nature</a></h2>
-
+* [\*h₂stḗr (star)](./star.md)
 
 
 <!---
