@@ -13,6 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Fundamental Verbs 
 
 * [\*dédeh₃ti (to give)](./give.md)
+* [\*h₁édti (to eat)](./eat.md)
 * [\*h₁ésti (to be)](./be.md)
 * [\*h₁éyti (to go)](./go.md)
 * [\*sísdeti (to sit)](./sit.md)
