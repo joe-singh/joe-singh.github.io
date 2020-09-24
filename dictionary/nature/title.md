@@ -18,6 +18,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 * [\*h₂wéh₁n̥ts (wind)](./wind.md)
 * [\*sóh₂wl̥ (sun)](./sun.md)
 * [\*wódr̥ / \*h₂ékʷeh₂ (water)](./water.md)
+* [\*wósr̥ (spring)](./spring.md)
 
 
 <!---
