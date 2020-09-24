@@ -15,6 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 * [\*dʰéǵʰōm (earth)](./earth.md)
 * [\*h₂stḗr (star)](./star.md)
 * [\*sóh₂wl̥ (sun)](./sun.md)
+* [\*wódr̥ / \*h₂ékʷeh₂ (water)](./water.md)
 
 
 <!---
