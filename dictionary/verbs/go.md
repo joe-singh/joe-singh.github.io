@@ -24,7 +24,7 @@ td {
 | **PIE**<br>4500-2500 BC | \*h₁éyti | \*h₁yénti |
 | **Sanskrit**<br>1700-1100 BC  | एति<br>eti | यन्ति<br>yanti |
 | **Hindi**<br>Modern | जाता है<br>jātā hai | जाते हैं<br>jāte ha͠i |
-| **Persian**<br>Modern | می‌رود<br>miravad<br>(OP ayti) | می‌روند<br>miravand |
+| **Persian**<br>Modern | می‌رود<br>miravad<br>(cf. OP ayti) | می‌روند<br>miravand |
 | **Russian**<br>Modern | идёт<br>idjót | иду́т<br>idút |
 | **Greek**<br>Modern | πηγαίνει<br>pigaínei<br>(AG eisi) | πηγαίνουν<br>pigaínoun<br>(AG íāsi) |
 | **Latin**<br>100 BC | it | eunt |
