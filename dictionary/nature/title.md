@@ -26,6 +26,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ## Seasons
 * [\*wósr̥ (spring)](./spring.md)
 * [\*semh₂- / \*gʷʰéros (summer)](./summer.md)
+* [\*sh₁es- (autumn)](./autumn.md)
 * [\*ǵʰéyōm (winter)](./winter.md)
 
 <!---
