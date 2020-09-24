@@ -12,12 +12,19 @@ There should be whitespace between paragraphs. We recommend including a README, 
 --->
 # Nature 
 
+## Terrestrial Objects
+
 * [\*dóru (tree)](./tree.md)
 * [\*dʰéǵʰōm (earth)](./earth.md)
-* [\*h₂stḗr (star)](./star.md)
 * [\*h₂wéh₁n̥ts (wind)](./wind.md)
-* [\*sóh₂wl̥ (sun)](./sun.md)
 * [\*wódr̥ / \*h₂ékʷeh₂ (water)](./water.md)
+
+## Celestial Objects
+* [\*h₂stḗr (star)](./star.md)
+* [\*sóh₂wl̥ (sun)](./sun.md)
+
+## Seasons
+* [\*\*ǵʰéyōm (winter)](./earth.md)
 * [\*wósr̥ (spring)](./spring.md)
 
 
