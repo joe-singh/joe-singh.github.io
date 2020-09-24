@@ -24,7 +24,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 * [\*sóh₂wl̥ (sun)](./sun.md)
 
 ## Seasons
-* [\*\*ǵʰéyōm (winter)](./earth.md)
+* [\*ǵʰéyōm (winter)](./winter.md)
 * [\*wósr̥ (spring)](./spring.md)
 
 
