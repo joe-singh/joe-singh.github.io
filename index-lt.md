@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 
 <!--<img style="position:absolute; LEFT:78% " width="205" height="308" src="./goodpic.jpg"> -->
-<img align="right" src="./dp.jpg" style="max-width:50%; border-radius:5%; padding-left: 10px;">
+<img align="right" src="./dp.jpg" style="max-width:40%; border-radius:5%; padding-left: 20px;">
 Salvete! Ego discipulus philosophiae doctoris physicae in Universitate Stanfordiensi sum. Nunc sub [Kent Irwin laboro](https://irwinlab.sites.stanford.edu/). Materiam nigram bosonicam invenire conamur instrumenta quantica nova quae finem quanticum evadent fabricando.
 
 Prius discipulus Universitatis Californiensis Berekeleiensis fui, in qua sub professoribus Matt Pyle et Gabriel Orebi Gann laboravi pro experimentis SNO et SNO+ et SuperCDMS. Thesis mea fuit <em>De Deprehensione Photonum Ultraviolacea Pro Experimentis Futuris Argoni Liquidi</em>.
