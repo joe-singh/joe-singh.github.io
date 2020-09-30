@@ -2,9 +2,13 @@
 
 <div class="straits">
 In 2018 the United States renamed its Pacific unified combatant command to the Indo-Pacific command. The greater emphasis on the Indian Ocean by the world’s preeminent maritime power was seen as a prudent response to a rapidly evolving global geopolitical context. Many have been wary of China’s stunning rise. President Trump has labeled it a ‘strategic competitor’, suggesting a degree of parity between the two unthinkable twenty years prior. While the Chinese dragon has roared along, the Indian elephant has slowly but surely also mounted its rise, becoming a critical counterweight to Beijing. As the dragon and the elephant jostle for influence in the Indian Ocean, elsewhere other factors such as energy flows through critical chokepoints like the straits of Hormuz and Malacca and the growing impact of climate change make the Indian Ocean the ground zero of the world’s geopolitical future.
- 	
+</div>
+
+ <div class="straits"> 	
 It would be very incorrect to believe that the Indian Ocean region has only just acquired an elevated importance. The German general and geographer Karl Haushofer identified the Indo-Pacific as a coherent entity in the 1920s in a work titled <em>Indopazifischen Raum</em>. Since antiquity, the Indian Ocean has been a critical hub of commerce and a fertile ground for the exchange of ideas. There was a bustling trade between Roman Egypt and the kingdoms of Southern India. Arabic traders served as vectors for the diffusion of not only goods, but also Islam and the ideas produced during its golden age around 1000 AD. Indian traders spread Buddhism and Indic culture, a display of soft power whose impact is still evident throughout South-East Asia. Together, these explain why Indonesia is the largest Islamic country in the world, yet has its Army, Navy, Air Force, and National Police mottos in Sanskrit, the liturgical language of Hinduism - a combination emblematic of what Robert Kaplan has called Indonesia’s “Tropical Islam”. The Chinese admiral Zheng He sailed his famous treasure ships (the largest wooden ships in recorded history) all the way to the Horn of Africa, engaging in power projection for the Ming Emperor throughout the region just as four star generals and their aircraft carriers would do for American Presidents five hundred years later.
- 
+ </div>
+
+ <div class="straits"> 
 The reemergence, of the Indian Ocean’s importance is directly correlated with the reemergence of the two Asian giants. Prior to India’s colonisation (traditionally taken to be near 1757, the Battle of Plassey) and the Chinese Century of Humiliation (traditionally marked by the First Opium War in 1839) the Asian giants contributed around 50% of global GDP. As they waned in strength and importance, so too did the Indian Ocean, which became a de facto British lake. 
 </div>
 
@@ -12,20 +16,25 @@ The reemergence, of the Indian Ocean’s importance is directly correlated with 
 <!--![GDP Innit](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/1_AD_to_2008_AD_trends_in_%25_GDP_contribution_by_major_economies_of_the_world.png/1920px-1_AD_to_2008_AD_trends_in_%25_GDP_contribution_by_major_economies_of_the_world.png)-->
 {:.image-caption}
 *<center>A (somewhat anachronistic) chart of countries/civilisations contributions to global economic output from AD 1 to now. Data from economic historian <a href="https://en.wikipedia.org/wiki/Angus_Maddison_statistics_of_the_ten_largest_economies_by_GDP_(PPP)">Angus Madison's estimates</a>.</center>* 
- <div class="straits">
+ 
+<div class="straits">
  As we see, there is now a resurgence back to the norm, with India’s modest and China’s meteoric recovery. The two giants are beginning to reassert themselves on the global stage, with the Indian Ocean being a vital arena of competition. China has already invested heavily in many countries in the Indian Ocean littoral, examples constructing ports at Hambantota, Sri Lanka and more prominently Gwadar, Pakistan which some analysts speculate could be used as refueling depots for the Chinese Navy in the future. It is also of no small importance that roughly 80% of China’s energy imports come through the Strait of Malacca, and a strong naval presence is necessary to guarantee its energy security. Wary of the String of Pearls that China is wrapping around it in its own backyard, India has also ramped up its engagement in the region. This includes financing the Chahbahar port in Iran and becoming the first non UNSC nation to develop an indigenous submarine capable of launching ballistic missiles (the <em>Arihant</em> class submarine).
 </div>
-![String of Pearls](./pearls.jpg)
+
+<div style="text-align:center"><img src="./pearls.jpg" /></div>
 {:.image-caption} 
 *<center> A map of the Indian Ocean Region showing the String of Pearls (China's new red route). Note the strategic locations of Hambantota right at the tip of the new String of Pearls route and Gwadar on the western flank near the Strait of Hormuz. The String
 of Pearls would serve the dual functions of entirely bypassing the Strait of Malacca and constructing potentially militarisable installations at key locations in the region. Actual source unknown, but one of those rare occasions where 
 <a href="https://www.quora.com/What-is-the-String-of-Pearls-theory-1">Quora actually had useful information</a>.</center>*
+
  <div class="straits">
  In addition to the Strait of Malacca, the Indian Ocean is also home to the volatile Strait of Hormuz on its western flank. Combined, these two straits witness the bulk of global energy flows and as such necessitate the naval presence of other distant players such as Britain and France. Add to this the fact that despite this resurgence of India and China, the US 5th and 7th fleets remain the dominant power in the region and it is clear how high the stakes are in the region.
 </div>
+
 ![Oil Flows](./oilflows.png) 
 {:.image-caption}
 *<center>Daily transit volume of oil in seven major checkpoints. Hormuz and Malacca are head and shoulders above the rest when it comes to how much oil goes through. From <a href="https://www.theatlas.com/charts/SymEHw_c-">Luiz Romero/Quartz</a>.</center>*
+
  <div class="straits">
 The Indian Ocean also finds itself at the forefront of another issue - climate change. The effects of climate change have begun to have a powerful impact on countries in the Indian Ocean littoral. Bangladesh, for instance, faces a critical threat from rising sea levels due to its low lying land. For the Maldives, the threat is even more acute. With 80% of its roughly 1200 islands within 1m of sea level, climate change could leave the entire country submerged by 2100. Climate change has already begun causing disruptions to India’s monsoon, which is absolutely vital to its agricultural sector which accounts for roughly 20% of GDP and 50% of employment. Indonesia’s capital Jakarta is essentially sinking in large part due to rising sea levels (and other factors such as over-extraction of groundwater), forcing the government to formulate proposals for relocating the seat of government. As the impacts of climate change become more apparent, they will manifest with full force in the Indian Ocean. 
 
