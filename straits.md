@@ -20,3 +20,4 @@ something wrong or not given credit properly somewhere, please let me know by [e
 
 1. [The Indian Ocean Strikes Back](./straits//post1/post_1.md)
 2. [China's Modern Silk Road](./straits/post2/post_2.md)
+3. [The Fragility of Separation of Powers](./straits/post3/post_3.md)
