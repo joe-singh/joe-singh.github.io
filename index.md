@@ -35,7 +35,7 @@ or follow me on [Twitter](https://twitter.com/SinghJyotirmai).
 
 View this page [en Français](./index-fr.md),  [Latine](./index-lt), [Türkçe](./index-tr.md) 
 
-[Test](./pie.html)
+[Test](./test.html)
 <!--
 | वीर Masculine a-stem | Single | Dual | Plural |
 |:-:|:-:|:-:|:-:|
