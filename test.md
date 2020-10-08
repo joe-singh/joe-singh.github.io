@@ -15,6 +15,7 @@ layout: default
   width: 50%;
   padding: 10px;
   height: 300px; /* Should be removed. Only for demonstration */
+  box-sizing: border-box;
 }
 
 /* Clear floats after the columns */
