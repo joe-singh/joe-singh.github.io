@@ -15,7 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <style>
 table {
-  border: 5px solid #000000;
+  border: 0px;
 }
 th {
   background: #FBFAF7;;
