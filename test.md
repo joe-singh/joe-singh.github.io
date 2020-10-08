@@ -31,10 +31,9 @@ layout: default
   }
 }
 </style>
-<body>
 
 <h2>Responsive Two Column Layout</h2>
-<p>Resize the browser window to see the responsive effect (the columns will stack on top of each other instead of floating next to each other, when the screen is less than 600px wide).</p>
+<p>Resize the browser window to see the responsive effect (the columns will stack on top of each other instead of floating next to each other, when the screen is less than 600px wide). YAAAAAAAAAAAAA</p>
 
 <div class="row">
   <div class="column" style="background-color:#aaa;">
@@ -46,7 +45,6 @@ layout: default
     <p>Some text..</p>
   </div>
 </div>
-</body>
 
 <!---
 # Rule 1
