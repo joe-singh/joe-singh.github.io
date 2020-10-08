@@ -23,6 +23,7 @@ th {
 td {
   font-size: 25px;
   background: #FBFAF7;
+  border: 1px solid black;
 }
 </style>
 
