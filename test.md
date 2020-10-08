@@ -14,6 +14,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Test Verse
 
 <style>
+th {
+  background: #FFFFFF;
+}
 td {
   font-size: 20px;
   background: #FFFFFF;
