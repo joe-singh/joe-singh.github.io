@@ -1,5 +1,4 @@
 ---
----
 layout: default
 ---
 <!---
@@ -12,7 +11,7 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 -->
 
-# Test Verse 
+# Test Verse
 
 <style>
 td {
@@ -20,8 +19,9 @@ td {
 }
 </style>
 
-| YAYAY | This is what this is |
+|  |  |
 |-|-|
+| this | tgat |
 
 
 <!---
