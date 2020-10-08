@@ -15,27 +15,27 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <!--<img style="position:absolute; LEFT:78% " width="205" height="308" src="./goodpic.jpg"> -->
 <img align="right" src="./dp.jpg" style="max-width:40%; border-radius:5%; padding-left: 20px;">
-I am a physics PhD student at Stanford University, 
-currently working in Prof. Kent Irwin's group in the effort to [detect bosonic dark matter and fabricate new quantum sensors that can 
-evade the Standard Quantum Limit.](https://irwinlab.sites.stanford.edu/) 
+I am a physics PhD student at Stanford University,
+currently working in Prof. Kent Irwin's group in the effort to [detect bosonic dark matter and fabricate new quantum sensors that can
+evade the Standard Quantum Limit.](https://irwinlab.sites.stanford.edu/)
 
-I did my undergrad work at UC Berkeley with Prof. Gabriel Orebi Gann and Prof. Matt Pyle. Under Prof. Orebi Gann, I did data analysis for the SNO 
+I did my undergrad work at UC Berkeley with Prof. Gabriel Orebi Gann and Prof. Matt Pyle. Under Prof. Orebi Gann, I did data analysis for the SNO
 experiment and detector analysis for its successor SNO+. My senior thesis focused on precision detection of vacuum ultraviolet (VUV) photons for
-future liquid argon scintillator experiments. With Prof. Pyle I was involved in detector R&D for the SuperCDMS experiment as it transitions to 
-lower mass DM targets. My work in particular focused on the 0.1 - 1 GeV range. 
+future liquid argon scintillator experiments. With Prof. Pyle I was involved in detector R&D for the SuperCDMS experiment as it transitions to
+lower mass DM targets. My work in particular focused on the 0.1 - 1 GeV range.
 
 Prior to Berkeley, I was raised in Dubai and Singapore and born in New Delhi. I am a huge basketball fan and love reading, especially about history
-and geopolitics. 
+and geopolitics.
 
 I am also very passionate about learning new languages. In addition to English and Hindi, which I speak fluently, I
-am conversant to fluent in French, Turkish, and Persian. Recently I've tried to extend into ancient languages with 
-Latin and Sanskrit. When not reading or declining nouns, I typically hunt for amazing 
-kebabs, so if you know where to get some or want to discuss physics, you can get in touch with me [here](mailto:joesingh@stanford.edu) 
+am conversant to fluent in French, Turkish, and Persian. Recently I've tried to extend into ancient languages with
+Latin and Sanskrit. When not reading or declining nouns, I typically hunt for amazing
+kebabs, so if you know where to get some or want to discuss physics, you can get in touch with me [here](mailto:joesingh@stanford.edu)
 or follow me on [Twitter](https://twitter.com/SinghJyotirmai).
 
-View this page [en Français](./index-fr.md),  [Latine](./index-lt), [Türkçe](./index-tr.md) 
+View this page [en Français](./index-fr.md),  [Latine](./index-lt), [Türkçe](./index-tr.md)
 
-[Test](./test.html)
+[Test](./columns.html)
 <!--
 | वीर Masculine a-stem | Single | Dual | Plural |
 |:-:|:-:|:-:|:-:|
