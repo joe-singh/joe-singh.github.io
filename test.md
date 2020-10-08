@@ -15,7 +15,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <style>
 td {
-  font-size: 20px
+  font-size: 20px;
+  background: #FFFFFF;
+
 }
 </style>
 
