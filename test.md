@@ -27,16 +27,17 @@ td {
 }
 </style>
 
-<p style="text-align:center">
+<h2 style="text-align:center">
 धृतराष्ट्र उवाच ।
-धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।
+धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः । <br>
 मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ।।१।।
-</p>
+</h2>
 
 | Sanskrit | Analysis |
 |:-:|:-:|
-|       धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः\।<br>dharma-kṣhetre kuru-kṣhetre samavetā yuyutsavaḥ      | tgat |
-|  मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय \।\।1\।\।<br>māmakāḥ pāṇḍavāśhchaiva kimakurvata sañjaya  | ANALYSIS ANALYSIS |
+|       धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः।<br>dharma-kṣhetre kuru-kṣhetre samavetā yuyutsavaḥ      | tgat |
+|  मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ।।१।।<br>māmakāḥ pāṇḍavāśhchaiva kimakurvata sañjaya  | ANALYSIS ANALYSIS |
+| Dhritarashtra said: <br>O Sanjay, gathered on the field of Dharma, the field of the Kurus <br>Desiring to fight, <br>what did my sons and the sons of Pandu do? |  |
 
 Dhritarashtra said:
 Dhritarashtra said: O Sanjay, after gathering on the holy field of Kurukshetra,
