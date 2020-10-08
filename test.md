@@ -2,12 +2,15 @@
 layout: default
 ---
 
+| YAYAY | This is what this is |
+|-|-|
 
-<!---<meta name="viewport" content="width=device-width, initial-scale=1">--->
+<!---
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-<!---* {
+* {
   box-sizing: border-box;
-}--->
+}
 
 /* Create two equal columns that floats next to each other */
 .column {
@@ -49,7 +52,7 @@ layout: default
     <p>Some text..</p>
   </div>
 </div>
-
+--->
 <!---
 # Rule 1
 Description for rule 1.
