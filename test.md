@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<!---<meta name="viewport" content="width=device-width, initial-scale=1">--->
 <style>
 * {
   box-sizing: border-box;
@@ -11,7 +11,7 @@ layout: default
 
 /* Create two equal columns that floats next to each other */
 .column {
-  <!---float: left;--->
+  float: left;
   width: 50%;
   padding: 10px;
   height: 300px; /* Should be removed. Only for demonstration */
@@ -34,7 +34,7 @@ layout: default
 </style>
 
 <h2>Responsive Two Column Layout</h2>
-<p>Resize the browser window to see the responsive effect (the columns will stack on top of each other instead of floating next to each other, when the screen is less than 600px wide). YAAAAAAAAAAAAA</p>
+<p>Resize the browser window to see the responsive effect (the columns will stack on top of each other instead of floating next to each other, when the screen is less than 600px wide).</p>
 
 <div class="row">
   <div class="column" style="background-color:#aaa;">
