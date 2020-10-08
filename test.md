@@ -14,12 +14,15 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Test Verse
 
 <style>
+table {
+  border: 0px;
+}
 th {
-  background: #FFFFFF;
+  background: #FBFAF7;;
 }
 td {
   font-size: 20px;
-  background: #FFFFFF;
+  background: #FBFAF7;;
 
 }
 </style>
