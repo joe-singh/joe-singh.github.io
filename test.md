@@ -3,7 +3,6 @@ layout: default
 ---
 
 <html>
-<head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
@@ -32,7 +31,6 @@ layout: default
   }
 }
 </style>
-</head>
 <body>
 
 <h2>Responsive Two Column Layout</h2>
