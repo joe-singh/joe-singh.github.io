@@ -27,9 +27,10 @@ td {
 }
 </style>
 
-|  |  |
+| Sanskrit | Analysis |
 |:-:|:-:|
-| this | tgat |
+|       धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः\|<br>dharma-kṣhetre kuru-kṣhetre samavetā yuyutsavaḥ      | tgat |
+|  मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय \|\|1\|\|<br>māmakāḥ pāṇḍavāśhchaiva kimakurvata sañjaya  | ANALYSIS ANALYSIS |
 
 
 <!---
