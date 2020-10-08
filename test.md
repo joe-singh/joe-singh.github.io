@@ -45,6 +45,7 @@ Dhritarashtra said:
 Dhritarashtra said: O Sanjay, after gathering on the holy field of Kurukshetra,
 and desiring to fight, what did my sons and the sons of Pandu do?
 </b>
+
 <!---
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
