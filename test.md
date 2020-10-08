@@ -16,7 +16,7 @@ layout: default
   padding: 10px;
   height: 300px; /* Should be removed. Only for demonstration */
 }
-<!---
+
 /* Clear floats after the columns */
 .row:after {
   content: "";
@@ -30,7 +30,7 @@ layout: default
     width: 100%;
   }
 }
---->
+
 </style>
 
 <h2>Responsive Two Column Layout</h2>
