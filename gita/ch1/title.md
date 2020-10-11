@@ -13,6 +13,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 ## Ch. 1: अर्जुनविषादयोग — <em> Arjuna-viṣāda-yoga </em> — The Yoga of Arjuna's Dejection
 
 * [Verse 1.1](./v1-1.md)
+* [Verse 1.2](./v1-2.md)
+
 
 
 <!---
