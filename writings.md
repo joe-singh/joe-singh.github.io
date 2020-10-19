@@ -9,4 +9,4 @@ maybe comment on what a fool I was in my youth.
 
 
 * [Geopolitics](./straits.md)
-* [Civics](./straits/post2/post_2.md)
+* [Civics](./writings/straits/post2/post_3.md)
