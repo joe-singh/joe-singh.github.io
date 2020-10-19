@@ -1,3 +1,10 @@
+<style>
+ul {
+  font-size: 20px;
+}
+</style>
+
+
 # Thoughts
 
 I spend a fair bit of time thinking about things that are not physics. It got to
