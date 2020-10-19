@@ -18,5 +18,5 @@ in tackling the challenges of the 21st century.
 A quick note: Opinions expressed here are my own. I try to be factually correct but perfection is alas inevitable. If I've got
 something wrong or not given credit properly somewhere, please let me know by [email](mailto:joe_singh@hotmail.co.uk).
 
-1. [The Indian Ocean Strikes Back](./writings/straits//post1/post_1.md)
-2. [China's Modern Silk Road](./writings/straits/post2/post_2.md)
+1. [The Indian Ocean Strikes Back](./post1/post_1.md)
+2. [China's Modern Silk Road](./post2/post_2.md)
