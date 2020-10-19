@@ -12,8 +12,6 @@ Reading and translating texts is one of the ways I try to make a language
 come to life beyond just bookish verb conjugations and noun declensions.
 It is a fabulous method to get insight into a new culture in its own words.
 
-Currently
-
 ## Completed
 * [<em>The Art of War</em> (English to Latin)](./translation/ArsBelli/ArsBelli.pdf)
 
