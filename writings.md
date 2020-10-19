@@ -7,5 +7,5 @@ comment on what a fool I was.
 
 
 
-* [Geopolitics](./straits/)
+* [Geopolitics](./straits.md)
 * [Civics](./straits/post2/post_2.md)
