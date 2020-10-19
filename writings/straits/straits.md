@@ -20,4 +20,4 @@ something wrong or not given credit properly somewhere, please let me know by [e
 
 1. [The Indian Ocean Strikes Back](./post1/post_1.md)
 2. [China's Modern Silk Road](./post2/post_2.md)
-3. [Rivers: Catalysts for Prosperity & Geopolitical Weapons](./post3/post_3.md)
+3. [Rivers: Catalysts for Prosperity & Geopolitical Weapons](./post3/post_3.html)
