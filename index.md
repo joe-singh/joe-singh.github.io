@@ -19,9 +19,9 @@ I am a physics PhD student at Stanford University,
 currently working in Prof. Kent Irwin's group in the effort to [detect bosonic dark matter and fabricate new quantum sensors that can
 evade the Standard Quantum Limit.](https://irwinlab.sites.stanford.edu/)
 
-I graduated Phi Beta Kappa from UC Berkeley in 2019. Highlights of my research there include I did data analysis for the SNO
+I graduated Phi Beta Kappa from UC Berkeley in 2019. Highlights of my research there include data analysis for the SNO
 experiment, detector analysis for its successor SNO+, and detector R&D for the SuperCDMS experiment. My senior thesis focused on precision detection of vacuum ultraviolet (VUV) photons for
-future liquid argon scintillator experiments. With Prof.
+future liquid argon scintillator experiments.
 
 Prior to Berkeley, I was raised in Dubai and Singapore and born in New Delhi. I am a huge basketball fan and love reading, especially about history and geopolitics. You can see some of my thoughts [here](./writings.md).
 
