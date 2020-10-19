@@ -21,4 +21,4 @@ If you spot mistakes, please let me know!
 
 ## In Progress
 * [<em>Shahnameh</em> (Persian to English)](./translation/shahnameh/shahnameh_blog.md)
-* [<em>Bhagavad Gītā</em> (Sanskrit to English)](./translation/gita/ch1/title.md)
+* [<em>Bhagavad Gītā</em> (Sanskrit to English)](./translation/gita/gita.md)
