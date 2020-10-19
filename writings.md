@@ -8,5 +8,5 @@ maybe comment on what a fool I was in my youth.
 
 
 
-* [Geopolitics](./straits.md)
-* [Civics](./writings/straits/post3/post_3.md)
+* [Geopolitics](./writings/straits.md)
+* [Civics](./writings/gov/post_3.md)
