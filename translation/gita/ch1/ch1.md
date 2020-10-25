@@ -18,7 +18,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 * [Verse 1.4](./v1-4.md)
 * [Verse 1.5](./v1-5.md)
 * [Verse 1.6](./v1-6.md)
-
+* [Verse 1.7](./v1-7.md)
 
 
 <!---
