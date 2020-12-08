@@ -120,9 +120,9 @@ The above translates into an expected net earnings growth uniformly distributed 
 
 <div class="straits">The quantities here are the earnings before interest and tax (EBIT) adjusted for taxes, depreciation, capital
 expenditures, and change in working capital.
-I took the 5 year average of capex since this tends to be a “lumpy” quantity and one time huge capital expenditures could penalise the FCF value unfairly. In the actual valuation I will play with the FCF in two ways to incorporate debt. In the first, I did a DCF analysis using just the FCF described above and then at the end add back (cash - long term debt) to adjust for debt (I assume short
+I took the 5 year average of capex since this tends to be a “lumpy” quantity and one time huge capital expenditures could penalise the FCF value unfairly. In the actual valuation I play with the FCF in two ways to incorporate debt. In the first, I did a DCF analysis using just the FCF described above and then at the end add back (cash - long term debt) to adjust for debt (I assume short
 term debt is not a huge problem over the long term). In the second, I will adjust the FCF by adding the net change in long term debt. In this, debt payments reflect a negative cash flow while debt incurred reflects an effective positive cash flow in. The first method is how I initially thought the debt should be incorporated, and the second is
-Prof. Aswath Damodaran’s (aka the Dean of Valuation) free cash flow to equity (FCFE) method. Moreover, since $100B of Apple's cash is
+Prof. Aswath Damodaran’s (aka the <a href="https://www.riaintel.com/article/b1nhcbwzvxfs0p/dean-of-valuation-aswath-damodaran-on-faang-stocks-the-economy-and-companies-worth-buying">Dean of Valuation</a>) free cash flow to equity (FCFE) method. Moreover, since $100B of Apple's cash is
 in non-current marketable securities, these are not immediately liquid so I will assume only half of these can be liquidated on a
 sensible timescale in emergencies. This gives a still very impressive cash balance of $141B.
 <br><br>
@@ -137,9 +137,9 @@ Reassuringly, both sets of simulations center around similar average values of $
 
 Based on this result and a pure value investment philosophy, I would start buying at or below 80
 increasing my position with lower price and probably not do anything above 80.
-However, since Apple is a quality company, my personal strategy will be to buy only 1 or 2 shares
+However, since Apple is a quality company, my personal strategy will be to buy only a few shares
 and dollar cost average to at least get into the
-market. This is assuming that time in the market beats timing the market in the long term as common
-wisdom holds. Since I am new to this world, it would be foolish to completely neglect
-conventional wisdom. However, if Apple undergoes a precipitous drop and drops to 80, then
+market. This assumes that time in the market beats timing the market in the long term as common
+wisdom holds. Since I am new to this world, it would be foolish to completely neglect such
+tips. However, if Apple undergoes a precipitous drop to around 80, then
 I will go for a bigger position.  
