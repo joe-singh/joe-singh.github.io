@@ -10,4 +10,5 @@ maybe comment on what fools we were back in the day.
 
 
 * [Geopolitics](./writings/straits/straits.md)
-* [Civics](./writings/gov/gov.md)
+* [Government & Civics](./writings/gov/gov.md)
+* [Investing & Valuation](./writings/valuation/valuation.md)
