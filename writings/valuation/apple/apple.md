@@ -113,3 +113,25 @@ The above translates into an expected net earnings growth uniformly distributed 
 <div style="text-align:center">
 <img src="./FCF.gif"/>
 </div>
+
+<div class="straits">The quantities here are the earnings before interest and tax (EBIT) adjusted for taxes, depreciation, capital
+expenditures, and change in working capital.
+I took the 5 year average of capex since this tends to be a “lumpy” quantity and one time huge capital expenditures could penalise the FCF value unfairly. In the actual valuation I will play with the FCF in two ways to incorporate debt. In the first, I did a DCF analysis using just the FCF described above and then at the end add back (cash - long term debt) to adjust for debt (I assume short
+term debt is not a huge problem over the long term). In the second, I will adjust the FCF by adding the net change in long term debt. In this, debt payments reflect a negative cash flow while debt incurred reflects an effective positive cash flow in. The first method is how I initially thought the debt should be incorporated, and the second is
+Prof. Aswath Damodaran’s (aka the Dean of Valuation) free cash flow to equity (FCFE) method. Moreover, since $100B of Apple's cash is
+in non-current marketable securities, these are not immediately liquid so I will assume only half of these can be liquidated on a
+sensible timescale in emergencies. This gives a still very impressive cash balance of $141B.
+<br><br>
+With the above, I did a simple Monte Carlo simulation with 10,000 trials of different growth rates for both methods. The results are below
+</div>
+<div style="text-align:center"><img src="./debt.png" /></div>
+{:.image-caption}
+*<center>DCF Valuations of Apple stock based on FCF with a manual correction for debt at the end and FCFE method.</center>*
+
+<div class="straits">
+Reassuringly, both sets of simulations center around similar average values of $73 and $76, with a fair amount of overlap between 70-82. This suggests that with my growth assumptions, Apple is currently very overvalued (at 123.75 after close on 7/12/20).
+
+Based on this, and the fact that whatever little money I have in my bank account is very dear to me, I would definitely buy in bulk  below 70, probably buy between 70 and 80, maybe hop onto the bandwagon around 85, and probably leave it alone much more than that.
+However, since Apple is a quality company, my personal strategy will be to buy only 1 or 2 shares to at least get into the
+market - assuming time in the market trumps timing the market in the long term. However, if Apple undergoes a precipitous drop,
+I will go for a bigger position.  
