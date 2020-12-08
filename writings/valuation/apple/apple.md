@@ -4,6 +4,7 @@
 I’ve recently taken the plunge into the murky waters of the stock market. One of the first companies that I wanted to look at as a serious investment was Apple. Apple initially caught my eye since I realised I am an exceptionally loyal customer of theirs and I figured if I could invest so much into their phones and computers, I should definitely take a look at their stock. There were two other reasons I wanted to look at Apple as the potential first entrant in my portfolio. Firstly, Apple is the largest company in the world overflowing with cash and unlikely to fail, and at the same time it is one of the biggest players in the dynamic technology sector. Combining these two, it seems like Apple would be a nice moderate blend of risk and reward for a meager graduate student. Here, I attempt to piece together a story for where I think the company is heading and translate that into a concrete valuation.
 </div><br>
 
+## Contents
 <div class="straits">
 <ol type="1">
 <li><a href="#shortstory">The Short Story</a></li>
@@ -125,7 +126,7 @@ Prof. Aswath Damodaran’s (aka the Dean of Valuation) free cash flow to equity 
 in non-current marketable securities, these are not immediately liquid so I will assume only half of these can be liquidated on a
 sensible timescale in emergencies. This gives a still very impressive cash balance of $141B.
 <br><br>
-With the above, I did a simple Monte Carlo simulation with 10,000 trials of different growth rates for both methods. The results are below
+With the above, I did a simple Monte Carlo simulation with 10,000 trials of different growth rates for both methods. The results are below.
 </div>
 <div style="text-align:center"><img src="./valuation.png" /></div>
 {:.image-caption}
