@@ -8,6 +8,7 @@ I’ve recently taken the plunge into the murky waters of the stock market. One 
 <li><a href="#shortstory">The Short Story</a></li>
 <li><a href="#wheremoney">Where Does the Money Come From?</a></li>
 <li><a href="#monay">Show Me The Money: A Dive into the Balance Sheet</a></li>
+<li><a href="#val">Valuation</a></li>
 </ol>
 
 ## The Short Story
@@ -107,7 +108,7 @@ nice sign is that Apple’s cash of ~200B excluding other assets  is already a f
 
 ## Valuation & Investment Strategy
 
-<div class="straits">
+<div id="val" class="straits">
 The above translates into an expected net earnings growth uniformly distributed between 5 and 10%, buoyed mainly by the new services and accessories division. I will use Apple’s weighted average cost of capital (WACC) of 8.04% as reported by GuruFocus to do a discounted cash flow (DCF) analysis based on Apple’s free cash flow, which I define as:
 </div><br>
 <div style="text-align:center">
@@ -124,7 +125,7 @@ sensible timescale in emergencies. This gives a still very impressive cash balan
 <br><br>
 With the above, I did a simple Monte Carlo simulation with 10,000 trials of different growth rates for both methods. The results are below
 </div>
-<div style="text-align:center"><img src="./debt.png" /></div>
+<div style="text-align:center"><img src="./valuation.png" /></div>
 {:.image-caption}
 *<center>DCF Valuations of Apple stock based on FCF with a manual correction for debt at the end and FCFE method.</center>*
 
