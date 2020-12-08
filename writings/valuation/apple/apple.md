@@ -132,7 +132,11 @@ With the above, I did a simple Monte Carlo simulation with 10,000 trials of diff
 <div class="straits">
 Reassuringly, both sets of simulations center around similar average values of $73 and $76, with a fair amount of overlap between 70-82. This suggests that with my growth assumptions, Apple is currently very overvalued (at 123.75 after close on 7/12/20).
 
-Based on this, and the fact that whatever little money I have in my bank account is very dear to me, I would definitely buy in bulk  below 70, probably buy between 70 and 80, maybe hop onto the bandwagon around 85, and probably leave it alone much more than that.
-However, since Apple is a quality company, my personal strategy will be to buy only 1 or 2 shares to at least get into the
-market - assuming time in the market trumps timing the market in the long term. However, if Apple undergoes a precipitous drop,
+Based on this result and a pure value investment philosophy, I would start buying at or below 80
+increasing my position with lower price and probably not do anything above 80.
+However, since Apple is a quality company, my personal strategy will be to buy only 1 or 2 shares
+and dollar cost average to at least get into the
+market. This is assuming that time in the market beats timing the market in the long term as common
+wisdom holds. Since I am new to this world, it would be foolish to completely neglect
+conventional wisdom. However, if Apple undergoes a precipitous drop and drops to 80, then
 I will go for a bigger position.  
