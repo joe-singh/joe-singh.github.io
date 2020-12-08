@@ -8,7 +8,7 @@ I’ve recently taken the plunge into the murky waters of the stock market. One 
 <li><a href="#shortstory">The Short Story</a></li>
 <li><a href="#wheremoney">Where Does the Money Come From?</a></li>
 <li><a href="#monay">Show Me The Money: A Dive into the Balance Sheet</a></li>
-<li><a href="#val">Valuation</a></li>
+<li><a href="#val">Valuation & Investment Strategy</a></li>
 </ol>
 
 ## The Short Story
