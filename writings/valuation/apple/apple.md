@@ -35,7 +35,7 @@ One advantage of analysing a mature company is that there is plenty of history t
 </div>
 <div style="text-align:center"><img src="./revenue_time.png" /></div>
 {:.image-caption}
-*<center>Apple revenue by segment.</center>*
+*<center>Apple revenue by segment from 2016-2020 in relative and absolute terms.</center>*
 
 <div class='straits'>
 On the left plot, we see that the amount of money the iPhone brings hasn’t actually changed that much over this period, which means that the decline in relative size must be because other sectors are getting larger and not because the iPhone is itself making less money. This is a good sign, since it shows Apple is trying new things while its old reliable workhorse is still performing consistently. It’s experimenting from a secure location and can afford to fail. The iPhone is a mature product and is not going to disrupt any market. In recent years, the extent of modifications to the iPhone include 5G capability, ever more powerful cameras, and larger screens. Important, but not revolutionary updates. Moreover, Apple faces <a href="https://www.statista.com/statistics/271496/global-market-share-held-by-smartphone-vendors-since-4th-quarter-2009/">stiff competition in the smartphone market</a> so margins have likely reached a stable equilibrium or will decline due to competition. Given this, I expect the iPhone to continue its 1-2% revenue growth rate for the foreseeable future.
@@ -48,8 +48,58 @@ The real wild card here will be the services and accessories divisions. Let’s 
 </div>
 <div style="text-align:center"><img src="./services_breakdown.jpg" /></div>
 {:.image-caption}
-*<center>Apple revenue by segment.</center>*
+*<center>Apple services revenue breakdown.</center>*
 
 <div class="straits">
 Advertising notably includes the huge licensing fees that Apple gets from Google to be its default search engine, around <a href="https://www.cnbc.com/2020/10/21/apple-services-success-story-bolstered-by-huge-google-payments.html">$8-12 billion</a>, meaning that more than 10% of Apple’s services revenue comes from a single customer. Antitrust regulators have also begun to investigate Google’s payments to Apple as an unfair tactic to suppress competition, making this a potential risk factor.
 </div><br>
+<div class="straits">
+AppleCare refers to the fee-based support and service products for its hardware products.  iCloud enables users to store their files in the cloud for easy access across their phone/tablet/computer, a nice way to synchronise the Apple ecosystem. Payments includes Apple Pay and Apple Card and digital content includes platforms like Apple TV+, Apple Music, and Apple News+.
+</div><br>
+<div class="straits">
+AppleCare, advertising, and iCloud are fundamentally linked to Apple’s hardware so I do not see any new disruptions emerging here which can change the story significantly. Payments could grow significantly depending on execution, but there is <a href="https://qz.com/1799912/apple-pay-on-pace-to-account-for-10-percent-of-global-card-transactions/#:~:text=Note%3A,field%20communication%20(NFC)%20tech.">definitely potential</a> here. To be conservative however, I will assume nothing major will happen here.
+</div><br>
+<div class="straits">
+I want to focus more on the digital content, since in my opinion this holds a significant place in the services story. The App Store will continue to generate money as it has, but the newer additions of Apple Music, TV+, Arcade and News+ are bigger unknowns.
+</div><br>
+<div class="straits">
+Of the actual new services, I am not particularly confident in News+ and Arcade. News+ is a service that curates news articles for readers. Readers pay a subscription fee and publishers also pay to have their work on the platform. There are some prominent publications such as WSJ there. Although missing from the service is America’s largest newspaper the New York Times. News+ had a very fast launch with 200,000 subscribers but hasn’t budged much beyond that. They’ve also stopped saying how many people are subscribed to News+ which isn’t a good sign. I also can't see any incentive to pay for a news curation service with news so easily accessible on the internet these days. Arcade has potential but seems to have been executed a bit poorly as people can’t distinguish between it and games on the App Store.
+</div><br>
+<div class="straits">
+The remaining services Music and TV+ have made more waves since their launch but also have a tough path. TV+ has potential but hasn't had a star show yet to really popularise it. It currently faces stiff competition from Netflix (30% of the streaming market), Amazon Prime Video (25%) and Hulu (15%). TV+ is nowhere near large enough currently and isn't disruptive enough to cause a shift unless it gets a blockbuster TV series of its own to attract customers. I think TV+ will grow as a result of users already in the Apple ecosystem trickling in rather than of its own merit. I am more optimistic on Music since Apple Music has a huge collection and is the second largest player in the music streaming market behind Spotify.
+</div><br>
+<div class="straits">
+Overall, I am not as optimistic on services as others. It will generate good revenues but I don't think it will be impactful enough to really shift the focus of the Apple story from hardware. Even now the largest components of services are directly linked to hardware, and the new services launched seemed to be aimed more at those in the Apple ecosystem rather than universal applicability e.g. with Netflix being available on all platforms. I'm going to say on a whole services will grow at 10-15% simply because it's new, down from the 17% CAGR from 2016-2020. A
+<a href="https://www.forbes.com/sites/greatspeculations/2020/02/25/apples-services-to-top-50-billion-profits-by-2025--beating-iphone/?sh=1481d2d653db">Forbes’ analysis</a> forecasts services growing from 46.0B in 2019 to 89.5B in 2025, a CAGR of 11%, in line with my estimate.
+</div><br>
+<div class="straits">
+Accessories, which has overtaken Mac and iPad, includes products like AirPods and Apple Watch. Historically it’s grown the fastest of the segments at 22%. One negative factor here is that Apple accessories are primarily designed to talk to existing Apple hardware. For instance Apple Watches do not easily communicate with Android phones. This makes it harder to bring new customers in. Other examples of this include the MagSafe charger that works with new iPhones. The Apple MagSafe wallet protects credit cards from the magnetic fields that the new iPhones emit to allow them to use MagSafe chargers. As with services, accessories seems to be tied more to catering to customers already in the Apple ecosystem rather than bringing new customers in. For this reason I would think the growth should taper a little as Apple exhausts its existing base of hardware customers and average closer to 15% for the near to long term.
+</div><br>
+<div class="straits">
+Turning to profitability, we see that Apple’s net margins have been on a very slight decline for the majority of the past decade, but they have remained above 20%. Operating margins show a similar very slight decline also. This supports the view
+</div><br>
+<div style="text-align:center"><img src="./netmargin.png" /></div>
+{:.image-caption}
+*<center>Apple net margin 2016-2020.</center>*
+
+<div class="straits">
+that Apple has reached a sort of a steady state stage of its life cycle. For this reason, I will assume that net margins remain at 20% with no significant deviation.
+</div><br>
+
+## Show Me The Money: A Dive into the Balance Sheet
+
+<div id="monay" class="straits">
+Let’s take a brief glimpse at Apple’s balance sheet. Since it’s such a huge company we would guess it is under no immediate risk of failure. Obviously the most important thing to note is how Apple is sitting on a colossal $191.8 billion in cash. Of this, $90B comes under the current assets category. Of course, cash just sitting in the vault is a good safety blanket but it might be wasteful to not do anything with it and let it sit there. Let’s see how Apple’s cash position has evolved over time.
+</div><br>
+<div style="text-align:center"><img src="./cash.png" /></div>
+{:.image-caption}
+*<center>Apple cash position 2016-2020.</center>*
+<div class="straits">
+We see that Apple has been shedding cash, mostly on stock buybacks which have pushed its debt to equity ratio up. Nevertheless Apple still has nearly $200B in cash which is incredible and larger than the GDP of a lot of countries.
+<br>
+On the debt front things look stable. Both short term and long term debt seem to have flattened. One
+nice sign is that Apple’s cash of ~200B excluding other assets  is already a fair amount of its total liabilities. This means the company is secure with a current ratio around 0.8. This isn’t telling us anything new, just confirming what we suspected when we said Apple is the largest company in the world and a cash machine.
+</div><br>
+<div style="text-align:center"><img src="./debt.png" /></div>
+{:.image-caption}
+*<center>Apple cash position 2016-2020.</center>*
