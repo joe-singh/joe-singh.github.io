@@ -103,7 +103,7 @@ nice sign is that Apple’s cash of ~200B excluding other assets  is already a f
 </div><br>
 <div style="text-align:center"><img src="./debt.png" /></div>
 {:.image-caption}
-*<center>Apple cash position 2016-2020.</center>*
+*<center>Apple debt 2016-2020.</center>*
 
 ## Valuation & Investment Strategy
 
