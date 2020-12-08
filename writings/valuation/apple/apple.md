@@ -110,4 +110,6 @@ nice sign is that Apple’s cash of ~200B excluding other assets  is already a f
 <div class="straits">
 The above translates into an expected net earnings growth uniformly distributed between 5 and 10%, buoyed mainly by the new services and accessories division. I will use Apple’s weighted average cost of capital (WACC) of 8.04% as reported by GuruFocus to do a discounted cash flow (DCF) analysis based on Apple’s free cash flow, which I define as:
 </div><br>
-\<div style="text-align:center"><a href="https://www.codecogs.com/eqnedit.php?latex=FCF&space;=&space;EBIT(1-r_T)&space;&plus;&space;DEP&space;-&space;CAPEX&space;-&space;\Delta&space;C_W" target="_blank"><img src="https://latex.codecogs.com/gif.latex?FCF&space;=&space;EBIT(1-r_T)&space;&plus;&space;DEP&space;-&space;CAPEX&space;-&space;\Delta&space;C_W" title="FCF = EBIT(1-r_T) + DEP - CAPEX - \Delta C_W" /></a></div>
+<div style="text-align:center">
+<a href="https://www.codecogs.com/eqnedit.php?latex=FCF&space;=&space;EBIT(1-r_T)&space;&plus;&space;DEP&space;-&space;CAPEX&space;-&space;\Delta&space;C_W" target="_blank"><img src="https://latex.codecogs.com/gif.latex?FCF&space;=&space;EBIT(1-r_T)&space;&plus;&space;DEP&space;-&space;CAPEX&space;-&space;\Delta&space;C_W" title="FCF = EBIT(1-r_T) + DEP - CAPEX - \Delta C_W" /></a>
+</div>
