@@ -9,7 +9,7 @@ I’ve recently taken the plunge into the murky waters of the stock market. One 
 <ol type="1">
 <li><a href="#shortstory">The Short Story</a></li>
 <li><a href="#wheremoney">Where Does the Money Come From?</a></li>
-<li><a href="#monay">Show Me The Money: A Dive into the Balance Sheet</a></li>
+<li><a href="#monay">Show Me The Money: A Glimpse into the Balance Sheet</a></li>
 <li><a href="#val">Valuation & Investment Strategy</a></li>
 </ol>
 </div>
@@ -91,7 +91,7 @@ Turning to profitability, we see that Apple’s net margins have been on a very 
 that Apple has reached a sort of a steady state stage of its life cycle. For this reason, I will assume that net margins remain at 20% with no significant deviation.
 </div><br>
 
-## Show Me The Money: A Dive into the Balance Sheet
+## Show Me The Money: A Glimpse into the Balance Sheet
 
 <div id="monay" class="straits">
 Let’s take a brief glimpse at Apple’s balance sheet. Since it’s such a huge company we would guess it is under no immediate risk of failure. Obviously the most important thing to note is how Apple is sitting on a colossal $191.8 billion in cash. Of this, $90B comes under the current assets category. Of course, cash just sitting in the vault is a good safety blanket but it might be wasteful to not do anything with it and let it sit there. Let’s see how Apple’s cash position has evolved over time.
