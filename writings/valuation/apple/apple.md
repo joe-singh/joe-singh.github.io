@@ -96,7 +96,7 @@ Let’s take a brief glimpse at Apple’s balance sheet. Since it’s such a hug
 *<center>Apple cash position 2016-2020.</center>*
 <div class="straits">
 We see that Apple has been shedding cash, mostly on stock buybacks which have pushed its debt to equity ratio up. Nevertheless Apple still has nearly $200B in cash which is incredible and larger than the GDP of a lot of countries.
-<br>
+<br><br>
 On the debt front things look stable. Both short term and long term debt seem to have flattened. One
 nice sign is that Apple’s cash of ~200B excluding other assets  is already a fair amount of its total liabilities. This means the company is secure with a current ratio around 0.8. This isn’t telling us anything new, just confirming what we suspected when we said Apple is the largest company in the world and a cash machine.
 </div><br>
