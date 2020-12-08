@@ -5,12 +5,12 @@ I’ve recently taken the plunge into the murky waters of the stock market. One 
 </div><br>
 
 <ol type="1">
-<li><a href="shortstory">The Short Story</a></li>
+<li><a href="#shortstory">The Short Story</a></li>
 </ol>
 
 ## The Short Story
-<div class='straits'>
-<a href="#shortstory">A</a> of this writing (Dec. 2020), Apple sits snugly on a $2T market valuation, making it the largest company in the world. It had what could be called the most innovative period for a company with its iPod, iPhone, and iPad launch. The iPhone in particular was a major disruptive force that changed the market and brought the term smartphone into the mainstream. This amazing innovation is what led Apple to its stellar current valuation.
+<div id="shortstory" class='straits'>
+A of this writing (Dec. 2020), Apple sits snugly on a $2T market valuation, making it the largest company in the world. It had what could be called the most innovative period for a company with its iPod, iPhone, and iPad launch. The iPhone in particular was a major disruptive force that changed the market and brought the term smartphone into the mainstream. This amazing innovation is what led Apple to its stellar current valuation.
 </div><br>
 <div class='straits'>
 Today, however, Apple is a different company. It has transitioned from a disruptor to a more mature company in a steady state. Ever since the iPad launched in 2012, the company has not released any new product with the same disruptive capability of the iPod, iPad, and iPhone. Its business model focuses primarily on releasing new upgraded versions of these and the Mac annually and rely on its superior brand power to keep and attract new customers.  In recent years, however, it has tried to innovate with new operations in accessories - like Apple Watch - and services like Apple Music. Apple saw robust results even through covid, breaking revenue records in multiple quarters. This suggests that the core of its business is still as strong as ever.
@@ -22,8 +22,7 @@ Let’s start our deeper look with a breakdown of Apple’s revenue by its produ
 its revenue.
 </div>
 <div style="text-align:center"><img src="./revenue.png" /></div>
-{:.image-caption}
-*<center>Apple revenue by segment.</center>
+{:.image-caption}<center>Apple revenue by segment.</center>
 
 <div class='straits'>
 Interestingly, iPad and Mac sales are the two smallest components of the pie coming in at 9 and 10% respectively. They are overtaken by the services and accessories segment. Services includes things such as App Store sales, iCloud storage, and Apple’s new services suite it has launched which I will address more later. The accessories sector includes products such as AirPods, Apple Watch, and Beats headphones.
@@ -34,8 +33,7 @@ Interestingly, iPad and Mac sales are the two smallest components of the pie com
 One advantage of analysing a mature company is that there is plenty of history to base a first guess on where the company might be headed. The two plots below show the evolution of how different products have contributed to Apple’s revenues. The left shows what percentage of revenue each sector contributes while the right chart shows how much money each sector brings in on absolute terms. The first big thing to note here is that although iPhones form the largest slice of the Apple pie, they are slowly shrinking in relative importance. In 2016, the iPhone was above 60% of revenues and it has come down to 50% over 5 years, a decline of about 2%.
 </div>
 <div style="text-align:center"><img src="./revenue_time.png" /></div>
-{:.image-caption}
-*<center>Apple revenue by segment.</center>
+{:.image-caption}<center>Apple revenue by segment.</center>
 
 <div class='straits'>
 On the left plot, we see that the amount of money the iPhone brings hasn’t actually changed that much over this period, which means that the decline in relative size must be because other sectors are getting larger and not because the iPhone is itself making less money. This is a good sign, since it shows Apple is trying new things while its old reliable workhorse is still performing consistently. It’s experimenting from a secure location and can afford to fail. The iPhone is a mature product and is not going to disrupt any market. In recent years, the extent of modifications to the iPhone include 5G capability, ever more powerful cameras, and larger screens. Important, but not revolutionary updates. Moreover, Apple faces <a href="https://www.statista.com/statistics/271496/global-market-share-held-by-smartphone-vendors-since-4th-quarter-2009/"stiff competition in the smartphone market</a> so margins have likely reached a stable equilibrium or will decline due to competition. Given this, I expect the iPhone to continue its 1-2% revenue growth rate for the foreseeable future.
