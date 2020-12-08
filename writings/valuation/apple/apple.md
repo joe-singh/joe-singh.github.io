@@ -31,7 +31,7 @@ Interestingly, iPad and Mac sales are the two smallest components of the pie com
 </div><br>
 
 <div id="core" class='straits'>
-One advantage of analysing a mature company is that there is plenty of history to base a first guess on where the company might be headed. The two plots below show the evolution of how different products have contributed to Apple’s revenues. The left shows what percentage of revenue each sector contributes while the right chart shows how much money each sector brings in on absolute terms. The first big thing to note here is that although iPhones form the largest slice of the Apple pie, they are slowly shrinking in relative importance. In 2016, the iPhone was above 60% of revenues and it has come down to 50% over 5 years, a decline of about 2%.
+One advantage of analysing a mature company is that there is plenty of history to base a first guess on where the company might be headed. The two plots below show the evolution of how different products have contributed to Apple’s revenues. The left shows what percentage of revenue each sector contributes while the right chart shows how much money each sector brings in on absolute terms. The first big thing to note here is that although iPhones form the largest slice of the Apple pie, they are slowly shrinking in relative importance. In 2016, the iPhone was above 60% of revenues and it has come down to 50% over 5 years, a decline of about 2% per year.
 </div>
 <div style="text-align:center"><img src="./revenue_time.png" /></div>
 {:.image-caption}
