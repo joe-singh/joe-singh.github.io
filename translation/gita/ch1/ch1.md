@@ -10,7 +10,7 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 --->
-## Ch. 1: अर्जुनविषादयोग — <em> Arjuna-viṣāda-yoga </em> — The Yoga of Arjuna's Dejection
+## Ch. 1: अर्जुनविषादयोग — <em> Arjunaviṣādayoga </em> — The Yoga of Arjuna's Dejection
 
 * [Verse 1.1](./v1-1.md)
 * [Verse 1.2](./v1-2.md)
@@ -20,7 +20,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 * [Verse 1.6](./v1-6.md)
 * [Verse 1.7](./v1-7.md)
 * [Verse 1.8](./v1-8.md)
-
+* [Verse 1.9](./v1-9.md)
 <!---
 ## Header 2
 
