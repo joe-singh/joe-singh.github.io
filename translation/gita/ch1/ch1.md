@@ -21,6 +21,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 * [Verse 1.7](./v1-7.md)
 * [Verse 1.8](./v1-8.md)
 * [Verse 1.9](./v1-9.md)
+* [Verse 1.10](./v1-10.md)
 
 <!---
 ## Header 2
