@@ -120,7 +120,7 @@ TradingView Widget BEGIN
   },
   {
     "description": "BTC-USD",
-    "proName": "BITBAY:BTCUSD"
+    "proName": "COINBASE:BTCUSD"
   }
   ],
   "colorTheme": "light",
