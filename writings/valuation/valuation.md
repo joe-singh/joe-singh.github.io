@@ -45,6 +45,7 @@ For what it's worth, here are the stocks I am invested in.
   </script>
 </div>
 <!-- TradingView Widget END -->
+<br>
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
