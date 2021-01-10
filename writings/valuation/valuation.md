@@ -7,10 +7,6 @@ here with a grain of salt and do your own research.
 1. [Apple](./apple/apple.md)
 2. [Opportunities in Genetics](./genetics/genetics.md)
 
-## My Portfolio
-
-For what it's worth, here are the positions I am invested in.
-
 <!--
 TradingView Widget BEGIN
 <div class="tradingview-widget-container">
@@ -57,7 +53,7 @@ TradingView Widget BEGIN
   </script>
 </div> TradingView Widget END -->
 
-<!-- TradingView Widget BEGIN -->
+<!-- TradingView Widget BEGIN
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">Quotes</span></a> by TradingView</div>
@@ -92,9 +88,8 @@ TradingView Widget BEGIN
 }
   </script>
 </div>
-<!-- TradingView Widget END -->
 <br>
-<!-- TradingView Widget BEGIN -->
+ TradingView Widget BEGIN
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">Quotes</span></a> by TradingView</div>
@@ -130,4 +125,5 @@ TradingView Widget BEGIN
 }
   </script>
 </div>
-<!-- TradingView Widget END -->
+ TradingView Widget END -->
+-->
