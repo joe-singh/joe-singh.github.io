@@ -1,4 +1,4 @@
-# The Genetics Revolution
+# Opportunities in Genetics
 
 <div class='straits'>
 The post Covid world is a time of great technological change and disruption. One of the
@@ -37,5 +37,5 @@ Greater access to cheaper screening means tremendous opportunities for consumers
 Overall, genetics is at a point where it can leverage advancements in gene sequencing and artificial intelligence to have a huge commercial impact. When you add the possibilities of new genetics techniques such as CRISPR, which could do things medicine currently cannot, such as cure genetic diseases, you get a package that could really disrupt medicine as a whole.
 </div><br>
 <div class="straits">
-Although this is an immensely exciting opportunity, I’m afraid I don’t feel confident enough to bet on individual companies in this sector. I consider basic science in my circle of competence, but this is a rapidly innovating field and my genetics knowledge isn’t adequate to determine whether company X’s single molecule sequencing will win over company Y’s nanopore technology. I know enough basic genetics however, to confirm the exciting potential here. For that reason I will be on the lookout for any ETFs that capture a broad slice of this exciting new market, such as ARK Invest’s ARKG.  
+Although this is an immensely exciting opportunity, I’m afraid I don’t feel confident enough to bet on individual companies in this sector. I consider basic science in my circle of competence, but this is a rapidly innovating field and my genetics knowledge isn’t adequate to determine whether company X’s single molecule sequencing will win over company Y’s nanopore technology.I know enough basic genetics however, to confirm the exciting potential here. For that reason I will be on the lookout for any ETFs that capture a broad slice of this exciting new market, such as ARK Invest’s ARKG.  
 </div>
