@@ -23,7 +23,10 @@ Some thoughts on investing ideas and valuing companies.
   "allow_symbol_change": true,
   "container_id": "tradingview_7ffd7"
 }
+  );
+  </script>
 </div>
+<!-- TradingView Widget END -->
 
 1. [Apple](./apple/apple.md)
 2. [Opportunities in Genetics](./genetics/genetics.md)
