@@ -10,6 +10,7 @@ here with a grain of salt and do your own research.
 ## My Portfolio
 
 For what it's worth, here are the positions I am invested in.
+
 <!--
 TradingView Widget BEGIN
 <div class="tradingview-widget-container">
@@ -54,8 +55,7 @@ TradingView Widget BEGIN
   "locale": "en"
 }
   </script>
-</div>
-<!-- TradingView Widget END -->
+</div> TradingView Widget END -->
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
