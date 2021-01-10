@@ -85,8 +85,8 @@ For what it's worth, here are the stocks I am invested in.
       "proName": "NYSE:KMB"
     }
   ],
-  "colorTheme": "dark",
-  "isTransparent": false,
+  "colorTheme": "light",
+  "isTransparent": true,
   "showSymbolLogo": true,
   "locale": "en"
 }
