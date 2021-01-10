@@ -12,6 +12,54 @@ For what it's worth, here are the stocks I am invested in.
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">Ticker Tape</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+  {
+  "symbols": [
+    {
+      "description": "AAPL",
+      "proName": "NASDAQ:AAPL"
+    },
+    {
+      "description": "AMZN",
+      "proName": "NASDAQ:AMZN"
+    },
+    {
+      "description": "FB",
+      "proName": "NASDAQ:FB"
+    },
+    {
+      "description": "GOOG",
+      "proName": "NASDAQ:GOOG"
+    },
+    {
+      "description": "KMB",
+      "proName": "KMB"
+    },
+    {
+      "description": "MSFT",
+      "proName": "NASDAQ:MSFT"
+    },
+    {
+      "description": "NKE",
+      "proName": "NYSE:NKE"
+    }
+  ],
+  "showSymbolLogo": true,
+  "colorTheme": "light",
+  "isTransparent": true,
+  "displayMode": "adaptive",
+  "locale": "en"
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
+
+<br>
+
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">Quotes</span></a> by TradingView</div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-tickers.js" async>
   {
