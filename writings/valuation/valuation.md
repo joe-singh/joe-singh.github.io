@@ -1,13 +1,15 @@
 # Investment Ideas
 
-Some thoughts on investing ideas and valuing companies.
+Some thoughts on investing ideas and valuing companies. Nothing here
+is a recommendation. Please take everything
+here with a grain of salt and do your own research.
 
 1. [Apple](./apple/apple.md)
 2. [Opportunities in Genetics](./genetics/genetics.md)
 
 ## My Portfolio
 
-For what it's worth, here are the stocks I am invested in.
+For what it's worth, here are the positions I am invested in.
 <!--
 TradingView Widget BEGIN
 <div class="tradingview-widget-container">
