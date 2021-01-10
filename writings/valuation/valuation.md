@@ -46,7 +46,7 @@ Some thoughts on investing ideas and valuing companies.
       "proName": "AMEX:SGOL"
     }
   ],
-  "colorTheme": "light",
+  "colorTheme": "dark",
   "isTransparent": false,
   "showSymbolLogo": true,
   "locale": "en"
