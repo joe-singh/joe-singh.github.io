@@ -4,26 +4,53 @@ Some thoughts on investing ideas and valuing companies.
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
-  <div id="tradingview_7ffd7"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/NASDAQ-AAPL/" rel="noopener" target="_blank"><span class="blue-text">AAPL Chart</span></a> by TradingView</div>
-  <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
-  <script type="text/javascript">
-  new TradingView.widget(
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">Quotes</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-tickers.js" async>
   {
-  "width": 980,
-  "height": 610,
-  "symbol": "NASDAQ:AAPL",
-  "interval": "D",
-  "timezone": "Etc/UTC",
-  "theme": "light",
-  "style": "1",
-  "locale": "en",
-  "toolbar_bg": "#f1f3f6",
-  "enable_publishing": false,
-  "allow_symbol_change": true,
-  "container_id": "tradingview_7ffd7"
+  "symbols": [
+    {
+      "description": "AAPL",
+      "proName": "NASDAQ:AAPL"
+    },
+    {
+      "description": "AMZN",
+      "proName": "NASDAQ:AMZN"
+    },
+    {
+      "description": "FB",
+      "proName": "NASDAQ:FB"
+    },
+    {
+      "description": "GOOG",
+      "proName": "NASDAQ:GOOG"
+    },
+    {
+      "description": "KMB",
+      "proName": "NYSE:KMB"
+    },
+    {
+      "description": "MSFT",
+      "proName": "NASDAQ:MSFT"
+    },
+    {
+      "description": "NKE",
+      "proName": "NYSE:NKE"
+    },
+    {
+      "description": "ARKK",
+      "proName": "AMEX:ARKK"
+    },
+    {
+      "description": "SGOL",
+      "proName": "AMEX:SGOL"
+    }
+  ],
+  "colorTheme": "light",
+  "isTransparent": false,
+  "showSymbolLogo": true,
+  "locale": "en"
 }
-  );
   </script>
 </div>
 <!-- TradingView Widget END -->
