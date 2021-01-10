@@ -23,7 +23,8 @@ The decline in sequencing has been very rapid, and has in fact beaten Moore’s 
 
 <div id="core" class='straits'>
 Genetics is also benefiting from the numerous leaps in machine learning and artificial intelligence research in recent years. These have allowed researchers to develop more effective algorithms to analyse the vast quantities of new genomic data now available cheaply. With this, we can identify illnesses with pinpoint accuracy or analyse protein molecules more easily to develop new medicines. Google’s <a href="https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology">
-DeepMind recently released AlphaFold2</a>, an AI algorithm that can predict protein shapes based on genetic data. This could be huge in drug discovery. A growing ability to process genetic information can also help to generate new therapies. Together with lower sequencing costs, this creates a virtuous cycle. Lower sequencing cost means more genetic data is available to train better algorithms which should encourage more ordinary people to consider genetic analysis, which will expand the pool of genetic data to develop new insights.
+DeepMind recently released AlphaFold2</a>, an AI algorithm that can predict protein shapes based on genetic data. This could be huge in drug discovery. A growing ability to process genetic information can also help to generate new therapies. Together with lower sequencing costs, this creates a virtuous cycle. Lower sequencing cost means more genetic data is available to train better algorithms. These will create better diagnostic and therapeutic results, which
+should encourage more ordinary people to consider genetic analysis, which will then expand the pool of genetic data to develop new insights and so on.
 </div>
 <div style="text-align:center"><img src="./deepmind.gif" /></div>
 {:.image-caption}
