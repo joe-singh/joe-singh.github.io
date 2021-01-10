@@ -8,8 +8,8 @@ Some thoughts on investing ideas and valuing companies.
 ## My Portfolio
 
 For what it's worth, here are the stocks I am invested in.
-
-<!-- TradingView Widget BEGIN -->
+<!--
+TradingView Widget BEGIN
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
   <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">Ticker Tape</span></a> by TradingView</div>
@@ -54,8 +54,6 @@ For what it's worth, here are the stocks I am invested in.
   </script>
 </div>
 <!-- TradingView Widget END -->
-
-<br>
 
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
@@ -123,8 +121,8 @@ For what it's worth, here are the stocks I am invested in.
     "proName": "BITBAY:BTCUSD"
   }
   ],
-  "colorTheme": "dark",
-  "isTransparent": false,
+  "colorTheme": "light",
+  "isTransparent": true,
   "showSymbolLogo": true,
   "locale": "en"
 }
