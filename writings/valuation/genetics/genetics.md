@@ -1,19 +1,21 @@
-# Apple
+# The Genetics Revolution
 
 <div class='straits'>
-The field of genetics has seen some very big developments in the past decade that can finally bridge the gap between research and commercial applications. This has created some exciting investment opportunities.
+The post Covid world is a time of great technological change and disruption. One of the
+main agents of this disruption could be exciting developments in the genetics space that could
+really change medicine and healthcare. This trend will create some
+exciting investment opportunities.
 </div><br>
 
-## Where Does the Money Come From?
 <div id="wheremoney" class='straits'>
-Before you can do anything exciting with DNA, you must be able to read it to see what it is telling you. Reading it means determining the sequence of biological base pairs that code the information in DNA. The first important development has been the sharp reduction of price in sequencing genomes. The figure below shows this trend very clearly. The human genome project, which ran from 1990-2003, cost more than $1B  to sequence a handful of human genomes. Today, it can be done for closer to $1000.
+Before you can do anything exciting with DNA, you must be able to read it to see what it is telling you. Reading it means determining the sequence of biological base pairs that code the information in DNA. The first important development has been the sharp reduction of price in sequencing genomes. The figure below shows this trend very clearly. The Human Genome Project, which ran from 1990-2003, cost more than $1B to sequence a handful of human genomes. Today, a genome can be sequenced for closer to $1000.
 </div>
 <div style="text-align:center"><img src="./sequencing.jpg" /></div>
 {:.image-caption}
 *<center>The Decline in Genetic Sequencing, from NIH.</center>*
 
 <div class='straits'>
-The decline in sequencing has been very rapid, and has in fact beaten Moore’s Law since 2008 now. Moore’s law was first used in hi-tech electronics and said that the computational power doubles every two years. The genetics equivalent would be that the cost to sequence halves every two years, and the plot above shows that DNA sequencing is beating Moore’s law by a fair bit. Just as hi-tech transistors eventually became common in all sorts of devices as they followed Moore’s law, so too we would guess that genetic sequencing would become more common as prices drop. This lowering of cost is the critical development that will allow commercial genomics as it will allow regular people at regular clinics to take advantage of sequencing. ARK Invest predicts that the number of genomes sequenced could expand greatly as a result of lower costs from millions to around 100 million by 2024.
+The decline in sequencing has been very rapid, and has in fact beaten Moore’s Law since 2008. Moore’s law was first used in hi-tech electronics and said that the computational power doubles every two years. The genetics equivalent would be that the cost to sequence halves every two years, and the plot above shows that DNA sequencing is actually beating Moore’s law. Just as hi-tech transistors eventually became common in all sorts of devices as they followed Moore’s law, so too we could guess that genetic sequencing would become more common as prices drop. This lowering of cost is the critical development that will allow commercial genomics as it will allow regular people at regular clinics to take advantage of sequencing. ARK Invest predicts that the number of genomes sequenced could expand greatly as a result of lower costs from millions to around 100 million by 2024.
 </div>
 <div style="text-align:center"><img src="./ark.png" /></div>
 {:.image-caption}
