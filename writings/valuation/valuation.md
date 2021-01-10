@@ -2,6 +2,13 @@
 
 Some thoughts on investing ideas and valuing companies.
 
+1. [Apple](./apple/apple.md)
+2. [Opportunities in Genetics](./genetics/genetics.md)
+
+## My Portfolio
+
+For what it's worth, here are the stocks I am invested in.
+
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
@@ -28,22 +35,6 @@ Some thoughts on investing ideas and valuing companies.
     {
       "description": "KMB",
       "proName": "NYSE:KMB"
-    },
-    {
-      "description": "MSFT",
-      "proName": "NASDAQ:MSFT"
-    },
-    {
-      "description": "NKE",
-      "proName": "NYSE:NKE"
-    },
-    {
-      "description": "ARKK",
-      "proName": "AMEX:ARKK"
-    },
-    {
-      "description": "SGOL",
-      "proName": "AMEX:SGOL"
     }
   ],
   "colorTheme": "dark",
@@ -54,6 +45,40 @@ Some thoughts on investing ideas and valuing companies.
   </script>
 </div>
 <!-- TradingView Widget END -->
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com" rel="noopener" target="_blank"><span class="blue-text">Quotes</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-tickers.js" async>
+  {
+  "symbols": [
 
-1. [Apple](./apple/apple.md)
-2. [Opportunities in Genetics](./genetics/genetics.md)
+  {
+    "description": "MSFT",
+    "proName": "NASDAQ:MSFT"
+  },
+  {
+    "description": "NKE",
+    "proName": "NYSE:NKE"
+  },
+  {
+    "description": "ARKK",
+    "proName": "AMEX:ARKK"
+  },
+  {
+    "description": "SGOL",
+    "proName": "AMEX:SGOL"
+  },
+  {
+    "description": "BTC-USD",
+    "proName": "BITBAY:BTCUSD"
+  }
+  ],
+  "colorTheme": "dark",
+  "isTransparent": false,
+  "showSymbolLogo": true,
+  "locale": "en"
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
