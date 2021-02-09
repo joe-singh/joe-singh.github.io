@@ -27,7 +27,7 @@ Prior to Berkeley, I was raised in Dubai and Singapore and born in New Delhi. I 
 I like to [scribble down my thoughts from time to time](./writings.md).
 
 I really like learning new languages. 
-pretend to speak [French](./index-fr.md), [Turkish](./index-tr.md), and Persian. Recently I've tried to extend into ancient languages with
+I pretend to speak [French](./index-fr.md), [Turkish](./index-tr.md), and Persian. Recently I've tried to extend into ancient languages with
 [Latin](./index-lt.md) and Sanskrit. Check out some of the [translations](./translation.md) I work on in my spare time. This journey started
 when I moved out of India and had to learn English to be able to learn things and make friends in primary school.  
 
