@@ -19,16 +19,17 @@ I am a physics PhD student at Stanford University,
 currently working in Prof. Kent Irwin's group in the effort to [detect bosonic dark matter and fabricate new quantum sensors that can
 evade the Standard Quantum Limit.](https://irwinlab.sites.stanford.edu/)
 
-I graduated Phi Beta Kappa from UC Berkeley in 2019. Highlights of my research there include data analysis for the SNO
+I graduated from UC Berkeley in 2019. My research there included data analysis for the SNO
 experiment, detector analysis for its successor SNO+, and detector R&D for the SuperCDMS experiment. My senior thesis focused on precision detection of vacuum ultraviolet (VUV) photons for
 future liquid argon scintillator experiments.
 
-Prior to Berkeley, I was raised in Dubai and Singapore and born in New Delhi. I am a huge basketball fan and love reading, especially about history and geopolitics. You can see some of my thoughts [here](./writings.md).
+Prior to Berkeley, I was raised in Dubai and Singapore and born in New Delhi. I am a huge basketball fan and love reading, especially about history and geopolitics.
+I like to [scribble down my thoughts from time to time](./writings.md).
 
-I am also very passionate about learning new languages. In addition to English and Hindi, which I speak fluently, I
+I really like learning new languages. 
 pretend to speak [French](./index-fr.md), [Turkish](./index-tr.md), and Persian. Recently I've tried to extend into ancient languages with
-[Latin](./index-lt.md) and Sanskrit. Check out some of the [translations](./translation.md)
-I am putting together in my spare time!
+[Latin](./index-lt.md) and Sanskrit. Check out some of the [translations](./translation.md) I work on in my spare time. This journey started
+when I moved out of India and had to learn English to be able to learn things and make friends in primary school.  
 
 When not reading or declining nouns, I typically hunt for amazing
 kebabs, so if you know where to get some or want to discuss physics, you can get in touch with me [here](mailto:joesingh@stanford.edu)
