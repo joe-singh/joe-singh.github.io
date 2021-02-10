@@ -11,7 +11,7 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 --->
 # Kendim Hakkında
- <img align="right" src="./dp.jpg" style="max-width:40%; border-radius:5%; padding-left: 20px;">
+ <img align="right" src="./dp.jpg" style="max-width:30%; border-radius:5%; padding-left: 20px;">
 Ben Stanford Üniversitesi'nde öğrenciyim ve doktoramı yapıyorum. 
 Özellikle yüksek enerji fiziği ve kozmoloji aramalarıyla ilgilenirim. Şu anda [Kent Irwin'in grubunda bosonic karanlık maddeyi bulmaya ve standart kuantum sınırını kaçınan yeni kuantum sensörleri
 yaratmaya çalışıyorum](https://irwinlab.sites.stanford.edu/)
