@@ -20,5 +20,5 @@ If you spot mistakes, please let me know!
 * [<em>The Art of War</em> (English to Latin)](./translation/ArsBelli/ArsBelli.pdf)
 
 ## In Progress
-* [<em>Shahnameh</em> (Persian to English)](./translation/shahnameh/shahnameh_blog.md)
 * [<em>Bhagavad Gītā</em> (Sanskrit to English)](./translation/gita/gita.md)
+* [<em>Shahnameh</em> (Persian to English)](./translation/shahnameh/shahnameh_blog.md)
