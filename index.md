@@ -27,9 +27,9 @@ Prior to Berkeley, I was raised in Dubai and Singapore and born in New Delhi. I 
 I like to [scribble down my thoughts from time to time](./writings.md).
 
 I also really like learning new languages. 
-I pretend to speak [French](./index-fr.md), [Turkish](./index-tr.md), and Persian. Recently I've tried to extend into ancient languages with
-[Latin](./index-lt.md) and Sanskrit. You can check out some of the [translations](./translation.md) I work on in my spare time. I thought this hobby started
-a few years ago, but I think it's actually from when I moved out of India and had to learn English to be able to learn things and make friends in primary school.  
+I pretend to speak [French](./index-fr.md), [Turkish](./index-tr.md), and [Persian](./translation/shahnameh/shahnameh_blog.md) Recently I've tried to extend into ancient languages with
+[Latin](./index-lt.md) and [Sanskrit](./translation/gita/gita.md). I used to think this hobby started
+a few years ago, but now I think it's actually from my childhood when I had to learn English to be able to learn things and make friends in a new only English speaking school.   
 
 When not reading or declining nouns, I typically hunt for amazing
 kebabs, so if you know where to get some or want to discuss physics, you can get in touch with me [here](mailto:joesingh@stanford.edu)
