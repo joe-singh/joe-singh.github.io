@@ -11,18 +11,31 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 --->
 ## Ch. 1: अर्जुनविषादयोग — <em> Arjunaviṣādayoga </em> — The Yoga of Arjuna's Dejection
-
-* [Verse 1.1](./v1-1.md)
-* [Verse 1.2](./v1-2.md)
-* [Verse 1.3](./v1-3.md)
-* [Verse 1.4](./v1-4.md)
-* [Verse 1.5](./v1-5.md)
-* [Verse 1.6](./v1-6.md)
-* [Verse 1.7](./v1-7.md)
-* [Verse 1.8](./v1-8.md)
-* [Verse 1.9](./v1-9.md)
-* [Verse 1.10](./v1-10.md)
-* [Verse 1.11](./v1-11.md)
+<div class="move" style="position:relative;min-width:960px">
+ <p style="position: absolute;right:0;top:0"><a href="../gita.html">List of Chapters</a></p>
+</div>
+* [Verse 1.1](./v1-1.md) <br>
+<em> Dhṛtarāṣṭra said: O Sañjaya, after gathering on the holy field of Kurukshetra what did my sons and the sons of Pandu, desiring to fight, do? </em>
+* [Verse 1.2](./v1-2.md) <br>
+<em> Sañjaya said: Having seen the army of the sons of Pandu arranged in formation, King Duryodhanaḥ then approaching his teacher spoke these words.</em>
+* [Verse 1.3](./v1-3.md) <br>
+<em> O teacher, behold this great army of the sons of Pandu, arranged for battle by your intelligent disciple the son of Drupada. </em>
+* [Verse 1.4](./v1-4.md) <br>
+<em> Here are heroes and great archers equal to Bhīma and Arjuna in battle, Yuyudhānaḥ, Virāṭa, and Drupadaḥ the mighty. </em>
+* [Verse 1.5](./v1-5.md) <br>
+<em> There are also fighters like Dhṛṣṭaketuḥ, Cekitānaḥ, and heroic Kāśirāja. Purujit, Kuntibhojaḥ, and Śaibyaḥ the bull amongst men.</em>
+* [Verse 1.6](./v1-6.md) <br>
+<em> Yudhāmanyuḥ the courageous, heroic Uttamaujāḥ, the son of Subhadrā and the sons of Draupadī all indeed great warriors. </em>
+* [Verse 1.7](./v1-7.md) <br>
+<em> Those of ours who are distinguished, know them O twice born! The leaders of my army, I name them to you for your knowledge. </em>
+* [Verse 1.8](./v1-8.md) <br>
+<em> There are yourself, Bhīṣmaḥ, Karṇaḥ, and Kṛpaḥ always victorious in battle and also certainly Aśvatthāmā, Vikarṇaḥ, and the son of Somadatta. </em>
+* [Verse 1.9](./v1-9.md) <br>
+<em> Many other heroes also willing to risk their lives for me, striking with many weapons and all skilled in battle. </em>
+* [Verse 1.10](./v1-10.md) <br>
+<em> Unlimited is our strength protected by Bhīṣmā. Limited however is this strength of the Pāṇḍavās protected by Bhīmā. </em>
+* [Verse 1.11](./v1-11.md) <br>
+<em> You, all situated in their positions, must indeed protect and support Bhīṣma. </em>
 
 <!---
 ## Header 2
