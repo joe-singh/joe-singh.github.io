@@ -1,5 +1,23 @@
 ## Nouns & Adjectives
 
+<style>
+table {
+  border-collapse: collapse;
+  border-style: hidden;
+}
+th {
+  background: #FBFAF7;
+}
+td {
+  font-size: 25px;
+  background: #FBFAF7;
+  border: 1px solid black;
+}
+div.move {
+  font-size: 25px;
+}
+</style>
+
 ### Nouns
 
 Sanskrit is a strongly inflected language. This means that nouns and
