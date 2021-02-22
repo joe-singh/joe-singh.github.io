@@ -1,4 +1,4 @@
-## Nouns & Adjectives
+# Nouns & Adjectives
 
 <style>
 table {
@@ -18,7 +18,7 @@ div.move {
 }
 </style>
 
-### Nouns
+## Nouns
 
 Sanskrit is a strongly inflected language. This means that nouns and
 adjectives change their form depending on their function in a sentence. The
