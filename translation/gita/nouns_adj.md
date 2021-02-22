@@ -1,23 +1,5 @@
 # Nouns & Adjectives
 
-<style>
-table {
-  border-collapse: collapse;
-  border-style: hidden;
-}
-th {
-  background: #FBFAF7;
-}
-td {
-  font-size: 25px;
-  background: #FBFAF7;
-  border: 1px solid black;
-}
-div.move {
-  font-size: 25px;
-}
-</style>
-
 ## Nouns
 
 Sanskrit is a strongly inflected language. This means that nouns and
@@ -59,3 +41,4 @@ in Sanskrit, along with the abbreviation used in this translation to identify it
 |   Ablative   |     abl.     |    This noun is the origin of the action - i.e.  the action comes from  this noun    |        <em>narāt</em>       |
 |   Genitive   |     gen.     |                        This noun is the possessor of something                       |       <em>narasya</em>      |
 |   Locative   |     loc.     |            This noun is the location, i.e. something is in or on this noun           |        <em>nare</em>        |
+|   Vocative   |     voc.     |                        This noun is being addressed or called                        |        <em>nara</em>        |
