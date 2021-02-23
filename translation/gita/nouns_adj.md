@@ -98,3 +98,25 @@ Just as with case, adjectives have to agree with the number of the word
 they describe. We saw above <em>mahān naraḥ</em> is "great man". "Great men"
 would be <em>mahanto narāḥ</em>. Similarly, while "for the great man" was
 <em>mahate narāya</em>, "for the great men" is <em>mahadbhyo narebhyaḥ</em> \*.
+
+## Gender
+
+The final classification of Sanskrit nouns and adjectives is gender. There are  
+three genders in Sanskrit, like in modern Russian and Greek. These are
+<em>masculine</em>, <em>feminine</em>, and <em>neuter</em>. In this translation,
+they are abbreviated as **m**, **f**, **n** respectively.
+
+Nouns of different genders have different declension patterns for the various
+cases. Here is an example of a feminine noun, <em>vidyā</em> (knowledge), and
+a neuter noun <em>phalam</em> (fruit).
+
+|     Case     |  Singular |    Dual   |   Plural  |
+|:------------:|:---------:|:---------:|:---------:|
+|  Nominative  |   vidyā   |   narau   |   narāḥ   |
+|  Accusative  |  vidyām   |   narau   |   narān   |
+| Instrumental |  vidyayā  | narābhyām |   naraiḥ  |
+|    Dative    |  vidyāyai | narābhyām | narebhyaḥ |
+|   Ablative   |  vidyāyāḥ | narābhyām | narebhyaḥ |
+|   Genitive   |  vidyāyāḥ |  narayoḥ  |  narāṇām  |
+|   Locative   |  vidyāyām |  narayoḥ  |   nareṣu  |
+|   Vocative   |   vídye    |   narau   |   narāḥ   |
