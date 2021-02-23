@@ -112,11 +112,11 @@ a neuter noun <em>phalam</em> (fruit).
 
 |     Case     |  Singular |    Dual   |   Plural  |
 |:------------:|:---------:|:---------:|:---------:|
-|  Nominative  |   vidyā   |   narau   |   narāḥ   |
-|  Accusative  |  vidyām   |   narau   |   narān   |
-| Instrumental |  vidyayā  | narābhyām |   naraiḥ  |
-|    Dative    |  vidyāyai | narābhyām | narebhyaḥ |
-|   Ablative   |  vidyāyāḥ | narābhyām | narebhyaḥ |
-|   Genitive   |  vidyāyāḥ |  narayoḥ  |  narāṇām  |
-|   Locative   |  vidyāyām |  narayoḥ  |   nareṣu  |
-|   Vocative   |   vídye    |   narau   |   narāḥ   |
+|  Nominative  |   vidyā   |   vidye   |   vidyāḥ   |
+|  Accusative  |  vidyām   |   vidye   |   vidyāḥ   |
+| Instrumental |  vidyayā  | vidyābhyām | vidyābhiḥ  |
+|    Dative    |  vidyāyai | vidyābhyām | vidyābhyaḥ |
+|   Ablative   |  vidyāyāḥ | vidyābhyām | vidyābhyaḥ |
+|   Genitive   |  vidyāyāḥ |  vidyāyoḥ  |  vidyāṇām  |
+|   Locative   |  vidyāyām |  vidyāyoḥ  |  vidyāsu  |
+|   Vocative   |   vidye   |   vidye   |   vidyāḥ   |
