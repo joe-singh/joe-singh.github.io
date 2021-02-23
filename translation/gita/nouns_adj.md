@@ -1,6 +1,9 @@
 # Nouns & Adjectives
 
-## Nouns
+Nouns and Adjectives in Sanskrit are classified by three features: case,
+number, and gender.
+
+## Case
 
 Sanskrit is a strongly inflected language. This means that nouns and
 adjectives change their form depending on their function in a sentence. The
@@ -42,3 +45,28 @@ in Sanskrit, along with the abbreviation used in this translation to identify it
 |   Genitive   |     gen.     |                        This noun is the possessor of something                       |       <em>narasya</em>      |
 |   Locative   |     loc.     |            This noun is the location, i.e. something is in or on this noun           |        <em>nare</em>        |
 |   Vocative   |     voc.     |                        This noun is being addressed or called                        |        <em>nara</em>        |
+
+Adjectives also change their form, and will be in the same case as the word they
+are describing. Suppose we want to say
+
+## Number
+
+Sanskrit nouns and adjectives have three numbers: singular, plural, and dual.
+Modern languages typically have only singular and plural nouns, but some such as
+Arabic also have a dual. As the name suggests, the dual is a form used when
+referring to two of something. Let's see how our sample word <em>nara</em>
+behaves in its singular, dual, and plural forms.
+
+|     Case     | Singular |    Dual   |   Plural  |
+|:------------:|:--------:|:---------:|:---------:|
+|  Nominative  |   naraḥ  |   narau   |   narāḥ   |
+|  Accusative  |   naram  |   narau   |   narān   |
+| Instrumental |  nareṇa  | narābhyām |   naraiḥ  |
+|    Dative    |  narāya  | narābhyām | narebhyaḥ |
+|   Ablative   |   narāt  | narābhyām | narebhyaḥ |
+|   Genitive   |  narasya |  narayoḥ  |  narāṇām  |
+|   Locative   |   nare   |  narayoḥ  |   nareṣu  |
+|   Vocative   |   nara   |   narau   |   narāḥ   |
+
+The labels used in the translation to signify number are **sg**,
+**dual**, and **pl**.
