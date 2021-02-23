@@ -85,7 +85,7 @@ need to be next to each other in sentences. For example, if we want to say
 the elephant (<em>gaja</em>) sees the great man, we could say
 
 <p align="center">
-<em>gajaḥ paśyati <span style="color:blue">*mahantaṃ naram*</span></em>
+<em>gajaḥ paśyati <span style="color:blue">mahantaṃ naram</span></em>
 </p>
 
 But we could also say
