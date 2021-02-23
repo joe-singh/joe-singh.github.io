@@ -91,7 +91,7 @@ the elephant (<em>gaja</em>) sees the great man, we could say
 But we could also say
 
 <p align="center">
-<em><span style="color:blue">*mahantaṃ*</span> gajaḥ paśyati <span style="color:blue">*naram*</span>
+<em><span style="color:blue">*mahantaṃ*</span> gajaḥ paśyati <span style="color:blue">*naram*</span></em>
 </p>
 
 Since <em>mahantaṃ</em> is an accusative form it must agree with an accusative noun.
