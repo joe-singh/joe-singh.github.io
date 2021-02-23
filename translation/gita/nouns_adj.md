@@ -78,7 +78,7 @@ The labels used in the translation to signify number are **sg**,
 Just as with case, adjectives have to agree with the number of the word
 they describe. We saw above <em>mahān naraḥ</em> is great man. Great men
 would be <em>mahanto narāḥ</em>. Similarly, while for the great man was
-<em>mahate narāya</em>, for the great men is <em>mahadbhyo narebhyaḥ</em>\*.
+<em>mahate narāya</em>, for the great men is <em>mahadbhyo narebhyaḥ</em> \*.
 
 Unlike in English, adjectives and the words they describe don't technically
 need to be next to each other in sentences. For example, if we want to say
