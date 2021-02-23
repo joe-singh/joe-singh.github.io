@@ -84,4 +84,4 @@ Unlike in English, adjectives and the words they describe don't technically
 need to be next to each other in sentences. For example, if we want to say
 the elephant (<em>gaja</em>) sees the great man, we could say
 
-<em>gajaḥ paśyati <span style="color:blue">*mahantaṃ naram* text</span>.
+<em>gajaḥ paśyati <span style="color:blue">*mahantaṃ naram* text</span>.</em>
