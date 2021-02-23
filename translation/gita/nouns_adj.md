@@ -84,8 +84,17 @@ Unlike in English, adjectives and the words they describe don't technically
 need to be next to each other in sentences. For example, if we want to say
 the elephant (<em>gaja</em>) sees the great man, we could say
 
+<p align="center">
 <em>gajaḥ paśyati <span style="color:blue">*mahantaṃ naram*</span></em>
+</p>
 
 But we could also say
 
+<p align="center">
 <em><span style="color:blue">*mahantaṃ*</span> gajaḥ paśyati <span style="color:blue">*naram*</span>
+</p>
+
+Since <em>mahantaṃ</em> is an accusative form it must agree with an accusative noun.
+In this sentence only <em>naram</em> meets that condition so we know it must agree with that,
+independent of where it is in the sentence. This once again shows how flexible word order
+is in Sanskrit compared with English.
