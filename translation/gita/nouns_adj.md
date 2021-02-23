@@ -47,7 +47,11 @@ in Sanskrit, along with the abbreviation used in this translation to identify it
 |   Vocative   |     voc.     |                        This noun is being addressed or called                        |        <em>nara</em>        |
 
 Adjectives also change their form, and will be in the same case as the word they
-are describing. Suppose we want to say
+are describing. If we want to say "the great man", we would say
+<em>mahān naraḥ</em>. <em>Mahān</em> is the nominative form of <em>mahat</em>
+meaning great and agrees with the nominative <em>naraḥ</em>. If however we want
+to say for the great man, we would say <em>mahate narāya</em>, with both
+words in their dative form.
 
 ## Number
 
@@ -70,3 +74,14 @@ behaves in its singular, dual, and plural forms.
 
 The labels used in the translation to signify number are **sg**,
 **dual**, and **pl**.
+
+Just as with case, adjectives have to agree with the number of the word
+they describe. We saw above <em>mahān naraḥ</em> is great man. Great men
+would be <em>mahanto narāḥ</em>. Similarly, while for the great man was
+<em>mahate narāya</em>, for the great men is <em>mahadbhyo narebhyaḥ</em>.
+
+Unlike in English, adjectives and the words they describe don't technically
+need to be next to each other in sentences. For example, if we want to say
+the elephant (<em>gaja</em>) sees the great man, we could say
+
+<em>gajaḥ paśyati <span style="color:blue">*mahantaṃ naram* text</span>.
