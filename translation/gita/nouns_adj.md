@@ -53,6 +53,25 @@ meaning great and agrees with the nominative <em>naraḥ</em>. If however we wan
 to say for the great man, we would say <em>mahate narāya</em>, with both
 words in their dative form.
 
+Unlike in English, adjectives and the words they describe don't technically
+need to be next to each other in sentences. For example, if we want to say
+the elephant (<em>gaja</em>) sees the great man, we could say
+
+<p align="center">
+<em>gajaḥ paśyati <span style="color:blue">mahantaṃ naram</span></em>
+</p>
+
+But we could also say
+
+<p align="center">
+<em><span style="color:blue">mahantaṃ</span> gajaḥ paśyati <span style="color:blue">naram</span></em>
+</p>
+
+Since <em>mahantaṃ</em> is an accusative form it must agree with an accusative noun.
+In this sentence only <em>naram</em> meets that condition so we know it must agree with that,
+independent of where it is in the sentence. This once again shows how flexible word order
+is in Sanskrit compared with English.
+
 ## Number
 
 Sanskrit nouns and adjectives have three numbers: singular, plural, and dual.
@@ -79,22 +98,3 @@ Just as with case, adjectives have to agree with the number of the word
 they describe. We saw above <em>mahān naraḥ</em> is great man. Great men
 would be <em>mahanto narāḥ</em>. Similarly, while for the great man was
 <em>mahate narāya</em>, for the great men is <em>mahadbhyo narebhyaḥ</em> \*.
-
-Unlike in English, adjectives and the words they describe don't technically
-need to be next to each other in sentences. For example, if we want to say
-the elephant (<em>gaja</em>) sees the great man, we could say
-
-<p align="center">
-<em>gajaḥ paśyati <span style="color:blue">mahantaṃ naram</span></em>
-</p>
-
-But we could also say
-
-<p align="center">
-<em><span style="color:blue">mahantaṃ</span> gajaḥ paśyati <span style="color:blue">naram</span></em>
-</p>
-
-Since <em>mahantaṃ</em> is an accusative form it must agree with an accusative noun.
-In this sentence only <em>naram</em> meets that condition so we know it must agree with that,
-independent of where it is in the sentence. This once again shows how flexible word order
-is in Sanskrit compared with English.
