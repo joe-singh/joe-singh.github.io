@@ -58,13 +58,13 @@ need to be next to each other in sentences. For example, if we want to say
 the elephant (<em>gaja</em>) sees the great man, we could say
 
 <p align="center">
-<em>gajaḥ paśyati <span style="color:blue">mahantaṃ naram</span></em>
+<em>gajaḥ paśyati <span style="color:red">mahantaṃ naram</span></em>
 </p>
 
 But we could also say
 
 <p align="center">
-<em><span style="color:blue">mahantaṃ</span> gajaḥ paśyati <span style="color:blue">naram</span></em>
+<em><span style="color:red">mahantaṃ</span> gajaḥ paśyati <span style="color:red">naram</span></em>
 </p>
 
 Since <em>mahantaṃ</em> is an accusative form it must agree with an accusative noun.
@@ -95,6 +95,6 @@ The labels used in the translation to signify number are **sg**,
 **dual**, and **pl**.
 
 Just as with case, adjectives have to agree with the number of the word
-they describe. We saw above <em>mahān naraḥ</em> is great man. Great men
-would be <em>mahanto narāḥ</em>. Similarly, while for the great man was
-<em>mahate narāya</em>, for the great men is <em>mahadbhyo narebhyaḥ</em> \*.
+they describe. We saw above <em>mahān naraḥ</em> is "great man". "Great men"
+would be <em>mahanto narāḥ</em>. Similarly, while "for the great man" was
+<em>mahate narāya</em>, "for the great men" is <em>mahadbhyo narebhyaḥ</em> \*.
