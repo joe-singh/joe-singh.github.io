@@ -1,7 +1,8 @@
 # Nouns & Adjectives
 
 Nouns and Adjectives in Sanskrit are classified by three features: case,
-number, and gender.
+number, and gender. They are also used to form a rich variety of compound
+word structures.
 
 ## Contents
 <div class="straits">
@@ -9,6 +10,7 @@ number, and gender.
 <li><a href="#case">Case</a></li>
 <li><a href="#number">Number</a></li>
 <li><a href="#gender">Gender</a></li>
+<li><a href="#compound">Compounds</a></li>
 </ol>
 </div>
 
@@ -143,3 +145,49 @@ Here is <em>phalam</em> as an example of a neuter noun
 |   Genitive   |  phalasya |  phalayoḥ  |  phalāṇām  |
 |   Locative   |  phale |  phalayoḥ  |  phaleṣu  |
 |   Vocative   |   phala   |   phale   |   phalani   |
+
+## Compounds
+<div id="compound"></div>
+
+One of the most common features of Sanskrit nouns is fusing them together
+to form compounds, much like German does. Compound words are a very central part
+of the language and it is very important to be able to recognise them.
+
+The <em>Gītā</em>, for example, is rich in compound forms such as
+<em>sarvakarmaphalatyāgam</em> which is formed from four words - three nouns and
+and adjective. Quite literally translated, this compound refers to the act of
+abandoning the fruits of all actions.
+
+As the example above might suggest, there is no limit to how many words you can
+fuse together as long as they obey the strict rules of compounding. These are
+the main types of Sanskrit compounds:
+
+* [Tatpuruṣa]
+
+The <em>tatpuruṣa</em> is a compound of two or more terms in which the first part modifies
+the second part in some way. More specifically, a tatpuruṣa X+Y is a noun Y
+related to noun X by a case relationship. In this translation <em>tatpuruṣa</em>
+compounds are marked **tp**.
+
+English has plenty of <em>tatpuruṣa</em> compounds. An example is "bookcase", which is
+a compound of book and case. More specifically, a bookcase is a case of books.
+If English had case, the case relationship between the two nouns
+here would be a genitive one.  
+
+An example of a <em>tatpuruṣa</em> that is used today as a name in India is
+<em>devadāsa</em>. This is the combination of <em>deva</em> + <em>dāsa</em>
+which literally is "God servant" but is read as servant of God.
+
+One very important thing to note is that in a <em>tatpuruṣa</em> X+Y, X is in
+its pure stem form, i.e. it has no case marking. Y however does have case marking
+and the whole compound noun gets its case, number, and gender from Y.
+
+Since the first part of the <em>tatpuruṣa</em> does not have case marking, this  
+means that we need context to determine which case relationship was intended between
+X and Y. Quite often it is genitive, i.e. Y of X. Other relationships are possible
+though - here are some other examples:
+
+<p align="center">
+<em>jaya-prepsu</em> = victory-desiring (accusative)
+<em>deva-datta</em> = by gods-given (instrumental)
+</p>
