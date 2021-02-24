@@ -191,3 +191,14 @@ though - here are some other examples:
 <em>jaya-prepsu</em> = victory-desiring (accusative) <br>
 <em>deva-datta</em> = by gods-given (instrumental)
 </p>
+
+<em>Tatpuruṣa</em> can be longer than two words. We gave the example above of
+<em>sarvakarmaphalatyāgam</em>. Breaking it down gives:
+
+<p align="center">
+<em>sarva-karma-phala-tyāgam</em><br>
+all-action-fruit-abandonment
+Abandonment of fruit of all action
+</p>
+
+So we see just how adventurous compounding can be in Sanskrit!
