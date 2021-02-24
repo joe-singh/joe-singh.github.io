@@ -3,8 +3,17 @@
 Nouns and Adjectives in Sanskrit are classified by three features: case,
 number, and gender.
 
-## Case
+## Contents
+<div class="straits">
+<ol type="1">
+<li><a href="#case">Case</a></li>
+<li><a href="#number">Number</a></li>
+<li><a href="#gender">Gender</a></li>
+</ol>
+</div>
 
+## Case
+<div id="case">
 Sanskrit is a strongly inflected language. This means that nouns and
 adjectives change their form depending on their function in a sentence. The
 form that a word takes is called its <em>case</em>.
@@ -71,9 +80,10 @@ Since <em>mahantaṃ</em> is an accusative form it must agree with an accusative
 In this sentence only <em>naram</em> meets that condition so we know it must agree with that,
 independent of where it is in the sentence. This once again shows how flexible word order
 is in Sanskrit compared with English.
+</div><br>
 
 ## Number
-
+<div id='number'>
 Sanskrit nouns and adjectives have three numbers: singular, plural, and dual.
 Modern languages typically have only singular and plural nouns, but some such as
 Arabic also have a dual. As the name suggests, the dual is a form used when
@@ -98,9 +108,10 @@ Just as with case, adjectives have to agree with the number of the word
 they describe. We saw above <em>mahān naraḥ</em> is "great man". "Great men"
 would be <em>mahanto narāḥ</em>. Similarly, while "for the great man" was
 <em>mahate narāya</em>, "for the great men" is <em>mahadbhyo narebhyaḥ</em> \*.
+</div> <br>
 
 ## Gender
-
+<div id='gender'>
 The final classification of Sanskrit nouns and adjectives is gender. There are  
 three genders in Sanskrit, like in modern Russian and Greek. These are
 <em>masculine</em>, <em>feminine</em>, and <em>neuter</em>. In this translation,
@@ -133,3 +144,5 @@ Here is <em>phalam</em> as an example of a neuter noun
 |   Genitive   |  phalasya |  phalayoḥ  |  phalāṇām  |
 |   Locative   |  phale |  phalayoḥ  |  phaleṣu  |
 |   Vocative   |   phala   |   phale   |   phalani   |
+
+</div>
