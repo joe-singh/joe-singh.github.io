@@ -197,7 +197,7 @@ though - here are some other examples:
 
 <p align="center">
 <em>sarva-karma-phala-tyāgam</em><br>
-all-action-fruit-abandonment
+all-action-fruit-abandonment<br>
 Abandonment of fruit of all action
 </p>
 
