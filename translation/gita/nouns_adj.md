@@ -162,7 +162,7 @@ As the example above might suggest, there is no limit to how many words you can
 fuse together as long as they obey the strict rules of compounding. These are
 the main types of Sanskrit compounds:
 
-* Tatpuruṣa
+### Tatpuruṣa
 
 The <em>tatpuruṣa</em> is a compound of two or more terms in which the first part modifies
 the second part in some way. More specifically, a tatpuruṣa X+Y is a noun Y
