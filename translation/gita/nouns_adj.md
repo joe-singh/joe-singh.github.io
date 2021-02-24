@@ -203,6 +203,6 @@ Abandonment of fruit of all action
 
 Without any other context, the case relationship that makes the most sense
 is genitive, although this compound could have some other meaning like
-abandonment by fruit from all action (replacing the two genitives with an
-instrumental for <em>phala</em> and an ablative for <em>karma</em>) given the
-right context.
+abandonment by fruit from all action if we interpret an
+instrumental for <em>phala</em> and an ablative for <em>karma</em> instead.
+With <em>tatpuruṣa</em> compounds it all depends on the context they are in.  
