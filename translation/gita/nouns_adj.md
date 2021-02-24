@@ -188,6 +188,6 @@ X and Y. Quite often it is genitive, i.e. Y of X. Other relationships are possib
 though - here are some other examples:
 
 <p align="center">
-<em>jaya-prepsu</em> = victory-desiring (accusative)
+<em>jaya-prepsu</em> = victory-desiring (accusative) <br>
 <em>deva-datta</em> = by gods-given (instrumental)
 </p>
