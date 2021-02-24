@@ -120,3 +120,16 @@ a neuter noun <em>phalam</em> (fruit).
 |   Genitive   |  vidyāyāḥ |  vidyāyoḥ  |  vidyāṇām  |
 |   Locative   |  vidyāyām |  vidyāyoḥ  |  vidyāsu  |
 |   Vocative   |   vidye   |   vidye   |   vidyāḥ   |
+
+Here is <em>phalam</em> as an example of a neuter noun
+
+|     Case     |  Singular |    Dual   |   Plural  |
+|:------------:|:---------:|:---------:|:---------:|
+|  Nominative  |  phalam   |   phale   |   phalani   |
+|  Accusative  |  phalam   |   phale   |   phalani   |
+| Instrumental |  phalena  | phalābhyām | phalaiḥ  |
+|    Dative    |  phalāya | phalābhyām | phalebhyaḥ |
+|   Ablative   |  phalāt | phalābhyām | phalebhyaḥ |
+|   Genitive   |  phalasya |  phalayoḥ  |  phalāṇām  |
+|   Locative   |  phale |  phalayoḥ  |  phaleṣu  |
+|   Vocative   |   phala   |   phale   |   phalani   |
