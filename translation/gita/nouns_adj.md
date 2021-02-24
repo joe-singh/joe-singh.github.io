@@ -201,4 +201,8 @@ all-action-fruit-abandonment<br>
 Abandonment of fruit of all action
 </p>
 
-So we see just how adventurous compounding can be in Sanskrit!
+Without any other context, the case relationship that makes the most sense
+is genitive, although this compound could have some other meaning like
+abandonment by fruit from all action (replacing the two genitives with an
+instrumental for <em>phala</em> and an ablative for <em>karma</em>) given the
+right context.
