@@ -202,7 +202,7 @@ Abandonment of fruit of all action
 </p>
 
 Without any other context, the case relationship that makes the most sense
-is genitive, although this compound could have some other meaning like
-abandonment by fruit from all action if we interpret an
-instrumental for <em>phala</em> and an ablative for <em>karma</em> instead.
+is genitive. In some other context however, this compound may have some other meaning.
+An example could be abandonment **by** fruit **from** all action, if we instead
+interpret <em>phala</em> as instrumental and <em>karma</em> as ablative.
 With <em>tatpuruṣa</em> compounds it all depends on the context they are in.  
