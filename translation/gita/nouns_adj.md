@@ -113,7 +113,7 @@ would be <em>mahanto narāḥ</em>. Similarly, while "for the great man" was
 
 ## Gender
 <div id='gender'></div>
-The final classification of Sanskrit nouns and adjectives is gender. There are  
+The final classification of Sanskrit nouns and adjectives is gender. There are
 three genders in Sanskrit, like in modern Russian and Greek. These are
 <em>masculine</em>, <em>feminine</em>, and <em>neuter</em>. In this translation,
 they are abbreviated as **m**, **f**, **n** respectively.
