@@ -182,7 +182,7 @@ One very important thing to note is that in a <em>tatpuruṣa</em> X+Y, X is in
 its pure stem form, i.e. it has no case marking. Y however does have case marking
 and the whole compound noun gets its case, number, and gender from Y.
 
-Since the first part of the <em>tatpuruṣa</em> does not have case marking, this  
+Since the first part of the <em>tatpuruṣa</em> does not have case marking, this
 means that we need context to determine which case relationship was intended between
 X and Y. Quite often it is genitive, i.e. Y of X. Other relationships are possible
 though - here are some other examples:
