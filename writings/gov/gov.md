@@ -1,5 +1,5 @@
-# Gov
+# Civics
 
-Gov
+Some thoughts on civics and statecraft.
 
 1. [The Fragility of Separation of Powers](./post1/post_1.md)
