@@ -1,7 +1,8 @@
 # Blog
 
-I spend a fair bit of time thinking about things that are not physics. It got to
-the point where I thought it might be a good idea to commit some of these to
+I spend a fair bit of time thinking about things that are not physics. During COVID, 
+my daydreaming got to
+the point where I thought it might be a good idea to commit something to
 writing. Writing forces us to refine our scattered thoughts into a
 coherent argument that actually makes sense.
 It also lets us look back years from now and
@@ -10,5 +11,5 @@ maybe comment on what fools we were back in the day.
 
 
 * [Geopolitics](./writings/straits/straits.md)
-* [Government & Civics](./writings/gov/gov.md)
-* [Investing & Valuation](./writings/valuation/valuation.md)
+* [Civics](./writings/gov/gov.md)
+* [Finance](./writings/valuation/valuation.md)
