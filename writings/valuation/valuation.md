@@ -1,6 +1,6 @@
-# Investment Ideas
+# Finance
 
-Some thoughts on investing ideas and valuing companies. Nothing here
+Thoughts I accrue on my journey learning about finance and investing. Nothing here
 is a recommendation. Please take everything
 here with a grain of salt and do your own research.
 
