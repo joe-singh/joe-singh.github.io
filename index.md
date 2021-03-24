@@ -15,8 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <!--<img style="position:absolute; LEFT:78% " width="205" height="308" src="./goodpic.jpg"> -->
 <img align="right" src="./dp.jpg" style="max-width:30%; border-radius:5%; padding-left: 20px;">
-I am a physics PhD student at Stanford University,
-currently working in Prof. Kent Irwin's group in the effort to [detect bosonic dark matter and fabricate new quantum sensors that can
+I am a physics PhD student at Stanford University, working in Prof. Kent Irwin's group to [detect bosonic dark matter by fabricating quantum sensors that can
 evade the Standard Quantum Limit.](https://irwinlab.sites.stanford.edu/)
 
 I graduated from UC Berkeley in 2019. My research there included data analysis for the SNO
