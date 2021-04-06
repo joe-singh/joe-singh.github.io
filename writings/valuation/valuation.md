@@ -7,6 +7,7 @@ here with a grain of salt and do your own research.
 1. [Apple](./apple/apple.md)
 2. [Opportunities in Genetics](./genetics/genetics.md)
 3. [Stocks in an Inflationary Environment](./inflation/inflation.md)
+
 <!--
 TradingView Widget BEGIN
 <div class="tradingview-widget-container">
