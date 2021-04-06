@@ -2,9 +2,9 @@
 
 Thoughts I accrue on my journey learning about finance and economics.
 
-1. [Apple](./apple/apple.md)
-2. [Opportunities in Genetics](./genetics/genetics.md)
-3. [Stocks in an Inflationary Environment](./inflation/inflation.md)
+1. [Apple - 8/12/2020](./apple/apple.md)
+2. [Opportunities in Genetics - 10/1/2021](./genetics/genetics.md)
+3. [Stocks in an Inflationary Environment - 5/4/2021](./inflation/inflation.md)
 
 <!--
 TradingView Widget BEGIN
