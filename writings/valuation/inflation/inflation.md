@@ -8,7 +8,7 @@ One of the most notable economic consequences of the pandemic last year was the 
 Recently, however, there has been a reversal in the markets. In early 2021, it has been energy and not tech which has been the best performing sector. Just last year, energy appeared to be on life support with crude prices dropping negative at one point. Yet despite this, as the chart below
 clearly shows, energy has roared back.
 </div>
-<div style="text-align:center"><img src="./indices.png" /></div>
+<div style="text-align:center"><img src="./Indices.png" /></div>
 {:.image-caption}
 *<center>YTD performance of energy stocks - represented by S&P 500 Energy Index (SPN) - vs S&P 500 (SPX), NASDAQ 100 (NDX), and Russell 2000 (RUT). Source: TradingView.</center>*
 
@@ -18,7 +18,7 @@ This chart compares the year-to-date performance of the S&P Energy index SPN wit
 <div id="core" class='straits'>
 A large part of the answer lies in what’s happening in the bond markets. Let’s overlay SPN with the yield on the US 10 Year Government Bond, considered the benchmark risk free rate of return in the economy. We see that initially as the crisis hit, bond yields plunged thanks to the Federal Reserve’s actions. For much of 2020, bond yields remained low. Near the end of the year, however, yields began to rise. By early 2021, yields were in an accelerated ascent. Energy seems to be tracing the same path as interest rates. Rising interest rates go hand in hand with the energy sector’s performance.
 </div>
-<div style="text-align:center"><img src="./EnergyVTrate.png" /></div>
+<div style="text-align:center"><img src="./EnergyVTRate.png" /></div>
 {:.image-caption}
 *<center>YTD comparison of SPN vs US 10Y Treasury Note Yield. Source: TradingView.</center>*
 
