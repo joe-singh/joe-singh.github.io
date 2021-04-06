@@ -1,8 +1,6 @@
-# Finance
+# Finance/Economics
 
-Thoughts I accrue on my journey learning about finance and investing. Nothing here
-is a recommendation. Please take everything
-here with a grain of salt and do your own research.
+Thoughts I accrue on my journey learning about finance and economics.
 
 1. [Apple](./apple/apple.md)
 2. [Opportunities in Genetics](./genetics/genetics.md)
