@@ -1,17 +1,13 @@
-# Ars Geopolitica - A Geopolitics Diary
+# Geopolitics
+  
+Geopolitics, the study of of how geography impacts international relations, interests me a lot. 
+I spent the vast majority of my childhood/early years by the Straits of Malacca and Hormuz, the most important energy chokepoints
+in the world. Because of this, I was a first hand witness to the important role of geography in the rise of two world cities - Singapore and Dubai.   
 
-Welcome to <em>Ars Geopolitica</em>, a small corner of the internet where I take a break from physics and turn my attention to the broader world.
-The post Cold War liberal world order is cracking at the seams
-as longterm geopolitical trends, such as the backlash against globalisation and rise of China, come to maturity. The COVID crisis
-has simply accelerated the maturation of these trends.
+Here, I'll indulge my wannabe strategic planner trying to make sense of trends that I learn about. From the backlash against
+globalisation to the rise of China, the world is very quickly becoming a more interesting place again and making geopolitics an 
+indispensable tool for making sense of all the chaos out there.
 
-In this uncertain time, the importance of geopolitics is apparent once again. Despite technological advances, geography remains a fundamental constraint on
-what states can and cannot do. Despite framing the context in which political decisions are made - particularly in the realm of foreign affairs -
-geopolitics remains conspicuously absent from everyday conversations unlike plain old politics.
-
-This blog was inspired by my having lived a majority of my life in the geopolitically important Indian Ocean region, and a
-majority of that majority living right by the critical chokepoints at the Straits of Hormuz and Malacca, which allowed me to witness the impact of
-geopolitics up close.
 
 1. [The Indian Ocean Strikes Back - 20/1/2020 ](./post1/post_1.md)
 2. [China's Modern Silk Road - 30/1/2020](./post2/post_2.md)
