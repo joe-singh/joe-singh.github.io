@@ -1,6 +1,14 @@
 # *Breath* by James Nestor
 <img align="right" src="./breath_cover.jpeg" style="max-width:30%; padding-left: 20px;">
+
+## TL;DR
+
+1. Ever since the industrial revolution, humans have become very bad at breathing, which has had huge negative effects on our health.
+2. The fundamental changes we need to make are simple: breathe from the nose, exhale deeply, breathe slowly, breathe less, and chew more. 
+3. The “perfect” breath is 5.5 seconds of inhalation and exhalation with 5.5L of air intake. This breathing pattern is a feature of prayer chants in many religions of the world.
+4. We can also harness the power of breathing to achieve results beyond just good health, such as increasing endurance and better mental health.  
+
 <div class='straits'>
-One of the most notable economic consequences of the pandemic last year was the steep drop in interest rates. Terrified by the prospect of a total meltdown, the Federal Reserve adopted a “whatever it takes” stance to ensure liquidity in the market. As rates dropped and liquidity poured in, 2020 turned out to be a blockbuster year for markets. After the initial crash, the S&P 500 has rebounded with a stellar 74% rise from the March 2020 lows. The tech heavy NASDAQ and small cap Russell 2000 indices were even more impressive, rising by over 100% each from their lows. 2020 was a great year for stocks, but it was a tremendous year for tech and growth in particular.
+Breathing is one of the most fundamental acts for living organisms, but humans are doing it all wrong - or so claims James Nestor in his insightful book Breath. Nestor says that “as a species, humans have lost the ability to breathe correctly, with grave consequences”. In Breath, he lays out what led him to this depressing conclusion, and how we can undo the damage of our terrible breathing habits.
 </div><br>
 
