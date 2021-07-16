@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 
 <!--<img style="position:absolute; LEFT:78% " width="205" height="308" src="./goodpic.jpg"> -->
-<img align="right" src="./dp.jpg" style="max-width:30%; border-radius:5%; padding-left: 20px;">
+<img align="right" src="./breath_cover.jpg" style="max-width:30%; border-radius:5%; padding-left: 20px;">
 I am a physics PhD student at Stanford University, working in Prof. Kent Irwin's group to [detect bosonic dark matter by fabricating quantum sensors that can
 evade the Standard Quantum Limit.](https://irwinlab.sites.stanford.edu/)
 
@@ -23,16 +23,15 @@ experiment, detector analysis for its successor SNO+, and detector R&D for the S
 future liquid argon scintillator experiments.
 
 Prior to Berkeley, I was raised in Dubai and Singapore and born in New Delhi. I am a huge basketball fan and love reading, especially about history and geopolitics.
-I like to [write down my thoughts from time to time](./writings.md).
+I like to [scribble down my thoughts from time to time](./writings.md).
 
 I also really like learning new languages. 
 I pretend to speak [French](./index-fr.md), [Turkish](./index-tr.md), and [Persian](./translation/shahnameh/shahnameh_blog.md). Recently I've tried to extend into ancient languages with
 [Latin](./index-lt.md) and [Sanskrit](./translation/gita/gita.md).
 
-You can get in touch with me [here](mailto:joesingh@stanford.edu)
+When not reading or declining nouns, I typically hunt for amazing
+kebabs, so if you know where to get some or want to discuss physics, you can get in touch with me [here](mailto:joesingh@stanford.edu)
 or follow me on [Twitter](https://twitter.com/SinghJyotirmai).
-
-[test](./bookreviews/breath/breath.md)
 
 <!--
 | वीर Masculine a-stem | Single | Dual | Plural |
