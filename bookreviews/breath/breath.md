@@ -1,11 +1,13 @@
 # *Breath*, James Nestor
 <img align="right" src="./breath_cover.jpeg" style="max-width:30%; padding-left: 20px;">
 
-**TL;DR**
+<!--**TL;DR**
 
 1. Ever since the industrial revolution, humans have become very bad at breathing, which has had huge negative effects on our health.
 2. The fundamental changes we need to make are simple: breathe from the nose, exhale deeply, breathe slowly, breathe less, and chew more. 
 3. The “perfect” breath is 5.5 seconds of inhalation and exhalation with 5.5L of air intake. This breathing pattern is a feature of prayer chants in many religions of the world.
+
+-->
 
 <div class='straits'>
 Breathing is one of the most fundamental acts for living organisms, but humans are doing it all wrong - or so claims James Nestor in his insightful book Breath. Nestor says that “as a species, humans have lost the ability to breathe correctly, with grave consequences”. In Breath, he lays out what led him to this depressing conclusion, and how we can undo the damage of our terrible breathing habits.
@@ -15,20 +17,22 @@ Breathing is one of the most fundamental acts for living organisms, but humans a
 To show just how bad it is, Nestor starts with a vivid description of a patient who illustrates many of the problems which stem from improper breathing. This patient had chronic nasal congestion, his mouth was “so underdeveloped it could not accommodate 32 permanent teeth”, and his tongue did not fit properly between whatever teeth he did have. His airways were obstructed and, because of all these problems, his breathing was “laboured and dysfunctional”. This “atrophied, underdeveloped mouth, throat, and skull” we learn, belongs to the author himself. For Nestor, and many others like him, breathing is a very real problem.
 </div><br>
 
-<div class='straits'>
-**Step 1: Breathe from the Nose**
- </div><br>
 
 <div class='straits'>
 The first flaw in our breathing is that too many of us still use our mouth. I was very surprised to learn that more than half of humans claim to be mouthbreathers. To illustrate the bad consequences of mouth breathing, Nestor describes an experiment he was a part of at Stanford. First, he would breathe only through the mouth for ten days and then he would be allowed to breathe from the nose. He would record data such as blood oxygen level and then compare the results from the mouth and nose breathing phase. 
 </div><br>
- 
+
+<div class='straits'> 
 The difference was startling. Over the mouth breathing phase his blood oxygen levels began falling to 90%, right at the boundary at which the body can’t supply tissues with enough oxygen. While sleeping, his snoring levels increased by over 4000%, and he averaged 25 “apnea events” where breathing stops. When the nose plugs came out, all these effects disappeared.
- 
+</div><br> 
+
+<div class='straits'>
 People typically assume it doesn’t matter whether the air comes in from the nose or mouth, as long as it reaches the lungs. This ignores the nose’s many functions. Most people are vaguely aware that the nose has a role in filtering air, but its influence goes far beyond this. For example, nasal breathing produces nitric oxide. This chemical boosts blood circulation and oxygen absorption by cells. It even has an impact on sexual function and you might know it by its more common commercial name: Viagra. Unlike the mouth, the nose has evolved specifically for the purpose of breathing. It is so specialised that the “nostrils of every living person pulse to their own rhythm” in response to our mental and physical states.
- 
+</div><br> 
+
+<div class='straits'>
 Mouth breathing doesn’t offer any of these benefits. In fact, Nestor shows us that mouth breathing begets mouth breathing in a vicious cycle. Inhaling from the mouth decreases pressure and causes the tissues in its back to loosen and flex inward. This constricts the airway and makes breathing more difficult, encouraging stronger mouth breathing. In contrast, nasal breathing creates a virtuous cycle of more nasal breathing and all the associated benefits that come with it. Therefore, the first step on the path to respiratory redemption is to shut your mouth. 
- 
+</div><br>
 Step 2: Use the Lungs Fully 
  
 Now, we have to go deeper into the body to the lungs themselves. Nestor informs us that when we breathe today, we barely push our lungs close to their maximum capacity. This naturally means less efficient oxygen transport. A study carried out in 1980 on 5200 people showed that the best indicator of life span wasn’t diet or exercise, but lung capacity. He goes on to describe some fairly hardcore ways people have expanded their lung volume, such as diving hundreds of meters underwater while holding the breath. Fortunately for us mortals, moderate exercise like cycling has been shown to also boost lung size by up to an impressive 15%.
