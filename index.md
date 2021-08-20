@@ -32,7 +32,6 @@ I pretend to speak [French](./index-fr.md), [Turkish](./index-tr.md), and [Persi
 You can get in touch with me [here](mailto:joesingh@stanford.edu)
 or follow me on [Twitter](https://twitter.com/SinghJyotirmai).
 
-[test](./bookreviews/breath/breath.md)
 
 <!--
 | वीर Masculine a-stem | Single | Dual | Plural |
