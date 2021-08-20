@@ -3,6 +3,7 @@
 There's very little I love more than a great book. Here, I write down summaries of what I learned from my latest read.
 
 1. [*Breath* by James Nestor - 15/7/2021](./bookreviews/breath/breath.md)
+2. [*The Future is Asian* by Parag Khanna - 19/8/2021](./bookreviews/future_is_asian/futureisasian.md)
 
 <!--
 TradingView Widget BEGIN
