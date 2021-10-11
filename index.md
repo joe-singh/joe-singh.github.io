@@ -23,7 +23,8 @@ experiment, detector analysis for its successor SNO+, and detector R&D for the S
 future liquid argon scintillator experiments.
 
 Prior to Berkeley, I was raised in Dubai and Singapore and born in New Delhi. I am a huge basketball fan and love reading, especially about history and geopolitics.
-I like to [write down my thoughts from time to time](./writings.md).
+I like to write and run a [weekly newsletter](./https://jyotirmai.substack.com/) about the impact of science on the tense "Second Cold War" of the 21st century. 
+This website also hosts [my thoughts on other things, including books I've read.](./writings.md), 
 
 I also really like learning new languages. 
 I pretend to speak [French](./index-fr.md), [Turkish](./index-tr.md), and [Persian](./translation/shahnameh/shahnameh_blog.md). Recently I've tried to extend into ancient languages with
@@ -33,18 +34,6 @@ You can get in touch with me [here](mailto:joesingh@stanford.edu)
 or follow me on [Twitter](https://twitter.com/SinghJyotirmai).
 
 
-<!--
-| वीर Masculine a-stem | Single | Dual | Plural |
-|:-:|:-:|:-:|:-:|
-| Nominative | वीर:<br>vīráḥ | वीरौ<br>vīraú | वीरा:<br>vīrā́ḥ |
-| Accusative | वीरम्<br>vīrám | वीरौ<br>vīraú | वीरान्<br>vīrā́n |
-| Instrumentative | वीरेण<br>vīréṇa |  वीराेेभ्याम्<br>vīrā́bhyām | वीरै:<br>vīraíḥ |
-| Dative | वीराय<br>vīrā́ya | वीराभ्याम्<br>vīrā́bhyām | वीरेभ्य:<br>vīrébhyaḥ |
-| Ablative | वीरात्<br>vīrā́t | वीराभ्याम्<br>vīrā́bhyām | वीरेभ्य:<br>vīrébhyaḥ |
-| Genitive | वीरस्य<br>vīrásya | वीयो:<br>vīráyoḥ | वीराणाम्<br>vīrā́ṇām |
-| Locative | वीरे<br>vīré | वीरयो:<br>vīráyoḥ | वीरेषु<br>vīréṣu |
-| Vocative | वीर<br>vī́ra | वीरौ<br>vīraú | वीरा:<br>vīrā́ḥ |
--->
 # Publications
 
 * B. Aharmim et al. (SNO Collaboration), _Measurement of neutron production in atmospheric neutrino interactions at the Sudbury Neutrino Observatory_,
