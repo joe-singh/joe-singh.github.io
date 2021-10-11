@@ -13,3 +13,5 @@ comment on what a fool I used to be.
 * [Geopolitics](./writings/straits/straits.md)
 * [Misc.](./writings/misc/misc.md)
 * [Economics](./writings/valuation/valuation.md)
+* [Book Reviews](./bookreviews.md)
+
