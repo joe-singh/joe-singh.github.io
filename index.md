@@ -23,7 +23,7 @@ experiment, detector analysis for its successor SNO+, and detector R&D for the S
 future liquid argon scintillator experiments.
 
 Prior to Berkeley, I was raised in Dubai and Singapore and born in New Delhi. I am a huge basketball fan and love reading, especially about history and geopolitics.
-I like to write and run a [weekly newsletter](./https://jyotirmai.substack.com/) about the impact of science on the tense "Second Cold War" of the 21st century. 
+I write a [weekly newsletter](./https://jyotirmai.substack.com/) about the impact of science on the tense "Second Cold War" of the 21st century. 
 This website also hosts [my thoughts on other things, including books I've read.](./writings.md), 
 
 I also really like learning new languages. 
