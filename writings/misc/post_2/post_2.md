@@ -27,8 +27,8 @@ or charismatic tyrants as leaders. The question of what system of governance to 
 
 <div class='straits'>
 Overall, I am not convinced there is or ever will be a universal answer to what is the best system of government.
-It is a very nuanced question and probably has a different answer each time it is asked. Just as we laugh
-when we now recall the arrogance with which Western liberals preached the inevitable universality of their government systems,
-future generations will laugh at those repeating the same mistake in the Eastern hemisphere. As is the case in many
+It is a very nuanced question and probably has a different answer each time it is asked. Just as we laugh now
+when we recall the arrogance with which the West preached the inevitable universality of liberal democracy following the Cold War,
+future generations will laugh at those repeating the same mistake in the East. As is the case in many
 situations, a little humility is in order.
 </div>
