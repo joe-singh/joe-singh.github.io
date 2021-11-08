@@ -18,6 +18,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 I am a physics PhD student at Stanford University, working in Prof. Kent Irwin's group to [detect bosonic dark matter by fabricating quantum sensors that can
 evade the Standard Quantum Limit.](https://irwinlab.sites.stanford.edu/)
 
+This year, I am also serving on the [Stanford Graduate Student Council](https://assu.stanford.edu/branches/graduate-student-council/gsc-councillors) as the representative for the Natural Sciences.
+
 I graduated from UC Berkeley in 2019. My research there included data analysis for the SNO
 experiment, detector analysis for its successor SNO+, and detector R&D for the SuperCDMS experiment. My senior thesis focused on precision detection of vacuum ultraviolet (VUV) photons for
 future liquid argon scintillator experiments.
