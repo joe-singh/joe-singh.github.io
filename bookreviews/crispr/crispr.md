@@ -10,42 +10,106 @@
 -->
 
 <div>
-<em>The Future is Asian</em> has a provocative thesis. If the 19th century was the European century, and the 20th was the American, the 21st will be the “Asian Century”. His argument hinges on Asia’s economies waking up from their colonialism induced slumber and catching up rapidly with the west. Throughout his text, it is assumed the reader is familiar with Asia’s rapid economic growth and he does not waste his time in the weeds of developmental economics. This allows him to explore the more interesting topic of how its economic growth will allow Asia to transition from simply participating to actively shaping the global order of the 21st century.
+<em>A Crack in Creation</em> is a great accessible introduction to CRISPR gene editing,
+easily one of the most significant scientific breakthroughs of the 21st century. Written
+by Jennifer Doudna who is one of the discoverers of CRISPR, this book both offers insight the basic science of how CRISPR works and gives a unique first hand insight into the forces that
+drive scientific discovery.
 </div><br>
 
 <div>
-Khanna starts out his book with a whirlwind survey of Asian history from Mesopotamia right down to the modern day. That’s not an easy task and he does it well, relying on a well chosen array of historical events to illustrate how Asian civilisations evolved and competed against each other throughout the past 3000 years. One clear theme that emerges is the idea of a continent of civilisations not rigidly demarcated into small ethnolinguistic states such as Europe. Throughout its history, Asia has been home to vast multiethnic empires with porous borders. These have catalysed syncretic traditions whose impact is still visible today, i.e. Buddhist influence in Muslim Central Asia. This intricate network of relations was erased by colonialism as foreign powers imposed their own strategic objectives on their colonies. Asians more or less forgot about their neighbours.
+The first part of the book is mainly concerned with the basic science of CRISPR and
+describing the journey that led to Doudna and her collaborators making the key discovery.
+We learn that CRISPR wasn't actually invented but <em>discovered</em> as an immune
+system in bacteria. Researchers before Doudna had observed odd palindromic repeated segments
+in some bacterial DNA and also observed that these bacteria also had higher immunity
+to attacks from viruses. These curious palindromic segments gave rise to the name CRISPR -
+<em>Clustered Regularly Interspaced Short Palindromic Repeats</em>. Doudna and her
+collaborators' key contribution was realising that this mechanism, which works by
+cutting invading viral DNA in very specific spots, could also be used to cut any general
+segment of DNA with some modification. Due to this, it could be used as a general purpose
+Swiss army knife to cut and edit DNA with precision.
 </div><br>
 
 
 <div>
-The first consequence of Asia’s reemergence is the return of its complex multipolar dynamics. As Asian countries begin to stand on their feet again, they will once again rediscover the strategic interests that fueled the civilisational tug of war. He calls this The Return of Greater Asia. The most prominent example of this he gives is China’s Belt and Road Initiative (BRI), a series of infrastructure projects to enhance connectivity all across Asia and to increase its influence in key regions such as Central Asia and the Indian Ocean littoral. Asia’s rise and American energy independence in turn has caused Middle Eastern energy to pivot to supply the newly energy hungry economies of its neighbours. Of course, not all dynamics are friendly. For instance, as India and China have grown they have found themselves tussling at their common disputed border more frequently. By the time Khanna’s book was published in 2019, there was a major standoff at the Doklam plateau in 2017. Since then there has been an even more significant standoff in the Aksai Chin region in 2020 resulting in the first cross border casualties in four decades. As Asian states become more powerful, they will inevitably realise that their strategic interests will be impacted most heavily by those of their neighbours, and then those of the West. This realisation will cause the return of the complex inter-civilisational dynamics that are typical in Asian history.
+Once this connection is made, Doudna goes on to describe some of the potential applications,
+such as engineering staple crops to be more resistant to fungi and pests. The example she
+gives is of wheat being made resitant to a fungus called powdery mildew through a simple
+CRISPR edit to the wheat genome.
 </div><br>
 
 <div>
-Khanna makes a special point to note that this emerging Asian order won’t just be a unipolar China dominated order, like the US dominated Western order post WWII. It is clear that China dominates Asia (and much of the world) in economic weight, but that had also been true throughout much of the last 2000 years. Despite this, Asia’s default state is not unipolar hegemony but an uneasy multipolar equilibrium. He points out numerous examples of countries challenging China’s leadership of the region. India is a clear example. While not economically as strong, India has actively asserted its interests even when they clash with China’s, be it on their border or by refusing to join the BRI. Even countries which have joined the BRI, such as Malaysia, are demanding that China offer fairer financing terms on its infrastructure projects. The reestablishment of close ties between Japan, India, and Australia (whose largest trade partner is China) to counter Chinese influence is also a clear sign of the forces at play to counter unipolarity. As it was in the past, Greater Asia will be a complicated patchwork of many power centres.
+One incredible yet terrifying application of CRISPR she describes is a <em>gene drive</em>.
+Animals usually have two copies of most of their genes — one from each parent. During reproduction, only one copy of the gene is passed on. This means that any gene has a 50% chance of being inherited. If we edit one of the genes, our CRISPR mutation only has a 50% chance of being passed on. With these odds, the mutation might disappear altogether from the population unless we can edit a large number of individuals at the same time. This could work for livestock in a herd, but for something like malaria carrying mosquitoes this is impossible.
 </div><br>
 
 <div>
-The impacts of Asia’s return will of course also exist outside its own boundaries. Khanna devotes chapters 5-7 addressing how America, Europe, Africa, and Latin America are being impacted by the economic changes underway. He notes how Asians are already commanding increasing economic and social power in the US. People of Asian descent are now very visible from the boardrooms of Big Tech to Hollywood to the hallways of the Capitol. He also points out how many Asians study in the US and bring many of the ideas home with them. This was of personal relevance given my own role as a student here in the US! In the other direction though, US schools are also opening up branches in Asia, such as NYU’s branch in Abu Dhabi or Yale’s partnership with NUS in Singapore. The result is that many Asian students are realising they can have a great education without needing to go to America. While he goes into great depth on the social connections, he doesn’t talk much about the vast economic interdependence between the US and Asia and its impacts, i.e. deindustrialisation in the US. The economic forces at play are far more important than social factors at this stage and it was somewhat disappointing to not see at least a basic assessment of those dynamics.
+But what if we use CRISPR to insert not only the mutation we want, but also implant CRISPR DNA itself into the target genome? This is the key idea of a gene drive. More precisely, suppose that this CRISPR sequence targets the normal copy of the gene that wasn’t edited before. When the mutated gene drive is read by the cell, the CRISPR DNA will direct Cas9 to cut the other normal copy of the gene and disable it. When the cell attempts to repair this, the CRISPR mutated gene is available as a template, so the cell repairs the damage by replicating it. Voilà! Now we have two copies of the mutated gene, and inheritance is guaranteed.
 </div><br>
 
 <div>
-Similarly for Europe, he addresses the prominent role many Asians have played and in this instance a more thorough exploration of the Asian-Europe economic dynamics at play. He offers numerous examples of European companies’ investments in Asia and Asian companies’ in Europe. His extensive array of examples is definitely helpful if at times a bit dizzying. He does point out that there is more animus towards Asians in Europe than in the US. He brings up the example of Slovakians harassing even wealthy Arab tourists. That citizens of such a small globally unimportant country feel free to do that illustrates the contempt with which Asians are still seen in many parts of Europe. Add to this the pressures of migration from warzones such as Syria and Afghanistan, and the stage is set for a turbulent relationship despite the prosperous economic relationship. Over time though, Khanna argues that Europeans will come to see Asians in a more positive light, not least because their economic progress will necessitate it. No wonder he titled this chapter <em>Why Europe Loves Asia but Not (Yet) Asians</em>.
+The awesome power of gene drives lies in the fact that as long as one member if a population has the gene drive mutation, all members will inevitably get it. The CRISPR mutation will (almost) always replicate itself and guarantee inheritance. There is something terrifying about having such total control over evolution. While gene drives could clearly cause great benefit, there is huge potential for misuse. Gene drives are just one example of the incredible power that
+Doudna's discovery gives humans.
 </div><br>
 
 <div>
-Next Khanna turns to Africa and Latin America. The prime example given here is the extensive Chinese investments throughout these regions, be they in Brazilian soybeans or Kenyan railways. Despite China’s dominance of Asian interaction with these regions, Khanna points out that other countries are following suit. He notes that “Africa is a crucial showpiece of how Asianization is far greater than China”. For example, India is stepping up investments in Africa and trade is growing at 35% per year. As in Asia, China is experiencing political backlash in many countries, which creates space for new preferred partners. The backlash is even greater after the COVID-19 pandemic, leading to new opportunities for other Asian countries. Meanwhile in Latin America, trade with Asia is also booming. Khanna notes how Brazil has a trade surplus with all Asian countries except Korea and China is its largest trading partner. In exchange for resources, Asian countries such as China and Singapore export technical knowledge to aid Latin America’s development. As before, Khanna also shines a light on the social dynamics and points out influential Asians in the region, although the choice of the ex-dictator of Peru Alberto Fujimori isn’t perhaps the most shining endorsement of Asian influence. Regardless of the social impacts, the economic impacts of Asia are clear in both Latin America and Africa.
+Of course, the most enticing prospect is to use CRISPR on humans themselves to modify
+our own genomes. This naturally comes with huge ethical dilemmas and this makes up
+most of the second part of the book.
 </div><br>
 
 <div>
-The book finishes with a discussion of <em>Asia’s Technocratic Future</em>. This is, according to Khanna, the centrepiece of Asia’s rapid economic development in the past decades. The model of this that he brings up, like virtually all other commentators, is Singapore. The essence of the ideal technocratic model is a government run by skilled professional civil servants placed in power based on their merit rather than popularity or charisma. They are also highly paid, like in Singapore, to remove incentives for corruption. This way, they can govern in a prudent manner without needing to appease the base instincts of a generally ill informed electorate. However, at the same time there needs to be an accountability mechanism whereby the technocrats can receive feedback from the people and act on it to modify their policies. Khanna sees this as more essential
-than popular democracy for prosperity, and argues that democracy could indeed hinder progress due to its messy disputes
-and deadlock. While I agree that popular democracy isn’t necessarily the best form of government, what is the optimal structure of government is a nuanced issue whose answer depends on the particular details of the country and people in question. I discuss my position on this more fully elsewhere. Despite having lived in
-Singapore and loved it, I am not 100% convinced by Khanna's argument on the universality of a benign yet borderline authoritarian
-technocracy.
+The most obvious application of CRISPR is to try cure genetic diseases. For people
+suffering from diseases such as sickle cell anaemia or cystic fibrosis, a targeted
+CRISPR edit on the dysfunctional cells could fix the problem and cure what had
+previously been thought of as incurable. Such applications are known as <em>somatic</em>
+applications.
 </div><br>
 
 <div>
-Overall, I thoroughly enjoyed reading <em>The Future Is Asian</em>. At first I was worried this would just be a congratulatory ode to China, but to his credit Khanna went far beyond simplistic tropes of Chinese world domination. His discussion of the multipolar Asian order was particularly insightful, as was that of Asia’s growing clout in the world. At times, he is a bit too rosy on the prospects of globalisation and tends to gloss over negatives such as the deindustrialisation of the US. This leaves him vulnerable to offer a slightly rosy vision of the future. I also don’t completely agree with his full throated endorsement of Asian technocracy as an ideal universal model of governance. The next generation of prosperous Asians should not repeat the mistakes of Western liberals preaching the universal gospel of their government systems. That is a complicated question which depends intimately on the details of individual societies. While I am not fully convinced this will be  “The Asian Century”, this book has convinced me that this century will definitely have a lot of Asia in it, whether anybody likes it or not.
+The second class of CRISPR applications in humans are <em>germline applications</em>
+which make edits in the germ cells, i.e. the egg and sperm. Because of this, CRISPR
+changes made here can be passed down to future generations.
+Somatic applications by contrast edit just normal body cells so any positive or negative
+effects stay localised to the individual, but germline changes could spread
+throughout the population. Removing this final guardrail on our power to edit the genome is what gives us the ability to really control evolution.
+</div><br>
+
+<div>
+To her credit, Doudna does not shy away from the huge ethical conflicts this raises and
+the toll thinking about them had on her. She recounts how
+she was incredibly excited at the prospect of CRISPR being used to end disease but
+such happiness slowly gave way to a deep worry as she realised her discovery could
+also be used to advance eugenicist agendas by bad actors. One powerful example
+of the toll this took on her was the dream she had where she saw Adolf Hitler
+visiting her lab at Berkeley to learn more about CRISPR.
+</div><br>
+
+<div>
+The book wraps up with her thoughts on the ethical dilemmas of germline editing,
+and she effectively conveys the personal conflict she went through. Initially, she
+was very scared of the negative possibilities of germline editing. Her fear was
+so intense that it led her to call for a global moratorium on CRISPR research. However
+after this she details how over time her position has evolved, and she has come around
+more to accepting germline editing. For Doudna, on the balance the positive possibilities
+to alleviate suffering outweigh the negative ones. Personally, I feel as if I went on
+a similar journey in my own thinking as I read her book. I'm not sure I left it as in
+favour of germline editing as her, but I certainly did evolve from rejecting it outright
+as dangerous and unnatural to cautious approval in certain cases. I have no doubt that
+other readers will go on similar evolutions on their thinking regarding germline
+editing. It is so important that Doudna presents positive and negative arguments for
+germline editing in a balanced way since it allows readers to come to their own
+conclusions about this revolutionary new technology.
+</div><br>
+
+<div>
+Overall, I learned a tremendous amount from <em>A Crack in Creation</em>. It is
+a wonderfully accessible read that not only describes the basic science of CRISPR
+and why it's so powerful, but also does not shy away from the deep ethical questions
+such power raises. It is clear that CRISPR will have huge impact on the world, from
+crops to genetic diseases. It might even be the end of disease. Because of
+its huge potential impacts, it is vital that the public knows about CRISPR and is able to form informed opinions on it. Through her clear writing, Doudna does a
+fantastic job at this. Scientists writing for the public would do well to use
+<em>A Crack in Creation</em> as an exemplar for how to write an engaging book for
+a broad audience.
 </div><br>
