@@ -20,13 +20,16 @@ evade the Standard Quantum Limit.](https://irwinlab.sites.stanford.edu/)
 
 This year, I am also serving on the [Stanford Graduate Student Council](https://assu.stanford.edu/branches/graduate-student-council/gsc-councillors) as the representative for the Natural Sciences.
 
-I graduated from UC Berkeley in 2019. My research there included data analysis for the SNO
+<!--I graduated from UC Berkeley in 2019. My research there included data analysis for the SNO
 experiment, detector analysis for its successor SNO+, and detector R&D for the SuperCDMS experiment. My senior thesis focused on precision detection of vacuum ultraviolet (VUV) photons for
-future liquid argon scintillator experiments.
+future liquid argon scintillator experiments.-->
+
+Previously, I was at UC Berkeley working on neutrinoless double beta decay and
+WIMP dark matter detection.
 
 Prior to Berkeley, I was raised in Dubai and Singapore and born in New Delhi. I am a huge basketball fan and love reading, especially about history and geopolitics.
 I write a [newsletter](https://jyotirmai.substack.com/) about all the amazing
-scientifc breakthroughs happening currently. 
+scientifc breakthroughs happening currently.
 This website also hosts [my thoughts on other things, including books I've read.](./writings.md)
 
 I also really like learning new languages.
