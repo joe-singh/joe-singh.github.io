@@ -39,6 +39,7 @@ I pretend to speak [French](./index-fr.md), [Turkish](./index-tr.md), and [Persi
 You can get in touch with me [here](mailto:joesingh@stanford.edu)
 or follow me on [Twitter](https://twitter.com/SinghJyotirmai).
 
+[Test](./test.md)
 
 # Publications
 
