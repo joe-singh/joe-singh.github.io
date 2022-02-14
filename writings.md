@@ -18,5 +18,5 @@ Here is a list of all posts (excluding book reviews) in reverse order:
 * [On Optimal Governance - 8/21](./writings/misc/post_2/post_2.md)
 * [Rivers: Catalysts for Prosperity & Geopolitical Weapons - 10/20](./writings/straits/post3/post_3.md)
 * [The Fragility of Separation of Powers - 10/20](./writings/misc/post1/post_1.md)
-* [China's Modern Silk Road - 1/20](./writings/straits/post_2/post_2.md)
-* [The Indian Ocean Strikes Back - 1/20](./writings/straits/post_1/post_1.md)
+* [China's Modern Silk Road - 1/20](./writings/straits/post_2/post_2.html)
+* [The Indian Ocean Strikes Back - 1/20](./writings/straits/post_1/post_1.html)
