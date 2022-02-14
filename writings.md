@@ -13,7 +13,7 @@ comment on what a fool I used to be.
 <!--* [Economics](./writings/valuation/valuation.md)-->
 * [Book Reviews](./bookreviews.md)
 
-Here is a list of all posts (excluding book reviews) in reverse order (latest first)
+Here is a list of all posts (excluding book reviews) in reverse order:
 
 * [On Optimal Governance - 8/21](./writings/misc/post_2/post_2.md)
 * [Rivers: Catalysts for Prosperity & Geopolitical Weapons - 10/20](./writings/straits/post3/post_3.md)
