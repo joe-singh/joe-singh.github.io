@@ -1,4 +1,4 @@
-# On Optimal Governance: Technocracy, Democracy, and Autocracy
+# On Optimal Governance
 
 <div>
 A question that I have been thinking about recently is what degree of centralisation is optimal for governance. When speaking
