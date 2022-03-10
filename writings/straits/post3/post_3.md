@@ -1,4 +1,4 @@
-# Rivers: Catalysts for Prosperity & Geopolitical Weapons
+# The Rivers of High Asia
 
 <div>
 Rivers do not typically come to mind when one considers what factors fuel economic prosperity. Instead, it is more common to prescribe a recipe including innovation, entrepreneurship and efficient bureaucracies backed by responsible governments. When one examines prosperous states throughout history, the ubiquity of this recipe becomes clear. However, another commonality becomes apparent -- the presence of rivers within their borders. Many great civilisations of antiquity coalesced first around prominent rivers, such as the Egyptians around the Nile c. 3000 BCE and the Akkadians around the Tigris & Euphrates c. 2000 BCE. Rivers such as the Danube and Rhine were undoubtedly a catalyst for Europe’s mercantilism, while the contemporary US enjoys the benefit of the Missouri and Mississippi.
