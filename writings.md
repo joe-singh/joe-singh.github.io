@@ -13,7 +13,7 @@ comment on what a fool I used to be.
 <!--* [Economics](./writings/valuation/valuation.md)
 * [Book Reviews](./bookreviews.md-->
 
-Here is a list of all posts (excluding [book reviews](/bookreviews.md)) in reverse order:
+Here is a list of all posts (excluding [book reviews](./bookreviews.html)) in reverse order:
 
 * [Across the Seas - 3/22](./writings/misc/seas/seas.md)    
 * [Science and Storytelling - 2/22](./writings/misc/scistory/scistory.md)
