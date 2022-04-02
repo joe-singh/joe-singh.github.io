@@ -15,6 +15,7 @@ comment on what a fool I used to be.
 
 Here is a list of all posts (excluding book reviews) in reverse order:
 
+* [Across the Seas - 3/22](./writings/misc/seas/seas.md)    
 * [Science and Storytelling - 2/22](./writings/misc/scistory/scistory.md)
 * [On Optimal Governance - 8/21](./writings/misc/post_2/post_2.md)
 * [The Rivers of High Asia - 10/20](./writings/straits/post3/post_3.md)
