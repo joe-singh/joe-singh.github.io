@@ -46,6 +46,9 @@ or follow me on [Twitter](https://twitter.com/SinghJyotirmai).
 * B. Aharmim et al. (SNO Collaboration), _Measurement of neutron production in atmospheric neutrino interactions at the Sudbury Neutrino Observatory_,
   [Phys. Rev. D 99, 112007 (2019)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.112007)
 
+* L. Brouwer et al. (DMRadio Collaboration), _Introducing DMRadio-GUT, a search for GUT-scale QCD axions_, 
+[arXiv:2203.11246 (2022)](https://arxiv.org/abs/2203.11246)
+
 <!---
 ## Header 2
 
