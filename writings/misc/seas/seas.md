@@ -2,12 +2,12 @@
 
 <div>
 A weird habit that I have is that I like listening to countries’ national anthems. I’m generally quite curious about other countries, and anthems often give a fun first look into countries’ histories and the values they care about. Recently, I was listening to Australia’s anthem and a particular set of lines caught my attention:
-</div><br>
+</div>
 <em>For those who've come across the seas</em><br>
 <em>We've boundless plains to share</em><br>
 <div>
 These lines are there because Australia, like its Anglophone sisters Canada and the US, was founded as a distant British colony on the other side of the world. In exchange for uprooting themselves and moving across the seas to these distant lands, immigrants would have the promise of a new life in a new land. These lines resonated with me because they speak the story of generations of immigrants, including me and generations of my own family.  
-</div><br>
+</div>
 <div>
 For most people, the search for opportunity isn’t worth the risk of starting from scratch in a foreign land. Less than 4% of the world population today is made up of migrants, but because I’ve been part of this small slice of humanity since my childhood, I simply took it for granted that everyone immigrated.  
 </div><br>
