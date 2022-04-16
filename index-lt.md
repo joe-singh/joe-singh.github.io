@@ -13,7 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # De Me Ipso
 
 <!--<img style="position:absolute; LEFT:78% " width="205" height="308" src="./goodpic.jpg"> -->
-<img align="right" src="./dp.jpg" style="max-width:30%; border-radius:5%; padding-left: 20px;">
+<img align="right" src="./dp2.jpg" style="max-width:30%; border-radius:5%; padding-left: 20px;">
 Salvete! Ego discipulus philosophiae doctoris physicae in Universitate Stanfordiensi sum. Nunc apud professorem [Kent Irwin laboro](https://irwinlab.sites.stanford.edu/). Materiam nigram bosonicam invenire conamur instrumenta quantica nova quae finem quanticum evadent fabricando.
 
 Prioribus annis discipulus Universitatis Californiensis Berekeleiensis fui apud professores Matt Pyle et Gabriel Orebi Gann laboravi pro experimentis SNO et SNO+ et SuperCDMS. Thesis mea fuit 

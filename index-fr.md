@@ -11,7 +11,7 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 --->
 # À Propos de Moi
- <img align="right" src="./dp.jpg" style="max-width:30%; border-radius:5%; padding-left: 20px;">
+ <img align="right" src="./dp2.jpg" style="max-width:30%; border-radius:5%; padding-left: 20px;">
 Je suis étudiant en doctorat à Stanford qui s'intéresse à la physique des particules et la cosmologie. Maintentant je travaille avec Kent Irwin et nous
 tentons de [détecter la matière noire bosonique et fabriquer des capteurs quantiques qui peuvent échapper à la limite quantique standard.](https://irwinlab.sites.stanford.edu/) 
 
