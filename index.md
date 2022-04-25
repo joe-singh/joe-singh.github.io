@@ -27,7 +27,10 @@ future liquid argon scintillator experiments.-->
 Previously, I was at UC Berkeley working on neutrinoless double beta decay and
 WIMP dark matter detection.
 
-Prior to Berkeley, I was born in New Delhi and raised in Singapore & Dubai. I am a huge basketball fan and love reading, especially about history.
+I was born in [Delhi](https://www.youtube.com/watch?v=DxRxTlkI3gY&ab_channel=NetflixIndia) and raised in [Singapore](https://www.youtube.com/watch?v=uByyHDXlEqM&ab_channel=TropicMonstersTV) & [Dubai](https://www.youtube.com/watch?v=fbL9QdWWJzo&ab_channel=Emirates). This made it difficult to answer
+questions about where I'm from, until I discovered the concept of the [Indo-Pacific region](./indopac.png).  
+
+I am a huge basketball fan and love reading, especially about history.
 I write a [newsletter](https://jyotirmai.substack.com/) about all the amazing
 scientifc breakthroughs happening currently.
 This website also hosts [my thoughts on other things, including books I've read.](./writings.md)
