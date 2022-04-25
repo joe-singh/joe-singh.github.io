@@ -20,15 +20,12 @@ My main focus is on building high Q MHz scale electromagnetic resonators, unders
 
 This year, I am also serving on the [Stanford Graduate Student Council](https://assu.stanford.edu/branches/graduate-student-council/gsc-councillors) as the representative for the Natural Sciences.
 
-I graduated from UC Berkeley in 2019. My research there included data analysis for the SNO
+<!--I graduated from UC Berkeley in 2019. My research there included data analysis for the SNO
 experiment, detector analysis for its successor SNO+, and detector R&D for the SuperCDMS experiment. My senior thesis focused on precision detection of vacuum ultraviolet (VUV) photons for
-future liquid argon scintillator experiments.
+future liquid argon scintillator experiments. -->
 
-<!--Previously, I was at UC Berkeley working on neutrinoless double beta decay and
-WIMP dark matter detection. -->
-
-I was born in [Delhi](https://www.youtube.com/watch?v=DxRxTlkI3gY&ab_channel=NetflixIndia) and raised in [Singapore](https://www.youtube.com/watch?v=uByyHDXlEqM&ab_channel=TropicMonstersTV) & [Dubai](https://www.youtube.com/watch?v=fbL9QdWWJzo&ab_channel=Emirates). This made it difficult to answer
-questions about where I'm from, until I discovered the concept of the [Indo-Pacific](./indopac.png).  
+Previously, I was at UC Berkeley working on neutrinoless double beta decay and
+WIMP dark matter detection. Before that, I was born in [Delhi](https://www.youtube.com/watch?v=DxRxTlkI3gY&ab_channel=NetflixIndia) and raised in [Singapore](https://www.youtube.com/watch?v=uByyHDXlEqM&ab_channel=TropicMonstersTV) & [Dubai](https://www.youtube.com/watch?v=fbL9QdWWJzo&ab_channel=Emirates). 
 
 I am a huge basketball fan and love reading, especially about history.
 I write a [newsletter](https://jyotirmai.substack.com/) about all the amazing
