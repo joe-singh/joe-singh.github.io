@@ -1,5 +1,5 @@
 # *Skin in the Game*, Nassim Nicholas Taleb
-<img align="right" src="./breath_cover.jpeg" style="max-width:30%; padding-left: 20px;">
+<img align="right" src="./skininthegame.jpeg" style="max-width:30%; padding-left: 20px;">
 
 <div>
 <em>Skin In The Game</em> is a thought provoking and provocative book. Taleb’s core thesis is that skin in the game – being exposed to the possibility of loss from the consequences of one’s decisions – is vital for societies to function properly and general fairness. Throughout the book, he explores various concepts ranging from hedge funds to religion to illustrate how universal the importance of having skin in the game is. 
