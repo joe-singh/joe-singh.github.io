@@ -46,7 +46,7 @@ or follow me on [Twitter](https://twitter.com/SinghJyotirmai).
 * B. Aharmim et al. (SNO Collaboration), _Measurement of neutron production in atmospheric neutrino interactions at the Sudbury Neutrino Observatory_,
   [Phys. Rev. D 99, 112007 (2019)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.112007)
 
-* L. Brouwer et al. (DMRadio Collaboration), _DMRadio-m$^3: A Search for the QCD Axion below 1 $\mu$eV_, 
+* L. Brouwer et al. (DMRadio Collaboration), _DMRadio-m3: A Search for the QCD Axion below 1 µeV_, 
 [arXiv:2204.13781 (2022)](https://arxiv.org/abs/2204.13781)
 
 * L. Brouwer et al. (DMRadio Collaboration), _Introducing DMRadio-GUT, a search for GUT-scale QCD axions_, 
