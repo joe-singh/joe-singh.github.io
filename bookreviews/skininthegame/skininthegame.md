@@ -27,10 +27,6 @@ A fun concept that Taleb came up with is the IYI – intellectual yet idiot. The
 </div><br>
 
 <div>
-After this, we have to go deeper into the body to the lungs themselves. Nestor informs us that when we breathe today, we barely push our lungs close to their maximum capacity. This naturally means less efficient oxygen transport. A study carried out in 1980 on 5200 people showed that the best indicator of life span wasn’t diet or exercise, but lung capacity. He goes on to describe some fairly hardcore ways people have expanded their lung volume, such as diving hundreds of meters underwater while holding the breath. Fortunately for us mortals, moderate exercise like cycling has been shown to also boost lung size by up to an impressive 15%.
-</div><br>
-
-<div>
 Skin in the game is important because ultimately it’s tied to natural selection. Through the possibility of loss, natural selection can eliminate inefficiencies. Because of constant selection pressure, time is ultimately the gold standard of testing robustness.  Taleb argues that if something has survived for a thousand generations, it’s probably not an accident. This is known as the Lindy effect. More formally, it is the effect when the future life expectancy of something is proportional to its current age. The longer something has lasted, the longer it will last, because it has been selected for by evolution. Taleb argues that it’s a good idea to listen to your grandmother’s wisdom because it’s survived through the generations and is Lindy protected. Another example where the Lindy effect manifests is in social science research. Taleb contends that “while our knowledge of physics was not availble to the ancients, human nature was. So everything … in social science and psychology has to be Lindy-proof, that is, have an antecedent in the classics”. Such concepts include cognitive dissonance, loss aversion, negative advice and many more. This was definitely a cool section and I liked the idea of social science needing to be Lindy proof. 
 </div><br>
 
