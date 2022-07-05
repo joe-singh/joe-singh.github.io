@@ -1,5 +1,5 @@
-# *Skin in the Game*, Nassim Nicholas Taleb
-<img align="right" src="./skininthegame.jpeg" style="max-width:30%; padding-left: 20px;">
+# *Easternisation*, Gideon Rachman
+<img align="right" src="./easternisation.jpeg" style="max-width:30%; padding-left: 20px;">
 
 <div>
 <em>Easternisation’s</em> core argument is that the rise of Asia is bringing the “West’s domination of world politics … to a close”. Published in 2016 right after the election of Donald Trump, this book highlights how economic development in Asia, most importantly China, and simultaneous decline in the West have set the stage for a transformation of the international balance of power. Even six years after its publication, Gideon Rachman’s analysis appears to be a prophetic harbinger of an increasingly turbulent world. 
