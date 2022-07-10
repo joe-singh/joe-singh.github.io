@@ -1,5 +1,5 @@
 # *Breath*, James Nestor
-<img align="right" src="./skininthegame.jpeg" style="max-width:30%; padding-left: 20px;">
+<img align="right" src="./breath_cover.jpeg" style="max-width:30%; padding-left: 20px;">
 
 <div>
 Breathing is one of the most fundamental acts for living organisms, but humans are doing it all wrong - or so claims James Nestor in his insightful book Breath. Nestor says that “as a species, humans have lost the ability to breathe correctly, with grave consequences”. In Breath, he lays out what led him to this depressing conclusion, and how we can undo the damage of our terrible breathing habits.
