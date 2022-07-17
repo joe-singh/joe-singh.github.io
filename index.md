@@ -18,8 +18,6 @@ There should be whitespace between paragraphs. We recommend including a README, 
 I am a third year Physics PhD student at Stanford University advised by Kent Irwin, interested in applying the methods of quantum metrology to enhance searches for axion dark matter. 
 My main focus is on building high Q MHz scale electromagnetic resonators, understanding quantum noise in these frequency ranges, and developing new sensors/protocols to evade the standard quantum limit on measurement.
 
-This year, I am also serving on the [Stanford Graduate Student Council](https://assu.stanford.edu/branches/graduate-student-council/gsc-councillors) as the representative for the Natural Sciences.
-
 <!--I graduated from UC Berkeley in 2019. My research there included data analysis for the SNO
 experiment, detector analysis for its successor SNO+, and detector R&D for the SuperCDMS experiment. My senior thesis focused on precision detection of vacuum ultraviolet (VUV) photons for
 future liquid argon scintillator experiments. -->
@@ -27,7 +25,7 @@ future liquid argon scintillator experiments. -->
 Previously, I was at UC Berkeley working on neutrinoless double beta decay and
 WIMP dark matter detection. Before that, I was born in [Delhi](https://www.youtube.com/watch?v=DxRxTlkI3gY&ab_channel=NetflixIndia) and raised in [Singapore](https://www.youtube.com/watch?v=uByyHDXlEqM&ab_channel=TropicMonstersTV) & [Dubai](https://www.youtube.com/watch?v=fbL9QdWWJzo&ab_channel=Emirates). 
 
-I am a huge basketball fan and love reading, especially about history.
+Outside of physics, I am a huge basketball fan and love reading, especially about history. Previously I've served on the Stanford Graduate Student Council where I was fortunate to work on issues of [affordability for graduate students on campus](https://stanforddaily.com/2022/01/20/stanford-unveils-measures-to-tackle-affordability-issues/).
 I write a [newsletter](https://jyotirmai.substack.com/) about all the amazing
 scientifc breakthroughs happening currently.
 This website also hosts [my thoughts on other things, including books I've read.](./writings.md)
