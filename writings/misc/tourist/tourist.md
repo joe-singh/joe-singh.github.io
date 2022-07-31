@@ -2,7 +2,7 @@
 <img align="right" src="./eksq.png" style="max-width:50%;">
 <div>
 “Tourist or Resident?”
-</div>
+</div><br>
 <div>
 The immigration officer’s question was routine but it caught me off guard. After a 15 hour circumpolar flight in the middle of a pandemic, all I could think of was finally going home to Dubai. It had been almost two years since I had seen my parents and the house that I had spent much of my childhood in. After two years stuck alone on the other side of the world, it was a relief to finally be back.
 </div><br>
