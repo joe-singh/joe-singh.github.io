@@ -25,6 +25,7 @@ Here is a list of all posts (excluding [book reviews](./bookreviews.html)) in re
 * [Language, Personality, and Linear Algebra - 7/22](./writings/misc/langlinear/langlinear.md)
 * [Across the Seas - 3/22](./writings/misc/seas/seas.md)    
 * [Science and Storytelling - 2/22](./writings/misc/scistory/scistory.md)
+* [Tourist or Resident - 12/21](./writings/misc/tourist/tourist.md)
 * [On Optimal Governance - 8/21](./writings/misc/post_2/post_2.md)
 * [The Rivers of High Asia - 10/20](./writings/straits/post3/post_3.md)
 * [The Fragility of Separation of Powers - 10/20](./writings/misc/post1/post_1.md)
