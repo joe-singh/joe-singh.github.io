@@ -1,5 +1,5 @@
 # Tourist or Resident?
-<img align="center" src="./eksq.png" style="max-width:30%;">
+<img align="center" src="./eksq.png" style="max-width:100%;">
 <div>
 “Tourist or Resident?”
 </div>
