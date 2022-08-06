@@ -1,4 +1,4 @@
-# *Easternisation*, Gideon Rachman
+# *Streets of Gold*, Ran Abramitzky & Leah Boustan
 <img align="right" src="./streetsofgold.jpg" style="max-width:30%; padding-left: 20px;">
 
 <div>
