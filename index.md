@@ -28,7 +28,7 @@ WIMP dark matter detection. Before that, I was born in [Delhi](https://www.youtu
 Outside of physics, I am a huge basketball fan and love reading, especially about history. Previously I've served on the Stanford Graduate Student Council where I was fortunate to work on issues of [affordability for graduate students on campus](https://stanforddaily.com/2022/01/20/stanford-unveils-measures-to-tackle-affordability-issues/).
 I write a [newsletter](https://jyotirmai.substack.com/) about all the amazing
 scientifc breakthroughs happening currently.
-This website also hosts [my thoughts on other things, including books I've read.](./writings.md)
+This website also hosts [my thoughts on other things](./writings.md), including [books I've read.](./bookreviews.md)
 
 I also really like learning new languages.
 I pretend to speak [French](./index-fr.md), [Turkish](./index-tr.md), and [Persian](./translation/shahnameh/shahnameh_blog.md). Recently I've tried to extend into ancient languages with
