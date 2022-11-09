@@ -44,7 +44,7 @@ or follow me on [Twitter](https://twitter.com/SinghJyotirmai).
 * S. Kuenstner et al., _Quantum metrology of low frequency electromagnetic modes with frequency upconverters_,
 [arXiv:2210.05576 (2022)](https://arxiv.org/abs/2210.05576)
 
-* L. Brouwer et al. (DMRadio Collaboration), _DMRadio-m3: A Search for the QCD Axion below 1 µeV_, 
+* L. Brouwer et al. (DMRadio Collaboration), _Projected Sensitivity of DMRadio-m3: A Search for the QCD Axion below 1 µeV_, 
 [Phys. Rev. D 106, 103008 (2022)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.103008)
 
 * L. Brouwer et al. (DMRadio Collaboration), _Introducing DMRadio-GUT, a search for GUT-scale QCD axions_, 
