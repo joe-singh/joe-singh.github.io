@@ -22,7 +22,7 @@ comment on what a fool I used to be.
 
 Here is a list of all posts (excluding [book reviews](./bookreviews.html)) in reverse order:
 
-* [Nation & Civilization - 11/22](./writings/civilization/civilization.md)
+* [Nation & Civilization - 11/22](./writings/misc/civilization/civilization.md)
 * [Language, Personality, and Linear Algebra - 7/22](./writings/misc/langlinear/langlinear.md)
 * [Across the Seas - 3/22](./writings/misc/seas/seas.md)    
 * [Science and Storytelling - 2/22](./writings/misc/scistory/scistory.md)
