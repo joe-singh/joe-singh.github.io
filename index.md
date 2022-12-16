@@ -15,8 +15,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 <!--<img style="position:absolute; LEFT:78% " width="205" height="308" src="./goodpic.jpg"> -->
 <img align="right" src="./dp2.jpg" style="max-width:30%; border-radius:5%; padding-left: 20px;">
-I am a fourth year Physics PhD student at Stanford University advised by Kent Irwin, interested in applying the methods of quantum metrology to enhance searches for axion dark matter. 
-My main focus is on building high Q MHz scale electromagnetic resonators, understanding quantum noise in these frequency ranges, and developing new sensors/protocols to evade the standard quantum limit on measurement.
+I am a fourth year Physics PhD student at Stanford University advised by Kent Irwin. My main interest is applying the methods of quantum metrology to enhance searches for axion dark matter. 
+I spend most of my time building high Q MHz scale electromagnetic resonators, understanding quantum noise in these frequency ranges, and developing new sensors/protocols to evade the standard quantum limit on measurement.
 My research is generously supported by the [Quad Fellowship](https://www.quadfellowship.org/). 
 <!--I graduated from UC Berkeley in 2019. My research there included data analysis for the SNO
 experiment, detector analysis for its successor SNO+, and detector R&D for the SuperCDMS experiment. My senior thesis focused on precision detection of vacuum ultraviolet (VUV) photons for
@@ -39,14 +39,14 @@ or follow me on [Twitter](https://twitter.com/SinghJyotirmai).
 
 # Publications
 
-* S. Kuenstner et al., _Quantum metrology of low frequency electromagnetic modes with frequency upconverters_,
+* Stephen E. Kuenstner, Elizabeth C. van Assendelft, Saptarshi Chaudhuri, Hsiao-Mei Cho, Jason Corbin, Shawn W. Henderson, Fedja Kadribasic, Dale Li, Arran Phipps, Nicholas M. Rapidis, Maria Simanovskaia, **Jyotirmai Singh**, Cyndia Yu, Kent D. Irwin, _Quantum metrology of low frequency electromagnetic modes with frequency upconverters_,
 [arXiv:2210.05576 (2022)](https://arxiv.org/abs/2210.05576)
 
 * L. Brouwer et al. (DMRadio Collaboration), _Projected Sensitivity of DMRadio-m3: A Search for the QCD Axion below 1 µeV_, 
 [Phys. Rev. D 106, 103008 (2022)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.103008)
 
-* L. Brouwer et al. (DMRadio Collaboration), _Introducing DMRadio-GUT, a search for GUT-scale QCD axions_, 
-[arXiv:2203.11246 (2022)](https://arxiv.org/abs/2203.11246)
+* L. Brouwer et al. (DMRadio Collaboration), _Proposal for a definitive search for GUT-scale QCD axions_, 
+[Phys. Rev. D 106, 112003 (2022)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.112003)
 
 * B. Aharmim et al. (SNO Collaboration), _Measurement of neutron production in atmospheric neutrino interactions at the Sudbury Neutrino Observatory_,
   [Phys. Rev. D 99, 112007 (2019)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.112007)
