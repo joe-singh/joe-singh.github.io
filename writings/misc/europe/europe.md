@@ -2,7 +2,7 @@
 
 <div>
 Il y a un siècle, l'Europe était le continent le plus puissant du monde. Ses empires coloniaux régnaient sur presque toute l’Asie et l’Afrique et les décisions des dirigeants européens avaient un impact sur tout le monde. Ce n’est pas le monde dans lequel nous nous trouvons aujourd’hui. 
-</div><br>
+</div>
 <div>
 L’Europe du XXIe siècle est une Europe plus faible. Elle n’a plus le pouvoir de décider du destin des continents et - piégée entre les Etats-Unis et la Chine – peut-être perd rapidement le pouvoir de décider du sien. Face à la superpuissance hégémonique d’un côté et à la puissance émergente de l’autre, dans l’arène d’un monde en mutation rapide, l’Europe ne peut plus influencer les événements comme elle le pouvait dans le passé.
 </div><br>
