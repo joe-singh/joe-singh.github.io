@@ -1,4 +1,4 @@
-# Trois Défis Européens
+# Les Grands Défis de l'Europe
 
 <div>
 Il y a un siècle, l'Europe était le continent le plus puissant du monde. Ses empires coloniaux régnaient sur presque toute l’Asie et l’Afrique et les décisions des dirigeants européens avaient un impact sur tout le monde. Ce n’est pas le monde dans lequel nous nous trouvons aujourd’hui. 
