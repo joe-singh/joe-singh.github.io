@@ -22,7 +22,7 @@ comment on what a fool I used to be.
 
 Here is a list of all posts (excluding [book reviews](./bookreviews.html)) in reverse order:
 
-* [Les Grands Défis de l'Europe - 12/12](./writings/misc/europe/europe.md)
+* [Les Grands Défis de l'Europe - 12/22](./writings/misc/europe/europe.md)
 * [Nation & Civilization - 11/22](./writings/misc/civilization/civilization.md)
 * [Language, Personality, and Linear Algebra - 7/22](./writings/misc/langlinear/langlinear.md)
 * [Separation of Money & State - 5/22](./writings/misc/moneyandstate/moneyandstate.md)
