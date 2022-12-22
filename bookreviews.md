@@ -18,4 +18,4 @@ Summaries of what I learned from my latest read:
 6. [*Skin in the Game* by Nassim Nicholas Taleb - 5/22](./bookreviews/skininthegame/skininthegame.md)
 7. [*Easternisation* by Gideon Rachman - 7/22](./bookreviews/easternisation/easternisation.md)
 8. [*Streets of Gold* by Ran Abramitzky & Leah Boustan - 7/22](./bookreviews/streetsofgold/streetsofgold.md)
-9. [*Southeast Asia An Introductory History* by Milton Osborne - 12/22](./bookreviews/southeasteasia/seasia.md)
+9. [*Southeast Asia An Introductory History* by Milton Osborne - 12/22](./bookreviews/southeastasia/seasia.md)
