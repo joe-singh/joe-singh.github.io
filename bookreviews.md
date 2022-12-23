@@ -1,6 +1,6 @@
 # Book Reviews
 
-Summaries of what I learned from my latest read Allahh:
+Summaries of what I learned from my latest read Allahkh:
 
 <!--
 |:---:|:-------------------------:|:-------------------------:|
