@@ -37,7 +37,7 @@ I pretend to speak [French](./index-fr.md), [Turkish](./index-tr.md), and [Persi
 You can get in touch with me [here](mailto:joesingh@stanford.edu)
 or follow me on [Twitter](https://twitter.com/SinghJyotirmai).
 
-# Publications
+# Publications/Articles
 
 * Stephen E. Kuenstner, Elizabeth C. van Assendelft, Saptarshi Chaudhuri, Hsiao-Mei Cho, Jason Corbin, Shawn W. Henderson, Fedja Kadribasic, Dale Li, Arran Phipps, Nicholas M. Rapidis, Maria Simanovskaia, **Jyotirmai Singh**, Cyndia Yu, Kent D. Irwin, _Quantum metrology of low frequency electromagnetic modes with frequency upconverters_,
 [arXiv:2210.05576 (2022)](https://arxiv.org/abs/2210.05576)
@@ -47,6 +47,9 @@ or follow me on [Twitter](https://twitter.com/SinghJyotirmai).
 
 * L. Brouwer et al. (DMRadio Collaboration), _Proposal for a definitive search for GUT-scale QCD axions_, 
 [Phys. Rev. D 106, 112003 (2022)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.112003)
+
+* **Jyotirmai Singh**, Preey Shah, _Investing in the future of Indian Science_,
+[Observer Research Foundation (2022)](https://www.orfonline.org/expert-speak/investing-in-the-future-of-indian-science/)
 
 * B. Aharmim et al. (SNO Collaboration), _Measurement of neutron production in atmospheric neutrino interactions at the Sudbury Neutrino Observatory_,
   [Phys. Rev. D 99, 112007 (2019)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.112007)
