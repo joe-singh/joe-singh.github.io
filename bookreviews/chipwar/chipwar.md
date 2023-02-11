@@ -1,4 +1,4 @@
-# *Breath*, James Nestor
+# *Chip War*, Chris Miller
 <img align="right" src="./chipwar.jpeg" style="max-width:30%; padding-left: 20px;">
 
 <div>
