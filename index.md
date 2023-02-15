@@ -39,6 +39,8 @@ or follow me on [Twitter](https://twitter.com/SinghJyotirmai).
 
 # Publications/Articles
 
+* M.H. Kelsey et al., _G4CMP: Condensed Matter Physics Simulation Using the Geant4 Toolkit_, [arXiv:2302.05998 (2023)](https://arxiv.org/abs/2302.05998)
+
 * Stephen E. Kuenstner, Elizabeth C. van Assendelft, Saptarshi Chaudhuri, Hsiao-Mei Cho, Jason Corbin, Shawn W. Henderson, Fedja Kadribasic, Dale Li, Arran Phipps, Nicholas M. Rapidis, Maria Simanovskaia, **Jyotirmai Singh**, Cyndia Yu, Kent D. Irwin, _Quantum metrology of low frequency electromagnetic modes with frequency upconverters_,
 [arXiv:2210.05576 (2022)](https://arxiv.org/abs/2210.05576)
 
