@@ -20,7 +20,7 @@ comment on what a fool I used to be.
 <!--* [Economics](./writings/valuation/valuation.md)
 * [Book Reviews](./bookreviews.md-->
 
-Here is a list of all posts (excluding [book reviews](./bookreviews.html)) in reverse order:
+Here is a list of all posts (excluding [book reviews](./books.html)) in reverse order:
 
 * [L'Europe: L'homme Malade du Monde - 12/22](./writings/misc/europe/europe.md)
 * [Nation & Civilization - 11/22](./writings/misc/civilization/civilization.md)
