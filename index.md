@@ -16,6 +16,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <!--<img style="position:absolute; LEFT:78% " width="205" height="308" src="./goodpic.jpg"> -->
 <img align="right" src="./dp2.jpg" style="max-width:30%; border-radius:5%; padding-left: 20px;">
 I am a fourth year Physics PhD student at Stanford University advised by Kent Irwin. My main interest is applying the methods of quantum metrology to enhance searches for axion dark matter. 
+
 I spend most of my time building MHz scale superconducting electromagnetic resonators, understanding quantum noise in these frequency ranges, and developing new sensors/protocols to evade the standard quantum limit on measurement.
 My research is generously supported by the governments of Australia, India, Japan, and the United States through the [Quad Fellowship](https://www.quadfellowship.org/). 
 <!--I graduated from UC Berkeley in 2019. My research there included data analysis for the SNO
