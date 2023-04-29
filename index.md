@@ -27,7 +27,7 @@ Previously, I was at UC Berkeley working on neutrinoless double beta decay and
 WIMP dark matter detection. Before that, I was born in [Delhi](https://www.youtube.com/watch?v=DxRxTlkI3gY&ab_channel=NetflixIndia) and raised in [Singapore](https://www.youtube.com/watch?v=uByyHDXlEqM&ab_channel=TropicMonstersTV) & [Dubai](https://www.youtube.com/watch?v=fbL9QdWWJzo&ab_channel=Emirates). 
 
 Outside of physics, I am a huge basketball fan and love reading, especially about history. Previously I've served on the Stanford Graduate Student Council where I was fortunate to work on issues of [affordability for graduate students on campus](https://stanforddaily.com/2022/01/20/stanford-unveils-measures-to-tackle-affordability-issues/).
-I write a [newsletter](https://jyotirmai.substack.com/) about all the amazing
+I write a [blog](https://jyotirmai.substack.com/) about all the amazing
 scientifc breakthroughs happening currently.
 This website also hosts [my thoughts on other things](./writings.md), including [books I've read.](./books.md)
 
@@ -35,8 +35,8 @@ I also really like learning new languages.
 I pretend to speak [French](./index-fr.md), [Turkish](./index-tr.md), and [Persian](./translation/shahnameh/shahnameh_blog.md). Recently I've tried to extend into ancient languages with
 [Latin](./index-lt.md) and [Sanskrit](./translation/gita/gita.md).
 
-You can get in touch with me [here](mailto:joesingh@stanford.edu)
-or follow me on [Twitter](https://twitter.com/SinghJyotirmai).
+You can get in touch with me via [email](mailto:joesingh@stanford.edu), follow me on [Twitter](https://twitter.com/SinghJyotirmai), or schedule a 30 minute chat with me on [Calendly](https://calendly.com/jyotirmai).  
+
 
 # Publications/Articles
 
