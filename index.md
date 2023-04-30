@@ -35,7 +35,7 @@ I also really like learning new languages.
 I pretend to speak [French](./index-fr.md), [Turkish](./index-tr.md), and [Persian](./translation/shahnameh/shahnameh_blog.md). Recently I've tried to extend into ancient languages with
 [Latin](./index-lt.md) and [Sanskrit](./translation/gita/gita.md).
 
-You can get in touch with me via [email](mailto:joesingh@stanford.edu), follow me on [Twitter](https://twitter.com/SinghJyotirmai), or schedule a 30 minute chat with me on [Calendly](https://calendly.com/jyotirmai).  
+You can get in touch with me via [email](mailto:joesingh@stanford.edu) or follow me on [Twitter](https://twitter.com/SinghJyotirmai). 
 
 
 # Publications/Articles
