@@ -1,5 +1,5 @@
 # *Bridgital Nation*, N. Chandrasekaran and Roopa Puroshothaman
-<img align="right" src="./chipwar.jpeg" style="max-width:30%; padding-left: 20px;">
+<img align="right" src="./bridgital.jpg" style="max-width:30%; padding-left: 20px;">
 
 <div>
 One of the most important trends of the 21st century will be the economic development of India. However, the rise of hundreds of millions from poverty to the middle class over the next few decades will come with its own unique challenges. In <em>Bridgital Nation</em>, N. Chandrasekaran and Roopa Puroshothaman attempt to identify these challenges and suggest solutions to ensure that the benefits of India’s economic growth are as widely distributed as possible. 
