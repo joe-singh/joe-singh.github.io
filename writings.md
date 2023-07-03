@@ -22,7 +22,8 @@ comment on what a fool I used to be.
 
 Here is a list of all posts (excluding [book reviews](./books.html)) in reverse order:
 
-* [L'Europe: L'homme Malade du Monde - 12/22](./writings/misc/europe/europe.md)
+* [Not an Asian, but an Indo-Pacific Century](./writings/misc/indopacificcentury/indopac.md)
+* [L'homme Malade du Monde - 12/22](./writings/misc/europe/europe.md)
 * [Nation & Civilization - 11/22](./writings/misc/civilization/civilization.md)
 * [Language, Personality, and Linear Algebra - 7/22](./writings/misc/langlinear/langlinear.md)
 * [Separation of Money & State - 5/22](./writings/misc/moneyandstate/moneyandstate.md)
