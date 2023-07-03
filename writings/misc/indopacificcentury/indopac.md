@@ -1,4 +1,4 @@
-# Not an Asian, but an Indo-Pacific Century
+# The Indo-Pacific Century
 
 <div>
 One idea that has gained much currency is that just as the 18th century was the British Century and the 20th was the American one, the 21st will be the Asian Century. It's a very appealing idea, especially in the context of the history of colonialism. It would be a comeback story without parallel - an Asia devastated by the depredations of European colonialism rising again like a phoenix.
