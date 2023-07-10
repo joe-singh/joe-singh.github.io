@@ -17,9 +17,9 @@ Beyond just the US-China power differential, the increasing power of other parts
 </div><br>
 
 <div>
-Instead of an Asian or a Chinese Century, the particular constellation of a prosperous but fragmented Asia and a stubbornly resilient United States sets up a different paradigm for the century ahead. Amidst all the geopolitical turbulence, the one constant is the increasing economic and military power of countries in East Asia and in the Indian Ocean region. Slowly but surely, this part of the world, with ASEAN at its heart, is becoming the center of the world. Europe, while critical during the Cold War, is receding into irrelevance as a <em>de facto</em> American vassal.
+Instead of an Asian or a Chinese Century, the particular constellation of a prosperous but fragmented Asia and a stubbornly resilient United States sets up a different paradigm for the century ahead. Amidst all the geopolitical turbulence, the one constant is the increasing economic and military power of countries in East Asia and in the Indian Ocean region. Slowly but surely, this region is becoming the center of the world. Europe, while critical during the Cold War, is receding into irrelevance as a <em>de facto</em> American vassal.
 </div><br>
 
 <div>
-Just as the histories of the 20th century focus primarily on Paris, Berlin, and London, the histories of the 21st will center on Beijing, New Delhi, and Tokyo. What will remain constant across both centuries is the centrality of Washington DC. Therefore, just as the 20th century was the Euro-Atlantic Century, rather than an Asian or a Chinese Century, it may be more apt to dub the 21st as the Indo-Pacific Century.
+Just as the histories of the 20th century focus primarily on Paris, Berlin, and London, the histories of the 21st will center on Beijing, New Delhi, and Tokyo. What will remain constant across both centuries is the centrality of Washington DC. Therefore, just as the 20th was the Euro-Atlantic Century, rather than an Asian or a Chinese Century, it will be more apt to dub the 21st as the Indo-Pacific Century.
 </div><br>
