@@ -40,7 +40,7 @@ You can get in touch with me via [email](mailto:joesingh@stanford.edu) or follow
 
 # Publications/Articles
 
-* M.H. Kelsey et al., _G4CMP: Condensed Matter Physics Simulation Using the Geant4 Toolkit_, [arXiv:2302.05998 (2023)](https://arxiv.org/abs/2302.05998)
+* M.H. Kelsey et al., _G4CMP: Condensed Matter Physics Simulation Using the Geant4 Toolkit_, [Nuclear Inst. and Methods in Physics Research, A 1055, 168473 (2023)](https://www.sciencedirect.com/science/article/pii/S0168900223004631?via\%3Dihub)
 
 * Stephen E. Kuenstner, Elizabeth C. van Assendelft, Saptarshi Chaudhuri, Hsiao-Mei Cho, Jason Corbin, Shawn W. Henderson, Fedja Kadribasic, Dale Li, Arran Phipps, Nicholas M. Rapidis, Maria Simanovskaia, **Jyotirmai Singh**, Cyndia Yu, Kent D. Irwin, _Quantum metrology of low frequency electromagnetic modes with frequency upconverters_,
 [arXiv:2210.05576 (2022)](https://arxiv.org/abs/2210.05576)
