@@ -23,7 +23,8 @@ Any result in the natural sciences without a consideration of error would be lau
 <div>
 As an example, take this recent <a href="https://www.goldmansachs.com/intelligence/pages/how-india-could-rise-to-the-worlds-second-biggest-economy.html">projection</a> from Goldman Sachs about world GDP in 2075. As an Indian, I would love nothing less for this graph to be 100% true. But more importantly as someone who values intellectual honesty, this chart is quite useless. 
 </div><br>
-<img align="center" src="./goldman.png" style="max-width:30%; padding-left: 20px;">
+
+<div style="text-align:center"><img src="./goldman.png" /></div>
 
 <div>
 The world today as it is virtually impossible to model, yet the geniuses at Goldman think they can precisely model global dynamics 50 years into the future and churn out GDP figures to the precision of one decimal place. Just think about all the disruption that has happened only in the past ten years that no one could have predicted, like covid and the rise of AI. Now imagine having the hubris to say I know how the world will evolve over 50 years and can predict GDP to a precision of 1%. Their (qualitative) discussion of broad macro factors is ok as a basis for claiming that India will get significantly richer, but certainly not enough to claim a value for GDP to percent level precision. 
