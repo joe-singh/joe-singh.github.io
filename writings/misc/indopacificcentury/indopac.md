@@ -1,4 +1,4 @@
-# Not an Asian, but an Indo-Pacific Century
+# The Indo-Pacific Century
 
 <div>
 One idea that has gained much currency is that just as the 18th century was the British Century and the 20th was the American one, the 21st will be the Asian Century. It's a very appealing idea, especially in the context of the history of colonialism. It would be a comeback story without parallel - an Asia devastated by the depredations of European colonialism rising again like a phoenix.
@@ -21,5 +21,5 @@ Instead of an Asian or a Chinese Century, the particular constellation of a pros
 </div><br>
 
 <div>
-Just as the histories of the 20th century focus primarily on Paris, Berlin, and London, the histories of the 21st will center on Beijing, New Delhi, and Tokyo. What will remain constant across both centuries is the centrality of Washington DC. Therefore, just as the 20th was the Euro-Atlantic Century, rather than an Asian or a Chinese Century, it will be more apt to dub the 21st as the Indo-Pacific Century.
+Just as the histories of the 20th century focus primarily on Paris, Berlin, and London, the histories of the 21st will center on Beijing, New Delhi, and Tokyo. What will remain constant across both centuries is the centrality of Washington DC. Therefore, just as the 20th was the Euro-Atlantic Century, the 21st will be the Indo-Pacific Century.
 </div><br>
