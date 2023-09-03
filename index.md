@@ -23,7 +23,7 @@ My research is generously supported by the governments of Australia, India, Japa
 Previously, I was at UC Berkeley working on neutrinoless double beta decay and
 WIMP dark matter detection. Before that, I was born in [Delhi](https://www.youtube.com/watch?v=DxRxTlkI3gY&ab_channel=NetflixIndia) and raised in [Singapore](https://www.youtube.com/watch?v=uByyHDXlEqM&ab_channel=TropicMonstersTV) & [Dubai](https://www.youtube.com/watch?v=fbL9QdWWJzo&ab_channel=Emirates). 
 
-Outside of physics, I am very interested in geopolitics and the intersection of technology with economic development. I write a [blog](https://jyotirmai.substack.com/) about all global scientific competition and its geopolitical implications.
+Outside of physics, I am very interested in geopolitics and the intersection of technology with economic development. I write a [blog](https://jyotirmai.substack.com/) about global scientific competition and its geopolitical implications.
  Previously I've served on the Stanford Graduate Student Council where I was fortunate to work on issues of [affordability for graduate students on campus](https://stanforddaily.com/2022/01/20/stanford-unveils-measures-to-tackle-affordability-issues/).
 This website also hosts [my thoughts on other things](./writings.md), including [books I've read.](./books.md)
 
