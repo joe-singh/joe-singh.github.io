@@ -19,16 +19,12 @@ I am a fourth year Physics PhD student at Stanford University advised by Kent Ir
 
 I spend most of my time building MHz scale superconducting electromagnetic resonators, understanding quantum noise in these frequency ranges, and developing new sensors/protocols to evade the standard quantum limit on measurement.
 My research is generously supported by the governments of Australia, India, Japan, and the United States through the [Quad Fellowship](https://www.quadfellowship.org/). 
-<!--I graduated from UC Berkeley in 2019. My research there included data analysis for the SNO
-experiment, detector analysis for its successor SNO+, and detector R&D for the SuperCDMS experiment. My senior thesis focused on precision detection of vacuum ultraviolet (VUV) photons for
-future liquid argon scintillator experiments. -->
 
 Previously, I was at UC Berkeley working on neutrinoless double beta decay and
 WIMP dark matter detection. Before that, I was born in [Delhi](https://www.youtube.com/watch?v=DxRxTlkI3gY&ab_channel=NetflixIndia) and raised in [Singapore](https://www.youtube.com/watch?v=uByyHDXlEqM&ab_channel=TropicMonstersTV) & [Dubai](https://www.youtube.com/watch?v=fbL9QdWWJzo&ab_channel=Emirates). 
 
-Outside of physics, I am a huge basketball fan and love reading, especially about history. Previously I've served on the Stanford Graduate Student Council where I was fortunate to work on issues of [affordability for graduate students on campus](https://stanforddaily.com/2022/01/20/stanford-unveils-measures-to-tackle-affordability-issues/).
-I write a [blog](https://jyotirmai.substack.com/) about all the amazing
-scientifc breakthroughs happening currently.
+Outside of physics, I am very interested in geopolitics and the intersection of technology with economic development. I write a [blog](https://jyotirmai.substack.com/) about all global scientific competition and its geopolitical implications.
+ Previously I've served on the Stanford Graduate Student Council where I was fortunate to work on issues of [affordability for graduate students on campus](https://stanforddaily.com/2022/01/20/stanford-unveils-measures-to-tackle-affordability-issues/).
 This website also hosts [my thoughts on other things](./writings.md), including [books I've read.](./books.md)
 
 I also really like learning new languages.
