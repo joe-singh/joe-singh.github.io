@@ -22,6 +22,7 @@ comment on what a fool I used to be.
 
 Here is a list of all posts (excluding [book reviews](./books.html)) in reverse chronological order:
 
+* [Remembering Lee Kuan Yew - 9/23](./writings/misc/lky/lky.md)
 * [Humility and Error Bars - 8/23](./writings/misc/errorbars/errorbars.md)
 * [The Indo-Pacific Century - 7/23](./writings/misc/indopacificcentury/indopac.md)
 * [L'homme Malade du Monde - 12/22](./writings/misc/europe/europe.md)
