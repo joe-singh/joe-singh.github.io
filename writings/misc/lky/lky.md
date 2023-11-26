@@ -1,4 +1,4 @@
-## Remembering Lee Kuan Yew
+# Remembering Lee Kuan Yew
 
 Today (16/9/23) would have been LKY’s 100th birthday. I want to take some time today to reflect on why I think he is the closest thing I have to a hero. In particular, I just want to note down some of the key qualities which I find admirable in him based on what I’ve read and seen. 
 
