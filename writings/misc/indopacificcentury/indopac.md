@@ -13,11 +13,11 @@ However, I don't think a Chinese Century is a realistic proposition either. The 
 </div><br>
 
 <div>
-Beyond just the US-China power differential, the increasing power of other parts of Asia also plays a key role in blunting Chinese dominance. Examples include India, South East Asia, and a resurgent Japan which is slowly shedding the ghosts of its past and becoming unafraid to develop its military capacity. All this sets up the creation of a multipolar Asia which will have many of its own internal tensions and fissures. A tense and divided Asia, no matter how prosperous and powerful it is, will hardly be able to lord it over the rest of the world.
+Beyond just the US-China power differential, the increasing power of other parts of Asia also plays a key role in blunting Chinese dominance. Examples include India, South East Asia, and a resurgent Japan which is slowly shedding the ghosts of its past. All this sets up the creation of a multipolar Asia which will have many of its own internal tensions and fissures. A tense and divided Asia, no matter how prosperous and powerful it is, will hardly be able to lord it over the rest of the world.
 </div><br>
 
 <div>
-Instead of an Asian or a Chinese Century, the particular constellation of a prosperous but fragmented Asia and a stubbornly resilient United States sets up a different paradigm for the century ahead. Amidst all the geopolitical turbulence, the one constant is the increasing economic and military power of countries in East Asia and in the Indian Ocean region. Slowly but surely, this region is becoming the center of the world. Europe, while critical during the Cold War, is receding into irrelevance as a <em>de facto</em> American vassal.
+Instead of an Asian or a Chinese Century, the particular constellation of a prosperous but fragmented Asia and a stubbornly resilient United States sets up a different paradigm for the century ahead. Amidst all the geopolitical turbulence, the one constant is the increasing economic and military power of countries in the Indo-Pacific. Slowly but surely, this region is becoming the center of the world. Europe, while critical during the Cold War, is receding into irrelevance as a <em>de facto</em> American vassal.
 </div><br>
 
 <div>
