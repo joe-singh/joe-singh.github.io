@@ -1,5 +1,5 @@
 # *A New Idea of India*, Harsh Madhusudhan & Rajeev Mantri
-<img align="right" src="./anewideaofindia.jpeg" style="max-width:30%; padding-left: 20px;">
+<img align="right" src="./anewideaofindia.jpg" style="max-width:30%; padding-left: 20px;">
 
 <div>
 One of the key themes of India’s trajectory in the 21st century is a debate over what it means to be Indian. As the title suggests, <em>A New Idea of India</em> tackles this question head on by offering a new conception of the Indian state that offers a sharp break from the traditional Nehruvian vision.  </div><br>
