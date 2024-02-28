@@ -27,7 +27,7 @@ Outside of physics, I am very interested in geopolitics and the intersection of 
 Previously I've served on the Stanford Graduate Student Council where I was fortunate to work on issues of [affordability for graduate students on campus](https://stanforddaily.com/2022/01/20/stanford-unveils-measures-to-tackle-affordability-issues/).
 This website also hosts [my other essays](./writings.md) and [book reviews.](./books.md)
 
-I also really like learning new languages. I've been most successful with [French](./index-fr.md), [Turkish](./index-tr.md), and [Persian](./translation/shahnameh/shahnameh_blog.md) and ancient languages like
+I also really like learning new languages. I've been most successful with [French](./index-fr.md), [Turkish](./index-tr.md), [Persian](./translation/shahnameh/shahnameh_blog.md), and ancient languages like
 [Latin](./index-lt.md), [Sanskrit](./translation/gita/gita.md), and [Avestan](https://www.youtube.com/playlist?list=PLdEjXxfweLgZkCQjm6Lvs-dKoWJLdM6Qq).
 
 You can get in touch with me via [email](mailto:joesingh@stanford.edu) or follow me on [Twitter](https://twitter.com/SinghJyotirmai). 
