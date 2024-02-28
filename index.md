@@ -17,8 +17,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 <img align="right" src="./dp4.png" style="max-width:30%; border-radius:5%; padding-left: 20px;">
 I am a fifth year Physics PhD student at Stanford University advised by Kent Irwin. My main interest is applying the methods of quantum metrology to enhance searches for axion dark matter. 
 
-My reasearch focus is on building superconducting radiofrequency resonators, understanding quantum noise in these frequency ranges, and developing new sensors/protocols to evade the standard quantum limit on measurement in dark matter searches.
-My research is generously supported by the governments of Australia, India, Japan, and the United States through the [Quad Fellowship](https://www.quadfellowship.org/). 
+My focus is on building superconducting radiofrequency resonators, understanding quantum noise in these frequency ranges, and developing new sensors/protocols to evade the standard quantum limit on measurement in dark matter searches.
+In this, I am generously supported by the governments of Australia, India, Japan, and the United States through the [Quad Fellowship](https://www.quadfellowship.org/). 
 
 Previously, I was at UC Berkeley working on neutrinoless double beta decay and
 WIMP dark matter detection. Before that, I was born in [Delhi](https://www.youtube.com/watch?v=DxRxTlkI3gY&ab_channel=NetflixIndia) and raised in [Singapore](https://www.youtube.com/watch?v=uByyHDXlEqM&ab_channel=TropicMonstersTV) & [Dubai](https://www.youtube.com/watch?v=fbL9QdWWJzo&ab_channel=Emirates). 
