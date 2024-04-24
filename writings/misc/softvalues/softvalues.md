@@ -1,0 +1,20 @@
+# Soft Values, Hard Results
+
+<div>
+Like any bright-eyed twenty-something infected by the ambition of Silicon Valley, I’ve spent my fair share of time wondering what it takes to be successful. Of course there’s no universal definition of success, but all forms of success require you to bend reality in some way to conform to your worldview. I’m now convinced that beyond just shaping our dreams and aspirations, our beliefs and values are also vital in achieving them. Soft values lead to hard results. 
+</div><br>
+<div>
+Values matter because behaviour that contradicts your worldview cannot last. No one can sustain excellence unless a commitment to excellence is rooted in their value system. Someone who resolves to lose weight will not succeed unless they first cultivate the discipline to commit to the gym. A society that aims for lasting prosperity will never attain it until it cultivates a commitment to rule of law and property rights, no matter how many barrels of oil it may sit on. On all scales from individual to societal, the right values are necessary to achieve success. 
+</div><br>
+<div>
+In business and sports, successful organisations are often praised for their “culture”. When you watch the Golden State Warriors play, it’s clear why they’re a championship dynasty. Sure they have superstar players with otherworldly talent, but they also have a deeply ingrained culture of selflessness, teamwork, and commitment to excellence. Yes, Steph Curry can shoot threes from anywhere on the floor, but equally important is his giddy joy at seeing his teammates succeed, which then percolates right down to the last player on the bench. True greatness is elevating those around you and the Warriors are a living manifestation of that. Pick any championship dynasty and you’ll see the same story – lurking behind the glamour of talent is always a rock-solid foundation of winning values. 
+</div><br>
+<div>
+In all this, I want to stress that values are generally necessary but not sufficient for success. The degree to which they are sufficient depends on the degree to which individual agency plays a decisive role in the outcome. For example, a truly disciplined and committed person can usually find a way to exercise even if there is no gym available. As we scale up, it’s much rarer for a business or sports team to succeed based on the strength of its values alone. Isolated <a href="https://en.wikipedia.org/wiki/2015%E2%80%9316_Leicester_City_F.C._season">underdog stories</a> that show it is possible, but at larger scales, values must generally be complemented with talent and skill<>. 
+</div><br>
+<div>
+At the levels of nations and civilisations, values alone are never sufficient. Take the US and Australia, who both share the same values and inherit the same cultural “operating system” from the British Empire. Despite this, Australia will never achieve America’s level of prosperity, because of the simple fact that the Australian continent is <a href="https://en.wikipedia.org/wiki/Deserts_of_Australia">too barren</a> to support a large population. Both nations share the same values, but the US was also blessed with abundant fertile land and natural resources. However, contrasting fairly prosperous Australia with any resource rich but values poor banana republic shows that resources are poor substitutes for values. Even when they are not decisive, values remain critical to success. 
+</div><br>
+<div>
+Values not only define success, but also determine to a large degree whether one can be successful. At the largest scales, the impact of values will always be subject to the various vagaries of the world but on more modest scales they play a decisive role. At all scales though, values are essential and once you boot up the right “software” of values within yourself, you will find that achieving hard results becomes a little less hard. 
+</div><br>
