@@ -32,7 +32,7 @@ I also really like learning new languages. I've been most successful with [Frenc
 
 You can get in touch with me via [email](mailto:joesingh@stanford.edu) or follow me on [Twitter](https://twitter.com/SinghJyotirmai). 
 
-Test $\sqrt{3x-1}+(1+x)^2$
+Test $\mathcal{F}\{f(t)\} = \frac{1}{\sqrt{2\pi}} \int_{\infty}^{\infty}e^{-i\omega t} f(t) dt$
 
 
 # Publications/Articles
