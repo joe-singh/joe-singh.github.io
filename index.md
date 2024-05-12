@@ -32,6 +32,8 @@ I also really like learning new languages. I've been most successful with [Frenc
 
 You can get in touch with me via [email](mailto:joesingh@stanford.edu) or follow me on [Twitter](https://twitter.com/SinghJyotirmai). 
 
+Test $\mathcal{F}\left(\hat{f}(x)\right) = \frac{1}{\sqrt{2\pi}}\int_{\infty}^{\infty}e^{-i\omega t}f(t) dt$
+
 
 # Publications/Articles
 

@@ -1,6 +1,6 @@
 # Blog
 
-Notes from my attempts to form a coherent worldview. Mostly on things that are not physics. 
+Notes from my attempts to form a coherent worldview. Mostly not physics. 
 
 <!--
 I spend a fair bit of time thinking about things that are not physics. Eventually,
