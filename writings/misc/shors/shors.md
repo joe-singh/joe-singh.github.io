@@ -106,3 +106,15 @@ notation for vectors in a complex Hilbert space. $\ket{a}$ (called a ket) is
 equivalent to $\vec{a}$ and $\bra{a}$ (called a bra) is equivalent to $\vec{a}^{\dagger}$. The inner product $\vec{a}^{\dagger} \vec{b}$ is
 denoted by $\braket{a}{b}$, which is called a bra(c)ket. Physicists prefer braket notation because 
 it's kind of silly to write something like $\vec{0}^{\dagger}\vec{1}$.
+
+While a qubit can be in a superposition of the 0 and 1 basis states,
+any measurement on the qubit will only return either 0 or 1. The
+probability of each result is given by the inner product:
+
+$$\Pr(0) = \left|\braket{0}{\psi}\right|^2 = \left|\alpha^2\right|$$
+
+$\Pr(1)$ is defined analogously. Note that this definition means
+that $\abs{\alpha}^2 + \abs{\beta}^2 = 1$ and that for any quantum
+state $\ket{\psi}$ we must have that $\abs{\braket{\psi}{\psi}}^2 = 1$.
+This is why we require that the basis states $\ket{0}$ and $\ket{1}$ 
+be orthonormal. 
