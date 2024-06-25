@@ -32,6 +32,8 @@ I also really like learning new languages. I've been most successful with [Frenc
 
 You can get in touch with me via [email](mailto:joesingh@stanford.edu) or follow me on [Twitter](https://twitter.com/SinghJyotirmai). 
 
+$$\frac{1}{2x+1}$$
+
 
 # Publications/Articles
 
