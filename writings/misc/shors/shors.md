@@ -160,3 +160,24 @@ More concretely,
 the basis for $\mathcal{H_{AB}}$ is given by 
 $$\{\ket{0_A 0_B}, \ket{0_A 1_B}, \ket{1_A 0_B}, \ket{1_A 1_B}\}$$
 
+Often we will omit the subscripts and implicitly assume that the label
+at position $n$ in the ket or bra refers to the state of qubit $n$. 
+
+Note that it is not always possible to write a $\ket{\psi} \in \mathcal{H}$ 
+as an explicit tensor product of a vector in 
+$\mathcal{H_A}$ and $\mathcal{H_B}$. For example, in the case of 
+two qubits, it's not hard to show that the state $\ket{00} + \ket{11}$
+cannot be "factorised" into the tensor product of something in 
+$\mathcal{H_A}$ and $\mathcal{H_B}$. These new states that emerge
+when both qubits are entangled but can't be split back into products
+of states in the individual qubit subspaces are an example of 
+how quantum entanglement gives rise to new behaviour which can only be
+seen when two systems interact. 
+
+One final note is that to be able to factorise numbers, we will need 
+a way to represent integers in the range $\{0, 1, ... N-1\}$ using 
+qubits. The way we do this is by representing those integers by
+their binary representations and mapping those onto tensor products
+of qubits. For example, if you want to represent the integers from 0 to
+5, you can do that with three qubits:
+
