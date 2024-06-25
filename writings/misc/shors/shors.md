@@ -66,3 +66,37 @@ to factor $N$ is as follows:
     is 1, try a new guess. If this is not one, you are done 
     and the other divisor is $\frac{N}{\gcd\left(a^{\frac{r}{2}} + 1, N\right)}$
 
+## Order Finding
+
+The quantum speedup in Shor's Algorithm comes from applying quantum 
+methods to find the order of $a$ in step 3. Let the order (or period) be called $r$. The basic strategy to find $r$ is to 
+first apply an algorithm called quantum phase estimation with 
+the unitary operator $U$ which represents multiplication by $a$ 
+modulo $N$. When applied to the eigenvectors of $U$, phase estimation
+will return the eigenvalues which encode the value of $r$. After 
+sampling the output of the phase estimation, we use the continued
+fractions algorithm to get the value of $r$ from the values sampled
+from the output of the algorithm. 
+
+### Quantum Preliminaries
+Before expanding on the quantum order finding algorithm, we set out 
+some preliminaries on quantum information. This introduction is intended for someone who might not necessarily have an exposure to quantum mechanics, but has an adequate linear algebra background. 
+We go over the bare minimum of the mathematical axioms required to
+explain the implementation of Shor's algorithm. Those comfortable with
+braket notation can skip this section. Those looking for a more in
+depth introduction can check out Nielsen and Chuang. 
+
+#### Qubits
+The fundamental unit of
+quantum information is the qubit. A classical bit can be 
+either 0 or 1. A qubit is a quantum system with which can occupy
+two quantum states, which we label $\ket{0}$ and $\ket{1}$. Qubits can be realised in a variety of physical systems from electrons in atomic
+energy orbitals to micrometer scale electromagnetic circuits made out
+of superconductors. The question of how to engineer high quality qubits
+is a central one in quantum computing right now but for most of this blog post, I'll assume we magically have access to perfect qubits that don't suffer from real world imperfections. We will return to this point
+once we've gone over the math of Shor's algorithm. 
+
+Unlike a bit, a qubit can be in an arbitrary superposition 
+of $\ket{0}$ and $\ket{1}$, i.e. it can be in a state 
+
+$$\ket{\psi} = \alpha\ket{0} + \beta\ket{1}$$
