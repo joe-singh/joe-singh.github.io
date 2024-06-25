@@ -181,3 +181,14 @@ their binary representations and mapping those onto tensor products
 of qubits. For example, if you want to represent the integers from 0 to
 5, you can do that with three qubits:
 
+$$
+\begin{align*}
+    \ket{0} &= \ket{000} \ (0\cdot 2^2 + 0\cdot2^1 + 0\cdot2^0 = 0) \\
+    \ket{1} &= \ket{001} \ (0\cdot 2^2 + 0\cdot2^1 + 1\cdot2^0 = 1) \\
+    \ket{2} &= \ket{010} \ (0\cdot 2^2 + 1\cdot2^1 + 0\cdot2^0 = 2)\\
+    \ket{3} &= \ket{011} \ (0\cdot 2^2 + 1\cdot2^1 + 1\cdot2^0 = 3)\\
+    \ket{4} &= \ket{100} \ (1\cdot 2^2 + 0\cdot2^1 + 0\cdot2^0 = 4)\\
+    \ket{5} &= \ket{101} \ (1\cdot 2^2 + 0\cdot2^1 + 1\cdot2^0 = 5) 
+\end{align*}
+$$
+
