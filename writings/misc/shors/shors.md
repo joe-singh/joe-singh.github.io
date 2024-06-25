@@ -1,5 +1,5 @@
 # Shor's Algorithm
-
+<meta property="og:image" content="https://images.heb.com/is/image/HEBGrocery/000466634"/>
 
 Suppose we want to factor $N$ into its prime 
 factors. The inefficient classical way to do this
@@ -78,7 +78,7 @@ sampling the output of the phase estimation, we use the continued
 fractions algorithm to get the value of $r$ from the values sampled
 from the output of the algorithm. 
 
-### Quantum Preliminaries
+## Quantum Preliminaries
 Before expanding on the quantum order finding algorithm, we set out 
 some preliminaries on quantum information. This introduction is intended for someone who might not necessarily have an exposure to quantum mechanics, but has an adequate linear algebra background. 
 We go over the bare minimum of the mathematical axioms required to
