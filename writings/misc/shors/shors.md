@@ -100,3 +100,10 @@ Unlike a bit, a qubit can be in an arbitrary superposition
 of $\ket{0}$ and $\ket{1}$, i.e. it can be in a state 
 
 $$\ket{\psi} = \alpha\ket{0} + \beta\ket{1}$$
+
+Where $\alpha$ and $\beta$ are complex numbers and $\ket{0}$, $\ket{1}$ are orthonormal vectors. This is just physics
+notation for vectors in a complex Hilbert space. $\ket{a}$ (called a ket) is 
+equivalent to $\Vec{a}$ and $\bra{a}$ (called a bra) is equivalent to $\Vec{a}^{\dagger}$. The inner product $\Vec{a}^{\dagger} \Vec{b}$ is
+denoted by $\braket{a|b}$, which is called a bra(c)ket. Physicists prefer braket notation because 
+it's kind of silly to write something like $\Vec{0}^{\dagger}
+\Vec{1}$.
