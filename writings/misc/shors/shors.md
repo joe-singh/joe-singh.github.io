@@ -118,3 +118,29 @@ that $\abs{\alpha}^2 + \abs{\beta}^2 = 1$ and that for any quantum
 state $\ket{\psi}$ we must have that $\abs{\braket{\psi}{\psi}}^2 = 1$.
 This is why we require that the basis states $\ket{0}$ and $\ket{1}$ 
 be orthonormal. 
+
+Operations on qubits are represented by unitary matrices $U$, i.e. $UU^{\dagger} = I$ or equivalently $U$ preserves the 
+inner product of the Hilbert space. These
+are the quantum mechanical equivalent of classical logic gates. These
+operators must be unitary to preserve the norm of the vectors they 
+act on, which is the mathematical way of saying that information 
+isn't lost by quantum operations. Some basic examples of single qubit
+operators are the Pauli operators $\sigma_x$, $\sigma_y$, and $\sigma_z$: 
+
+$$
+    \sigma_x = 
+    \begin{pmatrix}
+    0 & 1 \\
+    1 & 0 \\
+    \end{pmatrix}, \ 
+    \sigma_y = 
+    \begin{pmatrix}
+    0 & -i \\
+    i & 0 \\
+    \end{pmatrix},
+    \sigma_z = 
+    \begin{pmatrix}
+    1 & 0 \\
+    0 & -1 \\
+    \end{pmatrix}
+$$
