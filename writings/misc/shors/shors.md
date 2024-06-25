@@ -152,7 +152,7 @@ perform their operations, so it's unsurprising that quantum computers
 will also require multiple qubits to talk to each other. Suppose we
 have two qubits $A$ and $B$ with their corresponding Hilbert state spaces 
 $\mathcal{H_A}$ and $\mathcal{H_B}$. Let the basis states be
-$\ket{0_A}, \ket{1_A}$ and $\ket{0_B}, \ket{1_B}$.  When these two qubits
+$\ket{0_A}, \ket{1_A}$ and $\ket{0_B}, \ket{1_B}$. When these two qubits
 are allowed to physically interact with each other, we say they have 
 become entangled, and the state space of the combined A-B system
 is given by the tensor product of Hilbert spaces 
