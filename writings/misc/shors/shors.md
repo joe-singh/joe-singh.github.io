@@ -103,6 +103,6 @@ $$\ket{\psi} = \alpha\ket{0} + \beta\ket{1}$$
 
 Where $\alpha$ and $\beta$ are complex numbers and $\ket{0}$, $\ket{1}$ are orthonormal vectors. This is just physics
 notation for vectors in a complex Hilbert space. $\ket{a}$ (called a ket) is 
-equivalent to $\Vec{a}$ and $\bra{a}$ (called a bra) is equivalent to $\vec{a}^{\dagger}$. The inner product $\vec{a}^{\dagger} \vec{b}$ is
-denoted by $\Braket{a|b}$, which is called a bra(c)ket. Physicists prefer braket notation because 
-it's kind of silly to write something like $\Vec{0}^{\dagger}\vec{1}$.
+equivalent to $\vec{a}$ and $\bra{a}$ (called a bra) is equivalent to $\vec{a}^{\dagger}$. The inner product $\vec{a}^{\dagger} \vec{b}$ is
+denoted by $\braket{a|b}$, which is called a bra(c)ket. Physicists prefer braket notation because 
+it's kind of silly to write something like $\vec{0}^{\dagger}\vec{1}$.
