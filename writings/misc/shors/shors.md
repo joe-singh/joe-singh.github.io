@@ -49,9 +49,20 @@ either of these factors? Suppose $N$ divides $\left(a^{\frac{r}{2}} - 1\right)$.
 true since $r$ was already the smallest integer such that 
 $a^r = 1 \mod N$. Let's consider instead whether $N$ divides $a^{\frac{r}{2}} + 1$. More precisely, let's compute
 $x = \gcd\left(a^{\frac{r}{2}} + 1, N\right)$. If $x = 1$, there
-is no common divisor and this was a bad guess wo we need a different 
+is no common divisor and this was a bad guess so we need a different 
 guess for $a$. Suppose instead that $x \neq 0$, this means that $x$
 divides $N$, and we have found a divisor (and the other divisor $\frac{N}{x}$) and we are done. 
 
 Based on the above argument/proof, the (incomplete) algorithm
 to factor $N$ is as follows:
+
+1. Pick a guess $1 < a < N$.
+2. Calculate $\gcd(a, N)$. If this is not 1, you are done.
+3. Otherwise compute the order of $a$ in the group 
+    $\left(\mathbb{Z}/N\mathbb{Z}\right)^{\times}$. Let this 
+    be $r$. 
+4. If $r$ is odd go back to step 1 and try a new guess.
+5. Do $\gcd\left(a^{\frac{r}{2}} + 1, N\right)$. If this
+    is 1, try a new guess. If this is not one, you are done 
+    and the other divisor is $\frac{N}{\gcd\left(a^{\frac{r}{2}} + 1, N\right)}$
+
