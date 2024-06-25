@@ -16,6 +16,19 @@
         tex2jax: {
           skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
           inlineMath: [['$','$']]
+        },
+        TeX: {
+          extensions: ["AMSmath.js", "AMSsymbols.js"],
+          Macros: {
+            bra: ["{\\langle #1 |}", 1],
+            ket: ["{\\vert #1 \\rangle}", 1],
+            braket: ["{\\langle #1 \\vert #2 \\rangle}", 2],
+            set: ["{\\{ #1 \\}}", 1],
+            Bra: ["\\left\\langle #1 \\right|", 1],
+            Ket: ["\\left| #1 \\right\\rangle", 1],
+            Braket: ["\\left\\langle #1 \\middle| #2 \\right\\rangle", 2],
+            Set: ["\\left\\{ #1 \\right\\}", 1]
+          }
         }
       });
     </script>
