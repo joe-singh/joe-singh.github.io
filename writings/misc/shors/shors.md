@@ -151,4 +151,5 @@ Classical computers require many billions and trillions of bits to
 perform their operations, so it's unsurprising that quantum computers
 will also require multiple qubits to talk to each other. Suppose we
 have two qubits $A$ and $B$ with their corresponding Hilbert state spaces 
-$\mathcal{H_A}$ and $\mathcal{H_B}$. 
+$\mathcal{H_A}$ and $\mathcal{H_B}$. Let the basis states be
+$\ket{0_A}, \ket{1_A}$ and $\ket{0_B}, \ket{1_B}$.
