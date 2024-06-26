@@ -511,10 +511,10 @@ following theorem:
 
 Let $\frac{s}{r}$ be a rational number such that 
 
-$$\left|\frac{s}{r} - \tilde{\phi}\right| \leq \frac{1}{2r^2}$$
+$$\left|\frac{s}{r} - \tilde{\varphi}\right| \leq \frac{1}{2r^2}$$
 
 Then $\frac{s}{r}$ is a convergent of the continued fraction expansion
-of $\tilde{\phi}$.
+of $\tilde{\varphi}$.
 
 A proof of this theorem can be found in Nielsen and Chuang. The reason why this theorem applies in our case
 is because we chose the number of qubits to be such that $n = 2L + 1$, which
