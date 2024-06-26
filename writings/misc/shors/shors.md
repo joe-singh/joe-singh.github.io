@@ -300,8 +300,7 @@ of these two vectors without applying $U$.
 
 $$
 \begin{align*}
-    \braket{\phi}{\psi}&= 
-    \frac{1}{\sqrt{mn}}\sum_{k = 0}^{m-1} \sum_{j = 0}^{n-1} c_j c_m^*\braket{m|j} \\
+    \braket{\phi}{\psi}&= \frac{1}{\sqrt{mn}}\sum_{k = 0}^{m-1} \sum_{j = 0}^{n-1} c_j c_m^*\braket{m}{j} \\
     &= \frac{1}{\sqrt{mn}}\sum_{k = 0}^{m-1} \sum_{j = 0}^{n-1} c_j c_m^* \delta_{jm}
 \end{align*}
 $$
