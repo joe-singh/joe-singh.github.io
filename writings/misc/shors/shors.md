@@ -1,5 +1,5 @@
 # Shor's Algorithm
-<meta property="og:image" content="https://images.heb.com/is/image/HEBGrocery/000466634"/>
+<meta property="og:image" content="http://www.leadingpractice.com/wp-content/uploads/2016/08/Mark-von-Rosing.png" />
 
 Suppose we want to factor $N$ into its prime 
 factors. The inefficient classical way to do this
