@@ -335,3 +335,21 @@ always evaluate to $0$, just as it would if $U$
 hadn't been applied. Thus the operator preserves
 the inner product between two arbitrary vectors and
 it is a unitary operator.
+
+Since we know that $a^r = 1$ modulo $N$, we know that 
+$U^r = 1$. This means that the eigenvalues of the matrix
+have to be the $r-$th roots of unity, i.e. 
+$\lambda_j = e^{\frac{2\pi ij}{r}}$. 
+
+Now that we know that $U$ is indeed a unitary operator
+and its eigenvalues, we need to find its eigenvectors to be able to use
+the phase estimation algorithm to find $r$. We are mainly
+interested in vectors in the subspace spanned by the 
+interesting sub-basis of vectors 
+$\{\ket{0}\dots \ket{N-1}\}$ since $U$ acts trivially
+on all other basis vectors. 
+Since the action of $U$ is to map $\ket{k}$ to $\ket{ak}$, one might intuitively guess that the
+eigenvectors should be sums of powers of $a$, i.e. 
+of the form
+
+$$\ket{u} = \sum_{k = 0}^{r-1} c_k \ket{a^k}$$
