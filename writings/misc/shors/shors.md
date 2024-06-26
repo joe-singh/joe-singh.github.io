@@ -206,3 +206,19 @@ This can be written as a geometric series
 $\sum_{j=0}^{n-1} 2^j$ which using the geometric
 series formula is equal to $2^n - 1$. 
 
+Operators can be defined in the combined Hilbert space with the tensor
+product also. If $U_A$ is a unitary gate acting on $A$ and $U_B$ acts 
+on $B$, the combined action can be defined as $\left(U_A \otimes U_B\right) \ket{\psi}$. If the state $\ket{\psi}$ can be
+explicitly written
+as a product of a state in $\mathcal{H}_A$ and $\mathcal{H}_B$, then
+you can apply each unitary operator to the state from its individual 
+space and then tensor product the results together. So for example
+if $\ket{\psi} = \ket{0_A 1_B}$ then 
+
+$$
+    U_A \otimes U_B \ket{\psi} = \left(U_A \ket{0_A}\right) \otimes \left(U_B \ket{1_B}\right)
+$$
+
+This property will show up when we apply the quantum phase estimation
+algorithm. 
+
