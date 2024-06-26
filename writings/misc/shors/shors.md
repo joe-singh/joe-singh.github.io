@@ -499,8 +499,10 @@ $\left[a_0; a_1\right] = a_0 + \frac{1}{a_1} = \frac{a_0 a_1 + 1}{a_1}$
 How do continued fractions help us in recovering $r$ from our phase estimate $\tilde{\phi}$? The key lies in the 
 following theorem:
 
-Let $\frac{s}{r}$ be a rational number such that
+Let $\frac{s}{r}$ be a rational number such that 
+
 $$\left|\frac{s}{r} - \tilde{\phi}\right| \leq \frac{1}{2r^2}$$
+
 Then $\frac{s}{r}$ is a convergent of the continued fraction expansion
 of $\tilde{\phi}$.
 
