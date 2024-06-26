@@ -505,10 +505,107 @@ means that our phase estimates are accurate to $2L+1$ bits, i.e.
 
 $$
 \begin{align*}
-    \left|\frac{s}{r} - \tilde{\phi} \right| \leq \frac{1}{2^{2L+1}}
+    \left|\frac{s}{r} - \tilde{\varphi} \right| \leq \frac{1}{2^{2L+1}}
     &= \frac{1}{2\cdot (2^L)^2}\\ 
     &\leq \frac{1}{2r^2}
 \end{align*}
 $$
 
 Which is true since $r \leq N \leq 2^L$.
+
+Given this, the technique to find $r$ is straightforward: we compute
+the convergents of $\tilde{\var phi}$ which will give us some fraction 
+$\frac{s'}{r'}$. By testing the different values of $r'$, i.e. by calculating
+$x^{r'}\mod N$ and seeing if the result is 1. If yes, then we have found
+the period. We can now go back to step 4 of the main algorithm and proceed 
+normally. 
+
+## Example: Factorising 15
+
+Let's factorise 15 using the algorithm described above. Let's make our guess
+be $a = 7$. We see that $\gcd(7,15) = 1$ so we proceed to the next step
+where we have to compute the order of 7 modulo 15. 
+
+The first thing we need to do is initialise our registers. Recall
+that phase estimation requires two registers - one with a length of 
+$t = n + \ceil{\log\left(2 + \frac{1}{2\epsilon}\right)}$ and another one
+to represent all the possible eigenvectors. Since our subspace of interest
+goes up to $\ket{15}$ we must have the second register be at least $L = 4$ qubits.
+For the size of the first register, suppose we want a probability of being
+incorrect being at most $\frac{1}{4}$, we should choose 
+$t = 2(4)+1 + \ceil{\log\left(2 + \frac{1}{2\frac{3}{4}}\right)} = 11$ qubits.
+However for this simple example, we can get away with using $t = 3$ qubits. 
+
+First initialise the qubit state 
+$$\ket{0}^{\otimes 3} \ket{1} = \ket{000}\ket{0001}$$.
+
+Now we apply the phase estimation algorithm as outlined above. 
+First we apply quantum (Hademard) gates to change the state to
+
+$$\frac{1}{\sqrt{2^3}}\sum_{k=0}^{2^3-1}\ket{k}\ket{1} = \frac{1}{\sqrt{8}}\left[\ket{000} + \ket{001} + \dots + \ket{111} \right]\ket{0001}$$
+
+Apply modular exponentiation to get $\frac{1}{\sqrt{8}}\sum_{k=0}^{2^3-1}\ket{k}\ket{7^k \mod 15}$. From now on we will stop writing the full 
+qubit representation, i.e. instead of $\ket{011}\ket{1011}$ we will write
+$\ket{3}\ket{13}$. After applying modular exponentiation the state becomes
+
+$$
+\begin{align*}
+&\frac{1}{\sqrt{8}}\left[\ket{0}\ket{1} + \ket{1}\ket{7} + 
+\ket{2}\ket{4} + \ket{3}\ket{13} + \ket{4}\ket{1} 
++ \ket{5}\ket{7} + \ket{6}\ket{4} + \ket{7}\ket{13}\right] \\
+= &\frac{1}{\sqrt{8}}\left[\left(\ket{0} + \ket{4}\right)\ket{1} +
+\left(\ket{1} + \ket{5}\right)\ket{7} +
+\left(\ket{2} + \ket{6}\right)\ket{4} +
+\left(\ket{3} + \ket{7}\right)\ket{13} \right]
+\end{align*}
+$$
+
+Now we take the inverse Quantum Fourier Transform on the first register to
+obtain
+
+$$
+\begin{align*}
+\frac{1}{4}\bigg[ & \left(\ket{0} + \ket{2} + \ket{4} + \ket{6}\right)\ket{1} + \\ 
+                 & \left(\ket{0} - i \ket{2} - \ket{4} + i \ket{6}\right)\ket{7} + \\ 
+                 & \left(\ket{0} - \ket{2} + \ket{4} - \ket{6}\right)\ket{4} + \\ 
+                 & \left(\ket{0} + i \ket{2} - \ket{4} - i \ket{6}\right)\ket{13} 
+\bigg]
+\end{align*}
+$$
+
+Rearranging to group terms by the elements of the
+first register gives
+
+$$
+\begin{align*}
+\frac{1}{4}\bigg[ & \ket{0}\left(\ket{1} + \ket{7} + \ket{4} + \ket{13}\right) + \\ 
+                 & \ket{2}\left(\ket{1} - i \ket{7} - \ket{4} + i \ket{13}\right) + \\ 
+                 & \ket{4}\left(\ket{1} - \ket{7} + \ket{4} - \ket{13}\right) + \\ 
+                 & \ket{6}\left(\ket{1} + i \ket{7} - \ket{4} - i \ket{13}\right) 
+\bigg]
+\end{align*}
+$$
+
+Now if we measure the first register, we are equally 
+likely to measure either 0, 2, 4, or 6. Suppose we
+measure 6, which means that 
+$6 = 2^t \frac{j}{r} = 8 \frac{j}{r}$. If we compute 
+the continued fraction of $\frac{j}{r} = \frac{6}{8}$,
+we obtain 
+$\frac{6}{8} = \frac{1}{1 + \frac{1}{3}} = \frac{3}{4}$.
+Our guess is therefore that $r = 4$, which indeed works
+as $7^4 = 1 \mod 15$. 
+
+Now we have the period of 7 we can continue with the main algorithm. 
+We now compute $\gcd(7^2 + 1, 15) = 5$. This is not one so we have a divisor
+of 15, and the other divisor is $\frac{15}{5} = 3$. Done!
+
+ 
+
+\section{Peformance}
+
+The main argument in favour of Shor's algorithm is that it is more efficient
+than brute force methods. The above explanation showing how factoring
+is equivalent to order finding has hopefully convinced you 
+that there is deep structure in this problem that should enable much better
+performance than randomly guessing.
