@@ -1,7 +1,7 @@
 <head>
-    <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/e9/Felis_silvestris_silvestris_small_gradual_decrease_of_quality.png"/>
+    <meta property="og:image" content="https://reedhoffmann.com/wp-content/uploads/2022/03/JPEG_001-1080x675.jpg"/>
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/e/e9/Felis_silvestris_silvestris_small_gradual_decrease_of_quality.png"/>
+    <meta name="twitter:image" content="https://reedhoffmann.com/wp-content/uploads/2022/03/JPEG_001-1080x675.jpg"/>
 </head>
 
 # Shor's Algorithm
