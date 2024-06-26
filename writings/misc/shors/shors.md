@@ -358,8 +358,7 @@ Where $r$ is the period (i.e. $a^r = 1 \ \mathrm{mod} \ N$) that we are trying
 to find to solve the original factoring problem.
 
 As a toy example, consider the action of $U$ on 
-$\ket{u} = \ket{1} + \ket{a} + \ket{a^2}  + \dots 
-+ \ket{a^{r-1}}$:
+$\ket{u} = \ket{1} + \ket{a} + \ket{a^2}  + \dots + \ket{a^{r-1}}$:
 
 $$
 \begin{align*}
