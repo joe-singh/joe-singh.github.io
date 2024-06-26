@@ -24,7 +24,7 @@ N is the size of the integer.
 * [Phase Estimation Algorithm](#phase-estimation-algorithm)
 * [Period Finding with Phase Estimation](#period-finding-with-phase-estimation)
 * [Finding r with the Continued Fractions Algorithm](#finding-r-with-the-continued-fractions-algorithm)
-* [Example: Factorising 15](#example:-factorising-15)
+* [Example: Factorising 15](#example-factorising-15)
 
 ## The Classical Part of Shor's Algorithm
 Shor's algorithm is essentially a classical algorithm which 
@@ -537,11 +537,11 @@ $x^{r'}\mod N$ and seeing if the result is 1. If yes, then we have found
 the period. We can now go back to step 4 of the main algorithm and proceed 
 normally. 
 
-## Example: Factorising 15
+## Factorising 15
 
 Let's factorise 15 using the algorithm described above. Let's make our guess
 be $a = 7$. We see that $\gcd(7,15) = 1$ so we proceed to the next step
-where we have to compute the order of 7 modulo 15. 
+where we have to compute the order of $7 \mod 15$. 
 
 The first thing we need to do is initialise our registers. Recall
 that phase estimation requires two registers - one with a length of 
