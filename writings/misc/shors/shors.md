@@ -1,3 +1,9 @@
+<head>
+    <meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/e9/Felis_silvestris_silvestris_small_gradual_decrease_of_quality.png"/>
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://upload.wikimedia.org/wikipedia/commons/e/e9/Felis_silvestris_silvestris_small_gradual_decrease_of_quality.png"/>
+</head>
+
 # Shor's Algorithm
 
 Suppose we want to factor $N$ into its prime 
