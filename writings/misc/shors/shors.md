@@ -588,8 +588,8 @@ $$
 $$
 
 Now if we measure the first register, we are equally 
-likely to measure either 0, 2, 4, or 6. Suppose we
-measure 6, which means that 
+likely to measure either $0$, $2$, $4$, or $6$. Suppose we
+measure $6$, which means that 
 $6 = 2^t \frac{j}{r} = 8 \frac{j}{r}$. If we compute 
 the continued fraction of $\frac{j}{r} = \frac{6}{8}$,
 we obtain 
