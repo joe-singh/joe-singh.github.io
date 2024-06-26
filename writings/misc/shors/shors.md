@@ -157,7 +157,7 @@ are allowed to physically interact with each other, we say they have
 become entangled, and the state space of the combined A-B system
 is given by the tensor product of Hilbert spaces $\mathcal{H} = \mathcal{H_A} \otimes \mathcal{H_B}$.
 More concretely,the basis for $\mathcal{H}$ is given by 
-$\ket{0_A 0_B}, \ket{0_A 1_B}, \ket{1_A 0_B}, \ket{1_A 1_B}$
+$\ket{0_A 0_B}, \ket{0_A 1_B}, \ket{1_A 0_B}, \ket{1_A 1_B}$.
 
 Often we will omit the subscripts and implicitly assume that the label
 at position $n$ in the ket or bra refers to the state of qubit $n$. 
@@ -190,4 +190,19 @@ $$
     \ket{5} &= \ket{101} \ (1\cdot 2^2 + 0\cdot2^1 + 1\cdot2^0 = 5) 
 \end{align*}
 $$
+
+In general to represent the integers $\{0, 1, ... N-1\}$, you need 
+$n = \ceil{\log_2(N-1)}$ qubits. 
+
+Note that in general with $n$ binary bits,
+the largest number you can make is $2^n - 1$. 
+For 
+our example with 3 qubits/bits, the largest 
+number we can represent is $\ket{111}$ which is
+$\ket{1\times 2^0 + 1 \times 2^1 + 1 \times 2^2} = \ket{7}$.
+The largest binary number with $n$ digits is
+given by $2^0 + 2^1 + \dots + 2^{n-2} + 2^{n-1}$.
+This can be written as a geometric series
+$\sum_{j=0}^{n-1} 2^j$ which using the geometric
+series formula is equal to $2^n - 1$. 
 
