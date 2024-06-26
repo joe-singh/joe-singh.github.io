@@ -374,5 +374,53 @@ form. As the above example shows $\ket{u}$ is an
 eigenvector with eigenvalue $1$. 
 
 The general form of normalised eigenvectors is given by
- 
+
 $$\ket{u_j} = \frac{1}{\sqrt{r}}\sum_{k = 0}^{r-1}e^{-\frac{2\pi i j k}{r}} \ket{a^k}$$
+
+As an example, we can verify this for the case where 
+$j = 1$.
+
+$$
+\begin{align*}
+    \ket{u_1} &= \frac{1}{\sqrt{r}}\left[\ket{1} + e^{-\frac{2\pi i}{r}} \ket{a} + e^{-\frac{2\pi(2)i}{r}} \ket{a^2} + \dots + e^{-2\pi i\frac{r-2}{r}} \ket{a^{r-2}} + e^{-2\pi i\frac{r-1}{r}} \ket{a^{r-1}}\right] \\ 
+    U\ket{u_1} &= \frac{1}{\sqrt{r}}
+    \left[\ket{a} + e^{-\frac{2\pi i}{r}} \ket{a^2} + e^{-\frac{2\pi(2)i}{r}} \ket{a^3} + \dots + e^{-2\pi i\frac{r-2}{r}} \ket{a^{r-1}} + \ket{1} \right] \\
+    &= e^{\frac{2\pi i}{r}} \ket{u_1}
+\end{align*}
+$$
+
+Now we have the eigenvectors and eigenvalues of $U$.
+However note that both depend on knowing
+what $r$ is, which is what we originally wanted to find
+out. The trick to resolving this is a brilliant observation that while the individual eigenvectors of
+$U$ depend on $r$, their sum does not. Each of the $r$
+eigenvalues corresponds to a unique eigenvector and
+summing all of these eigenvectors up and multiplying by
+$\frac{1}{\sqrt{r}}$ yields
+
+$$
+\begin{align*}
+    \frac{1}{\sqrt{r}}\sum_{j=0}^{r-1}\ket{u_j} &=
+    \frac{1}{r}\sum_{j=0}^{r-1} \sum_{k=0}^{r-1} e^{-\frac{2\pi i kj}{r}}\ket{a^k} \\ 
+    &= \frac{1}{r}\sum_{k=0}^{r-1} \sum_{j=0}^{r-1} e^{-\frac{2\pi i kj}{r}}\ket{a^k} \\ 
+    &= \frac{1}{r}\left[\sum_{j=0}^{r-1}\ket{1}
+     +\sum_{k=1}^{r-1} \sum_{j=0}^{r-1} e^{-\frac{2\pi i kj}{r}}\ket{a^k} \right] \\ 
+    &= \ket{1} + \frac{1}{r}\sum_{k=1}^{r-1}\left(\sum_{j=0}^{r-1} e^{-\frac{2\pi i kj}{r}}\right) \ket{a^k} \\ 
+    &= \ket{1}
+\end{align*}
+$$  
+
+Where we have used the geometric series formula $\sum_{k=0}^n aR^k = a\left(\frac{1 - R^n}{1 - R}\right)$ with $a = 1$, 
+$R = e^{-\frac{2\pi i k}{r}}$ and $n = r$ to see that the sum in parentheses in the second term goes to 0.
+
+So we can instead apply phase estimation on the 
+input vector $\ket{0}^{\otimes t} \ket{1} = \frac{1}{\sqrt{r}} \sum_{j=0}^{r-1}\ket{0}^{\otimes t}\ket{u_j}$. This
+means that instead of returning just one of the 
+eigenvalues of the operator $U$, phase estimation 
+will return an equal superposition of all of them,
+i.e. it will return 
+$\frac{1}{\sqrt{r}}\sum_{j=0}^{r-1} \ket{2^t \tilde{\varphi}_j}\ket{u_j}$ where $\tilde{\varphi}_j$ is an $n$ bit approximation to 
+$\frac{j}{r}$. Thus by measuring the first register
+of $t$ qubits, we are equally likely to get any of the 
+results $\frac{1}{r}, \ \frac{2}{r}, \dots \frac{r-1}{r}$ upto 
+an approximation of $2L+1$ bits.
