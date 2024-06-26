@@ -424,3 +424,63 @@ $\frac{j}{r}$. Thus by measuring the first register
 of $t$ qubits, we are equally likely to get any of the 
 results $\frac{1}{r}, \ \frac{2}{r}, \dots \frac{r-1}{r}$ upto 
 an approximation of $2L+1$ bits.
+
+
+## Finding $r$ with the Continued Fractions Algorithm
+Suppose after measuring the output of the phase estimation algorithm we obtain a result 
+$\tilde{\phi} \approx \frac{j}{r}$. We know this 
+value is approximate to $n = 2L+1$ bits only but we also
+know that it is a rational number. If we could find
+the closest fraction to $\tilde{\phi}$ we can obtain
+$r$. 
+
+#### Continued Fractions
+There is an efficient algorithm to do exactly this,
+called the continued fractions algorithm. 
+
+The continued fractions algorithm is a way to describe
+real numbers in terms of integers alone. To be more
+precise, we represent the number in a sequence of 
+integers of the form
+
+$$\left[a_0; a_1, \dots a_n\right] = a_0 + 
+\frac{1}{a_1 + \frac{1}{\dots + \frac{1}{a_n}}}
+$$
+
+
+For rational
+numbers this is pretty straightforward but for
+irrational numbers it gets a little trickier and 
+actually gives an infinite continued fraction. To
+see this, let's compute the continued
+fraction for both $\frac{99}{70} \approx \sqrt{2}$
+with the former being rational and latter being 
+irrational:
+
+$$
+\begin{align*}
+    \frac{99}{70} &= 1 + \frac{29}{70} \\
+    &= 1 + \frac{1}{2 + \frac{12}{29}} \\ 
+    &= 1 + \frac{1}{2 + \frac{1}{2 + \frac{5}{12}}} \\
+    &= 1 + \frac{1}{2 + \frac{1}{2 + \frac{1}{2 + \frac{2}{5}}}} \\ 
+    &= 1 + \frac{1}{2 + \frac{1}{2 + \frac{1}{2 + \frac{1}{2 + \frac{1}{2}}}}} \\ 
+    &= [1; 2, 2, 2, 2, 2]
+\end{align*}
+$$
+
+As expected, this fraction terminates. For $\sqrt{2}$
+however:
+
+$$
+\begin{align}
+    \sqrt{2} &= 1 + \sqrt{2} - 1 \\
+    &= 1 + \frac{1}{1 + \sqrt{2}} \\ 
+    &= 1 + \frac{1}{2 + \frac{1}{1+\sqrt{2}}} \\ 
+    &= 1 + \frac{1}{2 + \frac{1}{2 + \frac{1}{1+\sqrt{2}}}} \\ 
+    &= 1 + \frac{1}{2 + \frac{1}{2 + \frac{1}{2 + \dots}}} \\
+    &= [1; 2, 2, 2, 2, \dots]
+\end{align}
+$$
+
+So we see that while $\frac{99}{70}$ terminates $\sqrt{2}$ never terminates since it's an 
+irrational number.
