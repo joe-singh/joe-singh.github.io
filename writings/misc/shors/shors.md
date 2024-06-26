@@ -537,7 +537,7 @@ $x^{r'}\mod N$ and seeing if the result is 1. If yes, then we have found
 the period. We can now go back to step 4 of the main algorithm and proceed 
 normally. 
 
-## Factorising 15
+## Example: Factorising 15
 
 Let's factorise 15 using the algorithm described above. Let's make our guess
 be $a = 7$. We see that $\gcd(7,15) = 1$ so we proceed to the next step
