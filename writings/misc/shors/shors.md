@@ -16,6 +16,9 @@ takes sub-exponential time. Shor's Algorithm is a quantum algorithm that
 can do this $\mathcal{O}\left(\left(\log N\right)^3\right)$ where 
 N is the size of the integer.
 
+## Contents
+[The Classical Part of Shor's Algorithm](#the-classical-part-of-shor's-algorithm)
+
 ## The Classical Part of Shor's Algorithm
 Shor's algorithm is essentially a classical algorithm which 
 requires a quantum approach for one step. In this section
