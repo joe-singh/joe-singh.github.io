@@ -1,9 +1,3 @@
-<head>
-    <meta property="og:image" content="https://reedhoffmann.com/wp-content/uploads/2022/03/JPEG_001-1080x675.jpg"/>
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:image" content="https://reedhoffmann.com/wp-content/uploads/2022/03/JPEG_001-1080x675.jpg"/>
-</head>
-
 # Shor's Algorithm
 
 Suppose we want to factor $N$ into its prime 
