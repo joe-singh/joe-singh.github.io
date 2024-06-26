@@ -245,8 +245,8 @@ The steps are:
     $\frac{1}{\sqrt{2^t}}\sum_{j=0}^{2^t - 1} \ket{j}U^j\ket{u} 
     = \frac{1}{\sqrt{2^t}}\sum_{j=0}^{2^t - 1} e^{2\pi i j \varphi }\ket{j}\ket{u}$
 4. Take the inverse Quantum Fourier Transform of that state to
-    obtain $\ket{2^t \Tilde{\varphi}}\ket{u}$ where $\Tilde{\varphi}$ is
+    obtain $\ket{2^t \tilde{\varphi}}\ket{u}$ where $\tilde{\varphi}$ is
     an approximation to the phase $\varphi$.
-5. Measure the qubits of the first register to obtain $\Tilde{\varphi}$, the approximation to the phase accurate to
+5. Measure the qubits of the first register to obtain $\tilde{\varphi}$, the approximation to the phase accurate to
     $n$ bits.
 
