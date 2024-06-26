@@ -353,3 +353,30 @@ eigenvectors should be sums of powers of $a$, i.e.
 of the form
 
 $$\ket{u} = \sum_{k = 0}^{r-1} c_k \ket{a^k}$$
+
+Where $r$ is the period (i.e. $a^r = 1 \ \mathrm{mod} \ N$) that we are trying
+to find to solve the original factoring problem.
+
+As a toy example, consider the action of $U$ on 
+$\ket{u} = \ket{1} + \ket{a} + \ket{a^2}  + \dots 
++ \ket{a^{r-1}}$:
+
+$$
+\begin{align*}
+    U\ket{u} &= U\left(\ket{1} + \ket{a} + \ket{a^2}  + \dots + \ket{a^{r-1}}\right) \\ 
+    &= \ket{a} + \ket{a^2} + \ket{a^3}  + \dots + \ket{1} \\ 
+    &= \ket{u}
+\end{align*}
+$$
+
+Since $U$ basically just permutes powers of $a$ into
+each other, we see that eigenvectors have to have this
+form. As the above example shows $\ket{u}$ is an 
+eigenvector with eigenvalue $1$. 
+
+The general form of normalised eigenvectors is given
+by 
+$$
+    \ket{u_j} = \frac{1}{\sqrt{r}}\sum_{k = 0}^{r-1}
+    e^{-\frac{2\pi i j k}{r}} \ket{a^k}
+$$
