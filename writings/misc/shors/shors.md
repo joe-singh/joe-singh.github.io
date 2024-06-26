@@ -1,5 +1,12 @@
 # Shor's Algorithm
 
+The most important application from a national security perspective of quantum computers
+is breaking RSA encryption efficiently, i.e. not in exponential time. The quantum algorithm that 
+does this is Shor's algorithm, which efficiently factors large numbers into their 
+prime factors. In this post I will go through how Shor's does this at a pretty technical level. 
+Knowledge of linear algebra is required and a little group theory helps. Familiarity with bra-ket notation
+and I do go over it because the main body of the post uses braket notation extensively.
+
 Suppose we want to factor $N$ into its prime 
 factors. The inefficient classical way to do this
 is a brute force approach that is exponential.
@@ -9,7 +16,7 @@ takes sub-exponential time. Shor's Algorithm is a quantum algorithm that
 can do this $\mathcal{O}\left(\left(\log N\right)^3\right)$ where 
 N is the size of the integer.
 
-## Shor's Algorithm Classical Part
+## The Classical Part of Shor's Algorithm
 Shor's algorithm is essentially a classical algorithm which 
 requires a quantum approach for one step. In this section
 we outline the classical approach.
