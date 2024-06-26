@@ -484,3 +484,31 @@ $$
 
 So we see that while $\frac{99}{70}$ terminates $\sqrt{2}$ never terminates since it's an 
 irrational number.
+
+One other definition that is important for us is that of a 
+\textit{convergent}. For a continued fraction $\left[a_0; a_1,\dots,
+a_N\right]$ define the $k^{\mathrm{th}}$ convergent to be $\left[a_0; a_1,\dots, a_k\right]$. For example the first convergent is given by
+$\left[a_0; a_1\right] = a_0 + \frac{1}{a_1} = \frac{a_0 a_1 + 1}{a_1}$
+
+#### Recovering the Period With Continued Fractions
+How do continued fractions help us in recovering $r$ from our phase estimate $\tilde{\phi}$? The key lies in the 
+following theorem:
+
+Let $\frac{s}{r}$ be a rational number such that
+$$\left|\frac{s}{r} - \tilde{\phi}\right| \leq \frac{1}{2r^2}$$
+Then $\frac{s}{r}$ is a convergent of the continued fraction expansion
+of $\tilde{\phi}$.
+
+A proof of this theorem can be found in Nielsen and Chuang. The reason why this theorem applies in our case
+is because we chose the number of qubits to be such that $n = 2L + 1$, which
+means that our phase estimates are accurate to $2L+1$ bits, i.e. 
+
+$$
+\begin{align*}
+    \left|\frac{s}{r} - \tilde{\phi} \right| \leq \frac{1}{2^{2L+1}}
+    &= \frac{1}{2\cdot (2^L)^2}\\ 
+    &\leq \frac{1}{2r^2}
+\end{align*}
+$$
+
+Which is true since $r \leq N \leq 2^L$.
