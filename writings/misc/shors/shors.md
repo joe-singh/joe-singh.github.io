@@ -18,6 +18,7 @@ N is the size of the integer.
 
 ## Contents
 [The Classical Part of Shor's Algorithm](#the-classical-part-of-shor's-algorithm)
+[Order Finding](#order-finding)
 
 ## The Classical Part of Shor's Algorithm
 Shor's algorithm is essentially a classical algorithm which 
