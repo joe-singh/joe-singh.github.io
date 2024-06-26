@@ -373,9 +373,6 @@ each other, we see that eigenvectors have to have this
 form. As the above example shows $\ket{u}$ is an 
 eigenvector with eigenvalue $1$. 
 
-The general form of normalised eigenvectors is given
-by 
-$$
-    \ket{u_j} = \frac{1}{\sqrt{r}}\sum_{k = 0}^{r-1}
-    e^{-\frac{2\pi i j k}{r}} \ket{a^k}
-$$
+The general form of normalised eigenvectors is given by
+ 
+$$\ket{u_j} = \frac{1}{\sqrt{r}}\sum_{k = 0}^{r-1}e^{-\frac{2\pi i j k}{r}} \ket{a^k}$$
