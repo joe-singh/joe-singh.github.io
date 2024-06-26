@@ -222,3 +222,31 @@ $$
 This property will show up when we apply the quantum phase estimation
 algorithm. 
 
+## Phase Estimation Algorithm
+The heart of the order finding procedure is in the quantum phase estimation algorithm.
+We will simply outline the main steps/results of the phase estimation
+algorithm. Those interested in seeing why this works, 
+including a more in depth explanation of the Quantum Fourier
+Transform and its relationship to the Discrete Fourier Transform, can
+find a good explanation in [Nielsen and Chuang](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176).
+
+Given a unitary operator $U$ and an eigenvector $\ket{u}$ with eigenvalue
+$e^{2\pi i \varphi}$ - i.e. $U\ket{u} = e^{2\pi i \varphi} \ket{u}$, the
+phase estimation algorithm takes as input a
+\textit{register} of $t = n + \ceil{\log \left(2 + \frac{1}{2\epsilon} \right)}$ qubits initialised to $\ket{0}$
+tensored with another register of as many qubits as necessary to implement the eigenvector $\ket{u}$ and returns an $n$ bit
+approximation to the phase $\varphi$ with probability $1-\epsilon$. 
+The steps are:
+
+1. Initialise state $\ket{0}^{\otimes t}\otimes\ket{u} = \ket{0\dots 0}\ket{u}$
+2. Apply quantum gates to convert it into a superposition of the form \\
+    $\frac{1}{\sqrt{2^t}}\sum_{j=0}^{2^t - 1} \ket{j}\ket{u}$
+3. Apply unitary operator $U$ raised to appropriate power to get
+    $\frac{1}{\sqrt{2^t}}\sum_{j=0}^{2^t - 1} \ket{j}U^j\ket{u} 
+    = \frac{1}{\sqrt{2^t}}\sum_{j=0}^{2^t - 1} e^{2\pi i j \varphi }\ket{j}\ket{u}$
+4. Take the inverse Quantum Fourier Transform of that state to
+    obtain $\ket{2^t \Tilde{\varphi}}\ket{u}$ where $\Tilde{\varphi}$ is
+    an approximation to the phase $\varphi$.
+5. Measure the qubits of the first register to obtain $\Tilde{\varphi}$, the approximation to the phase accurate to
+    $n$ bits.
+
