@@ -20,6 +20,11 @@ N is the size of the integer.
 ## Contents
 * [The Classical Part of Shor's Algorithm](#the-classical-part-of-shor's-algorithm)
 * [Order Finding](#order-finding)
+* [Quantum Preliminaries](#quantum-preliminaries)
+* [Phase Estimation Algorithm](#phase-estimation-algorithm)
+* [Period Finding with Phase Estimation](#period-finding-with-phase-estimation)
+* [Finding r with the Continued Fractions Algorithm](#finding-r-with-the-continued-fractions-algorithm)
+* [Example: Factorising 15](#example:-factorising-15)
 
 ## The Classical Part of Shor's Algorithm
 Shor's algorithm is essentially a classical algorithm which 
@@ -95,7 +100,7 @@ some preliminaries on quantum information. This introduction is intended for som
 We go over the bare minimum of the mathematical axioms required to
 explain the implementation of Shor's algorithm. Those comfortable with
 braket notation can skip this section. Those looking for a more in
-depth introduction can check out Nielsen and Chuang. 
+depth introduction can check out [Nielsen and Chuang](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176). 
 
 #### Qubits
 The fundamental unit of
@@ -238,7 +243,7 @@ We will simply outline the main steps/results of the phase estimation
 algorithm. Those interested in seeing why this works, 
 including a more in depth explanation of the Quantum Fourier
 Transform and its relationship to the Discrete Fourier Transform, can
-find a good explanation in [Nielsen and Chuang](https://www.amazon.com/Quantum-Computation-Information-10th-Anniversary/dp/1107002176).
+find a good explanation in Nielsen and Chuang.
 
 Given a unitary operator $U$ and an eigenvector $\ket{u}$ with eigenvalue
 $e^{2\pi i \varphi}$ - i.e. $U\ket{u} = e^{2\pi i \varphi} \ket{u}$, the
