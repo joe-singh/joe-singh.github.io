@@ -531,7 +531,7 @@ $$
 Which is true since $r \leq N \leq 2^L$.
 
 Given this, the technique to find $r$ is straightforward: we compute
-the convergents of $\tilde{\var phi}$ which will give us some fraction 
+the convergents of $\tilde{\varphi}$ which will give us some fraction 
 $\frac{s'}{r'}$. By testing the different values of $r'$, i.e. by calculating
 $x^{r'}\mod N$ and seeing if the result is 1. If yes, then we have found
 the period. We can now go back to step 4 of the main algorithm and proceed 
@@ -614,6 +614,6 @@ $\frac{6}{8} = \frac{1}{1 + \frac{1}{3}} = \frac{3}{4}$.
 Our guess is therefore that $r = 4$, which indeed works
 as $7^4 = 1 \mod 15$. 
 
-Now we have the period of 7 we can continue with the main algorithm. 
+Now we have the period of $7$ we can continue with the main algorithm. 
 We now compute $\gcd(7^2 + 1, 15) = 5$. This is not one so we have a divisor
-of 15, and the other divisor is $\frac{15}{5} = 3$. Done!
+of $15$, and the other divisor is $\frac{15}{5} = 3$. Done!
