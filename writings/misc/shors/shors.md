@@ -537,7 +537,8 @@ $t = 2(4)+1 + \ceil{\log\left(2 + \frac{1}{2\frac{3}{4}}\right)} = 11$ qubits.
 However for this simple example, we can get away with using $t = 3$ qubits. 
 
 First initialise the qubit state 
-$$\ket{0}^{\otimes 3} \ket{1} = \ket{000}\ket{0001}$$.
+
+$$\ket{0}^{\otimes 3} \ket{1} = \ket{000}\ket{0001}$$
 
 Now we apply the phase estimation algorithm as outlined above. 
 First we apply quantum (Hademard) gates to change the state to
