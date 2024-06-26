@@ -1,6 +1,6 @@
 # Shor's Algorithm
 
-The most important application from a national security perspective of quantum computers
+One of the most important applications of quantum computers
 is breaking RSA encryption efficiently, i.e. not in exponential time. The quantum algorithm that 
 does this is Shor's algorithm, which efficiently factors large numbers into their 
 prime factors. In this post I will go through how Shor's does this at a pretty technical level. 
