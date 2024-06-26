@@ -99,8 +99,7 @@ either 0 or 1. A qubit is a quantum system with which can occupy
 two quantum states, which we label $\ket{0}$ and $\ket{1}$. Qubits can be realised in a variety of physical systems from electrons in atomic
 energy orbitals to micrometer scale electromagnetic circuits made out
 of superconductors. The question of how to engineer high quality qubits
-is a central one in quantum computing right now but for most of this blog post, I'll assume we magically have access to perfect qubits that don't suffer from real world imperfections. We will return to this point
-once we've gone over the math of Shor's algorithm. 
+is a central one in quantum computing right now but for this blog post I'll assume we have perfect qubits with negligible error rates.
 
 Unlike a bit, a qubit can be in an arbitrary superposition 
 of $\ket{0}$ and $\ket{1}$, i.e. it can be in a state 
