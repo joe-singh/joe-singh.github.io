@@ -4,8 +4,9 @@ One of the most important applications of quantum computers
 is breaking RSA encryption efficiently, i.e. not in exponential time. The quantum algorithm that 
 does this is Shor's algorithm, which efficiently factors large numbers into their 
 prime factors. In this post I will go through how Shor's does this at a pretty technical level. 
-Knowledge of linear algebra is required and a little group theory helps. Familiarity with bra-ket notation 
-is not required as I do go over it because the main body of the post uses braket notation extensively.
+Knowledge of linear algebra is required and a little group theory helps. Bra-ket notation is used
+extensively throughout the post but I do explain it and how it maps to normal linear algebra notation
+to let readers from other fields follow along.
 
 Suppose we want to factor $N$ into its prime 
 factors. The inefficient classical way to do this
@@ -17,8 +18,8 @@ can do this $\mathcal{O}\left(\left(\log N\right)^3\right)$ where
 N is the size of the integer.
 
 ## Contents
-[The Classical Part of Shor's Algorithm](#the-classical-part-of-shor's-algorithm)
-[Order Finding](#order-finding)
+-[The Classical Part of Shor's Algorithm](#the-classical-part-of-shor's-algorithm)
+-[Order Finding](#order-finding)
 
 ## The Classical Part of Shor's Algorithm
 Shor's algorithm is essentially a classical algorithm which 
