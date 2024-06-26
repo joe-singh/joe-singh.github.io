@@ -250,3 +250,18 @@ The steps are:
 5. Measure the qubits of the first register to obtain $\tilde{\varphi}$, the approximation to the phase accurate to
     $n$ bits.
 
+## Period Finding with Phase Estimation
+Armed with the phase estimation algorithm,
+we can now come up with the quantum algorithm
+to find the order $r$. As explained earlier, if we are dealing with
+numbers modulo $N$, we need at least
+$L = \ceil{\log_2 N}$ qubits. For example if
+we are trying to factor $N = 21$, we will need
+$L = \ceil{\log_2 21} = 5$ qubits to represent
+all the kets $\{\ket{0}\dots \ket{20}\}$. 
+As we said before, in general with $L$ bits, the largest number 
+we can represent is $2^L - 1$ so our full set of
+qubits will be $\{\ket{0}\dots \ket{N-1},\ket{N} \dots \ket{2^L -1}\}$.
+In our $N=21$ example, our computational basis will be $\{\ket{0},\dots, \ket{21},\dots, \ket{31}\}$. For reasons that will
+become clearer later, we will use $t = 2L+1 + \ceil{\log\left(2 + \frac{1}{2\epsilon}\right)}$ qubits which will return phase
+approximations accurate to $2L+1$ bits. 
