@@ -4,8 +4,8 @@ One of the most important applications of quantum computers
 is breaking RSA encryption efficiently, i.e. not in exponential time. The quantum algorithm that 
 does this is Shor's algorithm, which efficiently factors large numbers into their 
 prime factors. In this post I will go through how Shor's does this at a pretty technical level. 
-Knowledge of linear algebra is required and a little group theory helps. Familiarity with bra-ket notation
-and I do go over it because the main body of the post uses braket notation extensively.
+Knowledge of linear algebra is required and a little group theory helps. Familiarity with bra-ket notation 
+is not required as I do go over it because the main body of the post uses braket notation extensively.
 
 Suppose we want to factor $N$ into its prime 
 factors. The inefficient classical way to do this
@@ -106,7 +106,7 @@ of $\ket{0}$ and $\ket{1}$, i.e. it can be in a state
 
 $$\ket{\psi} = \alpha\ket{0} + \beta\ket{1}$$
 
-Where $\alpha$ and $\beta \in \mathcal{C}$ and $\ket{0}$, $\ket{1}$ are orthonormal vectors. This is just physics
+Where $\alpha$ and $\beta \in \mathbb{C}$ and $\ket{0}$, $\ket{1}$ are orthonormal vectors. This is just physics
 notation for vectors in a complex Hilbert space. $\ket{a}$ (called a ket) is 
 equivalent to $\vec{a}$ and $\bra{a}$ (called a bra) is equivalent to $\vec{a}^{\dagger}$. The inner product $\vec{a}^{\dagger} \vec{b}$ is
 denoted by $\braket{a}{b}$, which is called a bra(c)ket. Physicists prefer braket notation because 
