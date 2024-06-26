@@ -265,3 +265,28 @@ qubits will be $\{\ket{0}\dots \ket{N-1},\ket{N} \dots \ket{2^L -1}\}$.
 In our $N=21$ example, our computational basis will be $\{\ket{0},\dots, \ket{21},\dots, \ket{31}\}$. For reasons that will
 become clearer later, we will use $t = 2L+1 + \ceil{\log\left(2 + \frac{1}{2\epsilon}\right)}$ qubits which will return phase
 approximations accurate to $2L+1$ bits. 
+
+In our original setup of the 
+factoring problem, the guess we made for the 
+factor of $N$ was $a$. Suppose we have a quantum
+operator $U$ whose action on the states 
+$\{\ket{0}, \ket{1} \dots \ket{N-1}\}$ is given
+by 
+
+$$
+    U\ket{k} = \ket{ak \ \mathrm{mod} \ N}
+$$
+
+For example if $k = 20, a = 3, N = 21$ then 
+$U\ket{k} = U\ket{20} = \ket{60 \ \mathrm{mod} \ 21} = \ket{18 \ \mathrm{mod} \ 21}$. For
+basis vectors with an index larger than 
+$N-1$, i.e. in the range $N \leq k \leq 2^L - 1$, we let $U$ act as the 
+identity. So over all of the computational qubits $U$ is defined as
+
+$$
+U\ket{k} =
+\begin{cases}
+    \ket{ak \ \mathrm{mod} \ N} & \text{if } 0 \leq k \leq N-1 \\
+    \ket{k} & \text{if } N \leq k \leq 2^L - 1
+\end{cases}
+$$
