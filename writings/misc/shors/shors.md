@@ -617,13 +617,3 @@ as $7^4 = 1 \mod 15$.
 Now we have the period of 7 we can continue with the main algorithm. 
 We now compute $\gcd(7^2 + 1, 15) = 5$. This is not one so we have a divisor
 of 15, and the other divisor is $\frac{15}{5} = 3$. Done!
-
- 
-
-\section{Peformance}
-
-The main argument in favour of Shor's algorithm is that it is more efficient
-than brute force methods. The above explanation showing how factoring
-is equivalent to order finding has hopefully convinced you 
-that there is deep structure in this problem that should enable much better
-performance than randomly guessing.
