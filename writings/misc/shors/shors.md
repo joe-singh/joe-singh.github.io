@@ -290,3 +290,49 @@ U\ket{k} =
     \ket{k} & \text{if } N \leq k \leq 2^L - 1
 \end{cases}
 $$
+
+To show that this is unitary, we will 
+show that it preserves the inner product between
+two vectors $\ket{\psi} = \frac{1}{\sqrt{n}}\sum_{j=0}^{n-1} c_j
+\ket{j}$ and $\ket{\phi} = \frac{1}{\sqrt{m}}\sum_{k=0}^{m-1} c_k
+\ket{k}$. First let's compute the inner product 
+of these two vectors without applying $U$.
+
+$$
+\begin{align*}
+    \braket{\phi|\psi}&= 
+    \frac{1}{\sqrt{mn}}\sum_{k = 0}^{m-1} \sum_{j = 0}^{n-1} c_j c_m^*\braket{m|j} \\
+    &= \frac{1}{\sqrt{mn}}\sum_{k = 0}^{m-1} \sum_{j = 0}^{n-1} c_j c_m^* \delta_{jm}
+\end{align*}
+$$
+
+Now applying $U$, we get
+
+$$
+\begin{align*}
+     \bra{\phi}U^{\dagger}U\ket{\psi}&= 
+    \frac{1}{\sqrt{mn}}\sum_{k = 0}^{m-1} \sum_{j = 0}^{n-1} c_j c_m^*\bra{m}U^{\dagger}U\ket{j} \\
+\end{align*}
+$$
+
+Since $U$ has a piecewise definition, there are a
+few cases to consider to evaluate the inner product
+in the above equation. In the case where $m, j \geq N$,
+$U$ acts as the identity so the inner product is 
+trivially preserved. In the case where $m, j < N$, 
+$U$ acts by multiplying by $a \ \mathrm{mod} \ N$. The
+inner product in the summation then becomes
+$\braket{am|aj} = \delta_{aj, am}$. The fact that 
+$\gcd(a, N) = 1$ is crucial because this means that
+$a$ has a well defined inverse in the multiplicative 
+inverse modulo $N$ which we naturally call $a^{-1}$.
+$\delta_{aj, am} = 1$ iff $aj = am$ which because $a$
+is invertible is equivalent to $j = m$. Thus 
+$\delta_{aj, am} = \delta_{j, m}$ and the inner product
+is preserved. In the case where $m < N$ and $ j \geq N$,
+the unitary map will take $m$ to $am \ \mathrm{mod} \ N$
+which is still less than $N$ so the inner product will 
+always evaluate to $0$, just as it would if $U$
+hadn't been applied. Thus the operator preserves
+the inner product between two arbitrary vectors and
+it is a unitary operator.
