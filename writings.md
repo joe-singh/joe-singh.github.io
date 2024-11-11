@@ -22,6 +22,7 @@ comment on what a fool I used to be.
 
 Here is a list of all posts (excluding [book reviews](./books.html)) in reverse chronological order:
 
+* [On Prestige - 11/24](./writings/misc/prestige/prestige.md)
 * [Shor's Algorithm - 6/24](./writings/misc/shors/shors.md)
 * [Soft Values, Hard Results - 4/24](./writings/misc/softvalues/softvalues.md)
 * [Remembering Lee Kuan Yew - 9/23](./writings/misc/lky/lky.md)
