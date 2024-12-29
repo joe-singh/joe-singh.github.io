@@ -4,6 +4,7 @@ Summaries of what I learned from my latest read:
 
 | | | |
 |:-:|:-:|:-:|
+|<a href="./bookreviews/uswaraims/uswaraims.md"><img width="256" src="./bookreviews/uswaraims/uswaraims.jpg"></a>|aa|aa|
 |<a href="./bookreviews/trustwithindia/trustwithindia.html"><img width="256" src="./bookreviews/trustwithindia/trustwithindia.png"></a>|<a href="./bookreviews/sovietistan/sovietistan.html"><img width="256" src="./bookreviews/sovietistan/sovietistan.jpg"></a>|<a href="./bookreviews/anewideaofindia/anewideaofindia.html"><img width="256" src="./bookreviews/anewideaofindia/anewideaofindia.jpg"></a>|
 |<a href="./bookreviews/Bridgital/bridgital.html"><img width="256" src="./bookreviews/Bridgital/bridgital.jpg"></a>|<a href="./bookreviews/indiaway/indiaway.html"><img width="256" src="./bookreviews/indiaway/indiaway.jpeg"></a>| <a href="./bookreviews/chipwar/chipwar.html"><img width="256" src="./bookreviews/chipwar/chipwar.jpeg"></a>|
 |<a href="./bookreviews/southeastasia/seasia.html"><img width="256" src="./bookreviews/southeastasia/seasia.jpg"></a>|<a href="./bookreviews/streetsofgold/streetsofgold.html"><img width="256" src="./bookreviews/streetsofgold/streetsofgold.jpg"></a>|<a href="./bookreviews/easternisation/easternisation.html"><img width="256" src="./bookreviews/easternisation/easternisation.jpeg"></a>|
