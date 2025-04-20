@@ -31,7 +31,7 @@ Here is a list of all posts (excluding [book reviews](./books.html)) in reverse 
 * [L'homme Malade du Monde - 12/22](./writings/misc/europe/europe.md)
 * [Nation & Civilization - 11/22](./writings/misc/civilization/civilization.md)
 * [Language, Personality, and Linear Algebra - 7/22](./writings/misc/langlinear/langlinear.md)
-* [Separation of Money & State - 5/22](./writings/misc/moneyandstate/moneyandstate.md)
+<!--* [Separation of Money & State - 5/22](./writings/misc/moneyandstate/moneyandstate.md) -->
 * [Across the Seas - 3/22](./writings/misc/seas/seas.md)    
 * [Science and Storytelling - 2/22](./writings/misc/scistory/scistory.md)
 * [Tourist or Resident - 12/21](./writings/misc/tourist/tourist.md)
