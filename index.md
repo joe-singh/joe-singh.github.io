@@ -35,10 +35,12 @@ You can get in touch with me via [email](mailto:joesingh@stanford.edu) or follow
 
 # Publications/Articles
 
-* M.H. Kelsey et al., _G4CMP: Condensed Matter Physics Simulation Using the Geant4 Toolkit_, [Nuclear Inst. and Methods in Physics Research, A 1055, 168473 (2023)](https://www.sciencedirect.com/science/article/pii/S0168900223004631?via\%3Dihub)
-
 * Stephen E. Kuenstner, Elizabeth C. van Assendelft, Saptarshi Chaudhuri, Hsiao-Mei Cho, Jason Corbin, Shawn W. Henderson, Fedja Kadribasic, Dale Li, Arran Phipps, Nicholas M. Rapidis, Maria Simanovskaia, **Jyotirmai Singh**, Cyndia Yu, Kent D. Irwin, _Quantum metrology of low frequency electromagnetic modes with frequency upconverters_,
-[arXiv:2210.05576 (2022)](https://arxiv.org/abs/2210.05576)
+[Phys. Rev. Research 7, 013281 (2025)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013281)
+
+* V. Ankel et al., _Noise limits for dc SQUID readout of high-Q resonators below 300 MHz_, [arXiv:2504.20398 (2025)](https://arxiv.org/abs/2504.20398)
+
+* M.H. Kelsey et al., _G4CMP: Condensed Matter Physics Simulation Using the Geant4 Toolkit_, [Nuclear Inst. and Methods in Physics Research, A 1055, 168473 (2023)](https://www.sciencedirect.com/science/article/pii/S0168900223004631?via\%3Dihub)
 
 * L. Brouwer et al. (DMRadio Collaboration), _Projected Sensitivity of DMRadio-m3: A Search for the QCD Axion below 1 µeV_, 
 [Phys. Rev. D 106, 103008 (2022)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.103008)
