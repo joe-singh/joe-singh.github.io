@@ -34,7 +34,7 @@ You can get in touch with me via [email](mailto:joesingh@stanford.edu) or follow
 
 # Publications/Articles
 
-* Jyotirmai Singh, Samar Khanna, James Burgess, _Squeezed Diffusion Models_, [NeurIPS Workshop on Machine Learning for the Physical Sciences](https://arxiv.org/pdf/2508.14871)
+* Jyotirmai Singh, Samar Khanna, James Burgess, _Squeezed Diffusion Models_, [NeurIPS Workshop on Machine Learning for the Physical Sciences (2025)](https://arxiv.org/pdf/2508.14871)
 
 * Stephen E. Kuenstner, Elizabeth C. van Assendelft, Saptarshi Chaudhuri, Hsiao-Mei Cho, Jason Corbin, Shawn W. Henderson, Fedja Kadribasic, Dale Li, Arran Phipps, Nicholas M. Rapidis, Maria Simanovskaia, **Jyotirmai Singh**, Cyndia Yu, Kent D. Irwin, _Quantum metrology of low frequency electromagnetic modes with frequency upconverters_,
 [Phys. Rev. Research 7, 013281 (2025)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013281)
