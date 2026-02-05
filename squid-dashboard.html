@@ -155,6 +155,78 @@
             color: var(--text-muted);
         }
 
+        .panel-header-right {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .lock-btn {
+            width: 32px;
+            height: 32px;
+            background: var(--bg-primary);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            color: var(--text-secondary);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.2s ease;
+        }
+
+        .lock-btn:hover {
+            border-color: var(--accent-cyan);
+            color: var(--accent-cyan);
+        }
+
+        .lock-btn.is-locked {
+            background: var(--accent-amber);
+            border-color: var(--accent-amber);
+            color: var(--bg-primary);
+        }
+
+        .lock-btn.is-locked:hover {
+            background: #d89000;
+            border-color: #d89000;
+        }
+
+        .lock-icon {
+            width: 16px;
+            height: 16px;
+        }
+
+        .lock-icon.locked {
+            display: none;
+        }
+
+        .lock-btn.is-locked .lock-icon.unlocked {
+            display: none;
+        }
+
+        .lock-btn.is-locked .lock-icon.locked {
+            display: block;
+        }
+
+        .panel.is-locked .panel-content {
+            opacity: 0.7;
+            pointer-events: none;
+        }
+
+        .panel.is-locked .panel-content::after {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            cursor: not-allowed;
+        }
+
+        .panel .panel-content {
+            position: relative;
+        }
+
         .panel-content {
             padding: 1.25rem;
             min-width: 0;
@@ -587,10 +659,22 @@
 
         <div class="dashboard">
             <!-- Spectrum Analyzer Panel -->
-            <div class="panel">
+            <div class="panel" id="panel-spectrum">
                 <div class="panel-header">
                     <span class="panel-title">Spectrum Analyzer Settings</span>
-                    <span class="panel-badge">Lock-in Config</span>
+                    <div class="panel-header-right">
+                        <button class="lock-btn" id="lock-spectrum" onclick="toggleLock('spectrum')" title="Lock settings">
+                            <svg class="lock-icon unlocked" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+                                <path d="M7 11V7a5 5 0 0 1 9.9-1"></path>
+                            </svg>
+                            <svg class="lock-icon locked" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+                                <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+                            </svg>
+                        </button>
+                        <span class="panel-badge">Lock-in Config</span>
+                    </div>
                 </div>
                 <div class="panel-content">
                     <div class="field-group">
@@ -635,10 +719,22 @@
             </div>
 
             <!-- Positioner Log Panel -->
-            <div class="panel">
+            <div class="panel" id="panel-positioner">
                 <div class="panel-header">
                     <span class="panel-title">Mechanical Positioner Log</span>
-                    <span class="panel-badge">Attocube</span>
+                    <div class="panel-header-right">
+                        <button class="lock-btn" id="lock-positioner" onclick="toggleLock('positioner')" title="Lock settings">
+                            <svg class="lock-icon unlocked" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+                                <path d="M7 11V7a5 5 0 0 1 9.9-1"></path>
+                            </svg>
+                            <svg class="lock-icon locked" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+                                <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+                            </svg>
+                        </button>
+                        <span class="panel-badge">Attocube</span>
+                    </div>
                 </div>
                 <div class="panel-content">
                     <div class="log-controls">
@@ -681,10 +777,22 @@
             </div>
 
             <!-- Injection Frequency Sweep Panel -->
-            <div class="panel full-width">
+            <div class="panel full-width" id="panel-sweep">
                 <div class="panel-header">
                     <span class="panel-title">Injection Frequency Sweep Settings</span>
-                    <span class="panel-badge">Sweep Config</span>
+                    <div class="panel-header-right">
+                        <button class="lock-btn" id="lock-sweep" onclick="toggleLock('sweep')" title="Lock settings">
+                            <svg class="lock-icon unlocked" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+                                <path d="M7 11V7a5 5 0 0 1 9.9-1"></path>
+                            </svg>
+                            <svg class="lock-icon locked" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+                                <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+                            </svg>
+                        </button>
+                        <span class="panel-badge">Sweep Config</span>
+                    </div>
                 </div>
                 <div class="panel-content">
                     <div class="field-group five-col">
@@ -746,7 +854,12 @@
                 biasResistance: null,
                 inputVoltage: null
             },
-            positionerLog: []
+            positionerLog: [],
+            locks: {
+                spectrum: false,
+                positioner: false,
+                sweep: false
+            }
         };
 
         // Load state from localStorage
@@ -758,11 +871,40 @@
                 state = {
                     spectrumAnalyzer: { ...state.spectrumAnalyzer, ...parsed.spectrumAnalyzer },
                     injectionSweep: { ...state.injectionSweep, ...parsed.injectionSweep },
-                    positionerLog: parsed.positionerLog || []
+                    positionerLog: parsed.positionerLog || [],
+                    locks: { ...state.locks, ...parsed.locks }
                 };
             }
             populateForm();
             renderLog();
+            applyLocks();
+        }
+
+        // Apply lock states to UI
+        function applyLocks() {
+            ['spectrum', 'positioner', 'sweep'].forEach(panel => {
+                const isLocked = state.locks[panel];
+                const panelEl = document.getElementById(`panel-${panel}`);
+                const btnEl = document.getElementById(`lock-${panel}`);
+                
+                if (isLocked) {
+                    panelEl.classList.add('is-locked');
+                    btnEl.classList.add('is-locked');
+                } else {
+                    panelEl.classList.remove('is-locked');
+                    btnEl.classList.remove('is-locked');
+                }
+            });
+        }
+
+        // Toggle lock for a panel
+        function toggleLock(panel) {
+            state.locks[panel] = !state.locks[panel];
+            saveState();
+            applyLocks();
+            
+            const action = state.locks[panel] ? 'locked' : 'unlocked';
+            showToast(`Panel ${action}`, 'success');
         }
 
         // Save state to localStorage
