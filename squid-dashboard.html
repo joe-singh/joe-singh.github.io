@@ -1,0 +1,1096 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SQUID Lab Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #0a0e14;
+            --bg-secondary: #12171f;
+            --bg-tertiary: #1a2130;
+            --border: #2a3444;
+            --border-bright: #3d4f66;
+            --text-primary: #e6edf3;
+            --text-secondary: #8b949e;
+            --text-muted: #5a6570;
+            --accent-cyan: #00d4ff;
+            --accent-cyan-dim: #00a8cc;
+            --accent-green: #3fb950;
+            --accent-amber: #f0a020;
+            --accent-red: #f85149;
+            --glow-cyan: rgba(0, 212, 255, 0.15);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'IBM Plex Sans', -apple-system, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            min-height: 100vh;
+            line-height: 1.5;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+            padding-bottom: 1.5rem;
+            border-bottom: 1px solid var(--border);
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .logo-icon {
+            width: 48px;
+            height: 48px;
+            background: linear-gradient(135deg, var(--accent-cyan) 0%, var(--accent-cyan-dim) 100%);
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'IBM Plex Mono', monospace;
+            font-weight: 600;
+            font-size: 1.1rem;
+            color: var(--bg-primary);
+            box-shadow: 0 0 20px var(--glow-cyan);
+        }
+
+        h1 {
+            font-size: 1.5rem;
+            font-weight: 600;
+            letter-spacing: -0.02em;
+        }
+
+        h1 span {
+            color: var(--text-secondary);
+            font-weight: 400;
+        }
+
+        .status-indicator {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 0.85rem;
+            color: var(--text-secondary);
+        }
+
+        .status-dot {
+            width: 8px;
+            height: 8px;
+            background: var(--accent-green);
+            border-radius: 50%;
+            animation: pulse 2s ease-in-out infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { opacity: 1; }
+            50% { opacity: 0.5; }
+        }
+
+        .dashboard {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1.5rem;
+        }
+
+        @media (max-width: 1024px) {
+            .dashboard {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .panel {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            overflow: hidden;
+            min-width: 0;
+        }
+
+        .panel-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem 1.25rem;
+            background: var(--bg-tertiary);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .panel-title {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.8rem;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: var(--accent-cyan);
+        }
+
+        .panel-badge {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.7rem;
+            padding: 0.25rem 0.5rem;
+            background: var(--bg-primary);
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            color: var(--text-muted);
+        }
+
+        .panel-content {
+            padding: 1.25rem;
+            min-width: 0;
+        }
+
+        .field-group {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 1rem;
+        }
+
+        .field {
+            display: flex;
+            flex-direction: column;
+            gap: 0.4rem;
+        }
+
+        .field.full-width {
+            grid-column: 1 / -1;
+        }
+
+        .panel.full-width {
+            grid-column: 1 / -1;
+        }
+
+        .field-group.five-col {
+            grid-template-columns: repeat(5, 1fr);
+        }
+
+        @media (max-width: 1024px) {
+            .field-group.five-col {
+                grid-template-columns: repeat(2, 1fr);
+            }
+        }
+
+        @media (max-width: 600px) {
+            .field-group.five-col {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .field label {
+            font-size: 0.75rem;
+            font-weight: 500;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .field input {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.95rem;
+            padding: 0.6rem 0.8rem;
+            background: var(--bg-primary);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            color: var(--text-primary);
+            transition: all 0.2s ease;
+        }
+
+        .field input:focus {
+            outline: none;
+            border-color: var(--accent-cyan);
+            box-shadow: 0 0 0 3px var(--glow-cyan);
+        }
+
+        .field input:read-only {
+            color: var(--accent-amber);
+            background: rgba(240, 160, 32, 0.08);
+            border-color: rgba(240, 160, 32, 0.3);
+        }
+
+        .unit {
+            font-size: 0.7rem;
+            color: var(--text-muted);
+            margin-left: 0.25rem;
+            text-transform: none;
+        }
+
+        .power-selector {
+            display: flex;
+            align-items: center;
+            gap: 0;
+            background: var(--bg-primary);
+            border: 1px solid var(--border);
+            border-radius: 6px;
+            overflow: hidden;
+        }
+
+        .power-btn {
+            width: 36px;
+            height: 42px;
+            background: var(--bg-tertiary);
+            border: none;
+            color: var(--text-primary);
+            font-size: 1.2rem;
+            cursor: pointer;
+            transition: all 0.15s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .power-btn:hover:not(:disabled) {
+            background: var(--accent-cyan);
+            color: var(--bg-primary);
+        }
+
+        .power-btn:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+
+        .power-display {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 0.4rem 0.8rem;
+            min-width: 80px;
+        }
+
+        .power-value {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.95rem;
+            color: var(--text-primary);
+        }
+
+        .power-exponent {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.7rem;
+            color: var(--text-muted);
+        }
+
+        .computed-value {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0.75rem 1rem;
+            background: var(--bg-primary);
+            border: 1px dashed var(--border);
+            border-radius: 6px;
+            margin-top: 1rem;
+        }
+
+        .computed-label {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .computed-result {
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 1rem;
+            color: var(--accent-cyan);
+        }
+
+        /* Positioner Log Panel */
+        .log-controls {
+            display: flex;
+            gap: 0.75rem;
+            margin-bottom: 1rem;
+        }
+
+        .btn {
+            font-family: 'IBM Plex Sans', sans-serif;
+            font-size: 0.8rem;
+            font-weight: 500;
+            padding: 0.6rem 1rem;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            display: flex;
+            align-items: center;
+            gap: 0.4rem;
+        }
+
+        .btn-primary {
+            background: var(--accent-cyan);
+            color: var(--bg-primary);
+        }
+
+        .btn-primary:hover {
+            background: var(--accent-cyan-dim);
+            box-shadow: 0 0 15px var(--glow-cyan);
+        }
+
+        .btn-secondary {
+            background: var(--bg-tertiary);
+            color: var(--text-secondary);
+            border: 1px solid var(--border);
+        }
+
+        .btn-secondary:hover {
+            border-color: var(--border-bright);
+            color: var(--text-primary);
+        }
+
+        .btn-danger {
+            background: transparent;
+            color: var(--accent-red);
+            border: 1px solid var(--accent-red);
+        }
+
+        .btn-danger:hover {
+            background: rgba(248, 81, 73, 0.1);
+        }
+
+        .log-entries {
+            max-height: 300px;
+            overflow-y: auto;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            background: var(--bg-primary);
+        }
+
+        .log-entry {
+            display: grid;
+            grid-template-columns: auto 1fr auto auto auto;
+            gap: 1rem;
+            align-items: center;
+            padding: 0.75rem 1rem;
+            border-bottom: 1px solid var(--border);
+            font-family: 'IBM Plex Mono', monospace;
+            font-size: 0.8rem;
+            transition: background 0.15s ease;
+        }
+
+        .log-entry:last-child {
+            border-bottom: none;
+        }
+
+        .log-entry:hover {
+            background: var(--bg-secondary);
+        }
+
+        .log-date {
+            color: var(--text-muted);
+            white-space: nowrap;
+        }
+
+        .log-param {
+            display: flex;
+            align-items: center;
+            gap: 0.3rem;
+        }
+
+        .log-param-label {
+            color: var(--text-secondary);
+        }
+
+        .log-param-value {
+            color: var(--text-primary);
+        }
+
+        .log-delete {
+            opacity: 0;
+            background: none;
+            border: none;
+            color: var(--accent-red);
+            cursor: pointer;
+            padding: 0.25rem;
+            border-radius: 4px;
+            transition: all 0.15s ease;
+        }
+
+        .log-entry:hover .log-delete {
+            opacity: 1;
+        }
+
+        .log-delete:hover {
+            background: rgba(248, 81, 73, 0.15);
+        }
+
+        .log-empty {
+            padding: 2rem;
+            text-align: center;
+            color: var(--text-muted);
+            font-size: 0.85rem;
+        }
+
+        .new-entry-form {
+            display: none;
+            padding: 1rem;
+            background: var(--bg-tertiary);
+            border-radius: 8px;
+            margin-bottom: 1rem;
+            border: 1px solid var(--border);
+            min-width: 0;
+            overflow: hidden;
+        }
+
+        .new-entry-form.active {
+            display: block;
+            animation: slideDown 0.2s ease;
+        }
+
+        @keyframes slideDown {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .form-row {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0.75rem;
+            margin-bottom: 1rem;
+        }
+
+        .form-row .field input {
+            min-width: 0;
+            width: 100%;
+        }
+
+        .form-row .field:nth-child(3) {
+            grid-column: 1 / -1;
+            max-width: 50%;
+        }
+
+        .form-actions {
+            display: flex;
+            justify-content: flex-end;
+            gap: 0.5rem;
+        }
+
+        /* Scrollbar styling */
+        .log-entries::-webkit-scrollbar {
+            width: 6px;
+        }
+
+        .log-entries::-webkit-scrollbar-track {
+            background: var(--bg-primary);
+        }
+
+        .log-entries::-webkit-scrollbar-thumb {
+            background: var(--border);
+            border-radius: 3px;
+        }
+
+        .log-entries::-webkit-scrollbar-thumb:hover {
+            background: var(--border-bright);
+        }
+
+        /* Sync indicator */
+        .sync-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.3rem;
+            font-size: 0.7rem;
+            color: var(--accent-green);
+            padding: 0.2rem 0.5rem;
+            background: rgba(63, 185, 80, 0.1);
+            border-radius: 4px;
+            margin-left: 0.5rem;
+        }
+
+        .demod-linked {
+            position: relative;
+        }
+
+        .demod-linked::after {
+            content: '↔';
+            position: absolute;
+            right: -1.5rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--accent-cyan);
+            font-size: 0.9rem;
+        }
+
+        /* Export section */
+        .export-section {
+            margin-top: 1.5rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid var(--border);
+            display: flex;
+            gap: 0.75rem;
+        }
+
+        /* Toast notification */
+        .toast {
+            position: fixed;
+            bottom: 2rem;
+            right: 2rem;
+            padding: 0.75rem 1.25rem;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            color: var(--text-primary);
+            font-size: 0.85rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            transform: translateY(100px);
+            opacity: 0;
+            transition: all 0.3s ease;
+            z-index: 1000;
+        }
+
+        .toast.show {
+            transform: translateY(0);
+            opacity: 1;
+        }
+
+        .toast.success {
+            border-color: var(--accent-green);
+        }
+
+        .toast.success::before {
+            content: '✓';
+            color: var(--accent-green);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <div class="logo-icon">Φ</div>
+                <h1>SQUID Lab <span>Dashboard</span></h1>
+            </div>
+            <div class="status-indicator">
+                <div class="status-dot"></div>
+                <span>Local Storage Active</span>
+            </div>
+        </header>
+
+        <div class="dashboard">
+            <!-- Spectrum Analyzer Panel -->
+            <div class="panel">
+                <div class="panel-header">
+                    <span class="panel-title">Spectrum Analyzer Settings</span>
+                    <span class="panel-badge">Lock-in Config</span>
+                </div>
+                <div class="panel-content">
+                    <div class="field-group">
+                        <div class="field">
+                            <label>Demodulation Frequency <span class="unit">MHz</span></label>
+                            <input type="number" id="demod-freq" step="0.001" placeholder="2.517">
+                        </div>
+                        <div class="field">
+                            <label>Sample Rate <span class="unit">kHz</span></label>
+                            <input type="number" id="sample-rate" step="0.1" placeholder="1.0">
+                        </div>
+                        <div class="field">
+                            <label>LP Filter Order</label>
+                            <input type="number" id="filter-order" min="1" max="8" step="1" placeholder="4">
+                        </div>
+                        <div class="field">
+                            <label>3dB Cutoff <span class="unit">Hz</span></label>
+                            <input type="number" id="cutoff-freq" step="0.1" placeholder="100">
+                        </div>
+                        <div class="field">
+                            <label>Number of Points</label>
+                            <div class="power-selector">
+                                <button class="power-btn down" id="n-points-down" onclick="adjustPower(-1)">−</button>
+                                <div class="power-display">
+                                    <span class="power-value" id="n-points-value">1024</span>
+                                    <span class="power-exponent" id="n-points-exponent">2¹⁰</span>
+                                </div>
+                                <button class="power-btn up" id="n-points-up" onclick="adjustPower(1)">+</button>
+                            </div>
+                            <input type="hidden" id="n-points" value="1024">
+                        </div>
+                        <div class="field">
+                            <label>Traces Averaged (n)</label>
+                            <input type="number" id="n-traces" min="1" step="1" placeholder="10">
+                        </div>
+                    </div>
+                    <div class="computed-value">
+                        <span class="computed-label">Frequency Resolution</span>
+                        <span class="computed-result" id="freq-resolution">— Hz</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Positioner Log Panel -->
+            <div class="panel">
+                <div class="panel-header">
+                    <span class="panel-title">Mechanical Positioner Log</span>
+                    <span class="panel-badge">Attocube</span>
+                </div>
+                <div class="panel-content">
+                    <div class="log-controls">
+                        <button class="btn btn-primary" onclick="toggleNewEntry()">
+                            <span>+</span> New Entry
+                        </button>
+                        <button class="btn btn-secondary" onclick="exportLog()">
+                            Export CSV
+                        </button>
+                        <button class="btn btn-danger" onclick="clearAllEntries()">
+                            Clear All
+                        </button>
+                    </div>
+
+                    <div class="new-entry-form" id="new-entry-form">
+                        <div class="form-row">
+                            <div class="field">
+                                <label>Attocube Position <span class="unit">µm</span></label>
+                                <input type="number" id="new-position" step="0.1" placeholder="8374">
+                            </div>
+                            <div class="field">
+                                <label>Flux Bias <span class="unit">µA</span></label>
+                                <input type="number" id="new-flux-bias" step="0.01" placeholder="30.77">
+                            </div>
+                            <div class="field">
+                                <label>Demod Frequency <span class="unit">MHz</span> <span class="sync-badge">synced</span></label>
+                                <input type="number" id="new-demod-freq" step="0.001" readonly>
+                            </div>
+                        </div>
+                        <div class="form-actions">
+                            <button class="btn btn-secondary" onclick="toggleNewEntry()">Cancel</button>
+                            <button class="btn btn-primary" onclick="addEntry()">Save Entry</button>
+                        </div>
+                    </div>
+
+                    <div class="log-entries" id="log-entries">
+                        <div class="log-empty">No entries yet. Click "New Entry" to add one.</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Injection Frequency Sweep Panel -->
+            <div class="panel full-width">
+                <div class="panel-header">
+                    <span class="panel-title">Injection Frequency Sweep Settings</span>
+                    <span class="panel-badge">Sweep Config</span>
+                </div>
+                <div class="panel-content">
+                    <div class="field-group five-col">
+                        <div class="field">
+                            <label>Starting Frequency <span class="unit">MHz</span></label>
+                            <input type="number" id="sweep-start-freq" step="0.001" placeholder="1.0">
+                        </div>
+                        <div class="field">
+                            <label>Ending Frequency <span class="unit">MHz</span></label>
+                            <input type="number" id="sweep-end-freq" step="0.001" placeholder="5.0">
+                        </div>
+                        <div class="field">
+                            <label>Number of Points</label>
+                            <input type="number" id="sweep-n-points" min="1" step="1" placeholder="100">
+                        </div>
+                        <div class="field">
+                            <label>Bias Resistance <span class="unit">Ω</span></label>
+                            <input type="number" id="sweep-bias-resistance" step="0.1" placeholder="50">
+                        </div>
+                        <div class="field">
+                            <label>Input Voltage <span class="unit">V<sub>pk-pk</sub></span></label>
+                            <input type="number" id="sweep-input-voltage" step="0.001" placeholder="0.1">
+                        </div>
+                    </div>
+                    <div class="computed-value">
+                        <span class="computed-label">Frequency Step Size</span>
+                        <span class="computed-result" id="freq-step-size">— MHz</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="export-section">
+            <button class="btn btn-secondary" onclick="exportAllSettings()">Export All Settings (JSON)</button>
+            <button class="btn btn-secondary" onclick="importSettings()">Import Settings</button>
+            <input type="file" id="import-file" accept=".json" style="display: none" onchange="handleImport(event)">
+        </div>
+    </div>
+
+    <div class="toast" id="toast"></div>
+
+    <script>
+        // State management
+        const STORAGE_KEY = 'squid-dashboard';
+        
+        let state = {
+            spectrumAnalyzer: {
+                demodFreq: null,
+                sampleRate: null,
+                filterOrder: null,
+                cutoffFreq: null,
+                nPoints: null,
+                nTraces: null
+            },
+            injectionSweep: {
+                startFreq: null,
+                endFreq: null,
+                nPoints: null,
+                biasResistance: null,
+                inputVoltage: null
+            },
+            positionerLog: []
+        };
+
+        // Load state from localStorage
+        function loadState() {
+            const saved = localStorage.getItem(STORAGE_KEY);
+            if (saved) {
+                const parsed = JSON.parse(saved);
+                // Merge with defaults to handle missing properties from old saves
+                state = {
+                    spectrumAnalyzer: { ...state.spectrumAnalyzer, ...parsed.spectrumAnalyzer },
+                    injectionSweep: { ...state.injectionSweep, ...parsed.injectionSweep },
+                    positionerLog: parsed.positionerLog || []
+                };
+            }
+            populateForm();
+            renderLog();
+        }
+
+        // Save state to localStorage
+        function saveState() {
+            localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+        }
+
+        // Populate spectrum analyzer form
+        function populateForm() {
+            const sa = state.spectrumAnalyzer || {};
+            if (sa.demodFreq !== null && sa.demodFreq !== undefined) document.getElementById('demod-freq').value = sa.demodFreq;
+            if (sa.sampleRate !== null && sa.sampleRate !== undefined) document.getElementById('sample-rate').value = sa.sampleRate;
+            if (sa.filterOrder !== null && sa.filterOrder !== undefined) document.getElementById('filter-order').value = sa.filterOrder;
+            if (sa.cutoffFreq !== null && sa.cutoffFreq !== undefined) document.getElementById('cutoff-freq').value = sa.cutoffFreq;
+            if (sa.nPoints !== null && sa.nPoints !== undefined) {
+                document.getElementById('n-points').value = sa.nPoints;
+                updatePowerDisplay(sa.nPoints);
+            } else {
+                updatePowerDisplay(1024); // default
+            }
+            if (sa.nTraces !== null && sa.nTraces !== undefined) document.getElementById('n-traces').value = sa.nTraces;
+            
+            updateResolution();
+
+            const sw = state.injectionSweep || {};
+            if (sw.startFreq !== null && sw.startFreq !== undefined) document.getElementById('sweep-start-freq').value = sw.startFreq;
+            if (sw.endFreq !== null && sw.endFreq !== undefined) document.getElementById('sweep-end-freq').value = sw.endFreq;
+            if (sw.nPoints !== null && sw.nPoints !== undefined) document.getElementById('sweep-n-points').value = sw.nPoints;
+            if (sw.biasResistance !== null && sw.biasResistance !== undefined) document.getElementById('sweep-bias-resistance').value = sw.biasResistance;
+            if (sw.inputVoltage !== null && sw.inputVoltage !== undefined) document.getElementById('sweep-input-voltage').value = sw.inputVoltage;
+            
+            updateStepSize();
+        }
+
+        // Power of 2 functions
+        let currentExponent = 10; // 2^10 = 1024 default
+
+        function updatePowerDisplay(value) {
+            // Find the exponent for this value
+            currentExponent = Math.round(Math.log2(value));
+            const actualValue = Math.pow(2, currentExponent);
+            
+            document.getElementById('n-points').value = actualValue;
+            document.getElementById('n-points-value').textContent = actualValue.toLocaleString();
+            document.getElementById('n-points-exponent').textContent = '2' + toSuperscript(currentExponent);
+            
+            // Update button states
+            document.getElementById('n-points-down').disabled = currentExponent <= 1;
+            document.getElementById('n-points-up').disabled = currentExponent >= 30;
+            
+            updateResolution();
+        }
+
+        function adjustPower(delta) {
+            const newExponent = currentExponent + delta;
+            if (newExponent >= 1 && newExponent <= 30) {
+                currentExponent = newExponent;
+                const newValue = Math.pow(2, currentExponent);
+                updatePowerDisplay(newValue);
+                
+                // Save to state
+                state.spectrumAnalyzer.nPoints = newValue;
+                saveState();
+            }
+        }
+
+        function toSuperscript(num) {
+            const superscripts = ['⁰', '¹', '²', '³', '⁴', '⁵', '⁶', '⁷', '⁸', '⁹'];
+            return String(num).split('').map(d => superscripts[parseInt(d)]).join('');
+        }
+
+        // Calculate and display frequency resolution
+        function updateResolution() {
+            const sampleRate = parseFloat(document.getElementById('sample-rate').value) * 1000; // Convert to Hz
+            const nPoints = parseInt(document.getElementById('n-points').value);
+            const resultEl = document.getElementById('freq-resolution');
+            
+            if (!isNaN(sampleRate) && !isNaN(nPoints) && nPoints > 0) {
+                const resolution = sampleRate / nPoints;
+                if (resolution >= 1) {
+                    resultEl.textContent = resolution.toFixed(3) + ' Hz';
+                } else {
+                    resultEl.textContent = (resolution * 1000).toFixed(3) + ' mHz';
+                }
+            } else {
+                resultEl.textContent = '— Hz';
+            }
+        }
+
+        // Calculate and display frequency step size
+        function updateStepSize() {
+            const startFreq = parseFloat(document.getElementById('sweep-start-freq').value);
+            const endFreq = parseFloat(document.getElementById('sweep-end-freq').value);
+            const nPoints = parseInt(document.getElementById('sweep-n-points').value);
+            const resultEl = document.getElementById('freq-step-size');
+            
+            if (!isNaN(startFreq) && !isNaN(endFreq) && !isNaN(nPoints) && nPoints > 0) {
+                const stepSize = (endFreq - startFreq) / nPoints;
+                if (Math.abs(stepSize) >= 0.001) {
+                    resultEl.textContent = stepSize.toFixed(6) + ' MHz';
+                } else {
+                    resultEl.textContent = (stepSize * 1000).toFixed(6) + ' kHz';
+                }
+            } else {
+                resultEl.textContent = '— MHz';
+            }
+        }
+
+        // Sync demod frequency to new entry form
+        function syncDemodFreq() {
+            const demodFreq = document.getElementById('demod-freq').value;
+            document.getElementById('new-demod-freq').value = demodFreq;
+        }
+
+        // Handle spectrum analyzer input changes
+        function setupSpectrumAnalyzerListeners() {
+            const fields = ['demod-freq', 'sample-rate', 'filter-order', 'cutoff-freq', 'n-traces'];
+            fields.forEach(fieldId => {
+                const el = document.getElementById(fieldId);
+                el.addEventListener('input', () => {
+                    state.spectrumAnalyzer = {
+                        demodFreq: parseFloat(document.getElementById('demod-freq').value) || null,
+                        sampleRate: parseFloat(document.getElementById('sample-rate').value) || null,
+                        filterOrder: parseInt(document.getElementById('filter-order').value) || null,
+                        cutoffFreq: parseFloat(document.getElementById('cutoff-freq').value) || null,
+                        nPoints: parseInt(document.getElementById('n-points').value) || null,
+                        nTraces: parseInt(document.getElementById('n-traces').value) || null
+                    };
+                    saveState();
+                    updateResolution();
+                    if (fieldId === 'demod-freq') syncDemodFreq();
+                });
+            });
+
+            // Sweep settings listeners
+            const sweepFields = ['sweep-start-freq', 'sweep-end-freq', 'sweep-n-points', 'sweep-bias-resistance', 'sweep-input-voltage'];
+            sweepFields.forEach(fieldId => {
+                const el = document.getElementById(fieldId);
+                el.addEventListener('input', () => {
+                    state.injectionSweep = {
+                        startFreq: parseFloat(document.getElementById('sweep-start-freq').value) || null,
+                        endFreq: parseFloat(document.getElementById('sweep-end-freq').value) || null,
+                        nPoints: parseInt(document.getElementById('sweep-n-points').value) || null,
+                        biasResistance: parseFloat(document.getElementById('sweep-bias-resistance').value) || null,
+                        inputVoltage: parseFloat(document.getElementById('sweep-input-voltage').value) || null
+                    };
+                    saveState();
+                    updateStepSize();
+                });
+            });
+        }
+
+        // Toggle new entry form
+        function toggleNewEntry() {
+            const form = document.getElementById('new-entry-form');
+            form.classList.toggle('active');
+            if (form.classList.contains('active')) {
+                syncDemodFreq();
+                document.getElementById('new-position').focus();
+            }
+        }
+
+        // Add new positioner entry
+        function addEntry() {
+            const position = parseFloat(document.getElementById('new-position').value);
+            const fluxBias = parseFloat(document.getElementById('new-flux-bias').value);
+            const demodFreq = parseFloat(document.getElementById('new-demod-freq').value);
+
+            if (isNaN(position) || isNaN(fluxBias) || isNaN(demodFreq)) {
+                showToast('Please fill in all fields', 'error');
+                return;
+            }
+
+            const entry = {
+                id: Date.now(),
+                timestamp: new Date().toISOString(),
+                position: position,
+                fluxBias: fluxBias,
+                demodFreq: demodFreq
+            };
+
+            state.positionerLog.unshift(entry);
+            saveState();
+            renderLog();
+            toggleNewEntry();
+            
+            // Clear form
+            document.getElementById('new-position').value = '';
+            document.getElementById('new-flux-bias').value = '';
+            
+            showToast('Entry saved', 'success');
+        }
+
+        // Render log entries
+        function renderLog() {
+            const container = document.getElementById('log-entries');
+            
+            if (state.positionerLog.length === 0) {
+                container.innerHTML = '<div class="log-empty">No entries yet. Click "New Entry" to add one.</div>';
+                return;
+            }
+
+            container.innerHTML = state.positionerLog.map(entry => {
+                const date = new Date(entry.timestamp);
+                const dateStr = `${date.getMonth() + 1}/${date.getDate()}/${String(date.getFullYear()).slice(2)} ${date.getHours().toString().padStart(2, '0')}:${date.getMinutes().toString().padStart(2, '0')}`;
+                
+                return `
+                    <div class="log-entry">
+                        <span class="log-date">${dateStr}</span>
+                        <span class="log-param">
+                            <span class="log-param-label">Attocube:</span>
+                            <span class="log-param-value">${entry.position} µm</span>
+                        </span>
+                        <span class="log-param">
+                            <span class="log-param-label">Φ Bias:</span>
+                            <span class="log-param-value">${entry.fluxBias} µA</span>
+                        </span>
+                        <span class="log-param">
+                            <span class="log-param-label">f<sub>d</sub>:</span>
+                            <span class="log-param-value">${entry.demodFreq} MHz</span>
+                        </span>
+                        <button class="log-delete" onclick="deleteEntry(${entry.id})" title="Delete entry">✕</button>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        // Delete a single entry
+        function deleteEntry(id) {
+            state.positionerLog = state.positionerLog.filter(e => e.id !== id);
+            saveState();
+            renderLog();
+            showToast('Entry deleted', 'success');
+        }
+
+        // Clear all entries
+        function clearAllEntries() {
+            if (confirm('Are you sure you want to delete all positioner log entries?')) {
+                state.positionerLog = [];
+                saveState();
+                renderLog();
+                showToast('All entries cleared', 'success');
+            }
+        }
+
+        // Export log as CSV
+        function exportLog() {
+            if (state.positionerLog.length === 0) {
+                showToast('No entries to export', 'error');
+                return;
+            }
+
+            const headers = ['Date', 'Time', 'Position (µm)', 'Flux Bias (µA)', 'Demod Freq (MHz)'];
+            const rows = state.positionerLog.map(entry => {
+                const date = new Date(entry.timestamp);
+                return [
+                    `${date.getMonth() + 1}/${date.getDate()}/${date.getFullYear()}`,
+                    `${date.getHours().toString().padStart(2, '0')}:${date.getMinutes().toString().padStart(2, '0')}`,
+                    entry.position,
+                    entry.fluxBias,
+                    entry.demodFreq
+                ];
+            });
+
+            const csv = [headers, ...rows].map(row => row.join(',')).join('\n');
+            downloadFile(csv, 'positioner-log.csv', 'text/csv');
+            showToast('CSV exported', 'success');
+        }
+
+        // Export all settings as JSON
+        function exportAllSettings() {
+            const json = JSON.stringify(state, null, 2);
+            downloadFile(json, 'squid-dashboard-backup.json', 'application/json');
+            showToast('Settings exported', 'success');
+        }
+
+        // Import settings
+        function importSettings() {
+            document.getElementById('import-file').click();
+        }
+
+        function handleImport(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+
+            const reader = new FileReader();
+            reader.onload = (e) => {
+                try {
+                    const imported = JSON.parse(e.target.result);
+                    state = imported;
+                    saveState();
+                    populateForm();
+                    renderLog();
+                    showToast('Settings imported', 'success');
+                } catch (err) {
+                    showToast('Invalid file format', 'error');
+                }
+            };
+            reader.readAsText(file);
+            event.target.value = ''; // Reset file input
+        }
+
+        // Download helper
+        function downloadFile(content, filename, type) {
+            const blob = new Blob([content], { type });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = filename;
+            a.click();
+            URL.revokeObjectURL(url);
+        }
+
+        // Toast notification
+        function showToast(message, type = 'success') {
+            const toast = document.getElementById('toast');
+            toast.textContent = message;
+            toast.className = `toast ${type} show`;
+            setTimeout(() => {
+                toast.classList.remove('show');
+            }, 2500);
+        }
+
+        // Initialize
+        document.addEventListener('DOMContentLoaded', () => {
+            loadState();
+            setupSpectrumAnalyzerListeners();
+        });
+    </script>
+</body>
+</html>
