@@ -39,23 +39,23 @@ You can get in touch with me via [email](mailto:joesingh@stanford.edu) or follow
 * Jyotirmai Singh, Samar Khanna, James Burgess, _Squeezed Diffusion Models_, [NeurIPS Workshop on Machine Learning for the Physical Sciences (2025)](https://arxiv.org/pdf/2508.14871)
 
 * Stephen E. Kuenstner, Elizabeth C. van Assendelft, Saptarshi Chaudhuri, Hsiao-Mei Cho, Jason Corbin, Shawn W. Henderson, Fedja Kadribasic, Dale Li, Arran Phipps, Nicholas M. Rapidis, Maria Simanovskaia, **Jyotirmai Singh**, Cyndia Yu, Kent D. Irwin, _Quantum metrology of low frequency electromagnetic modes with frequency upconverters_,
-[Phys. Rev. Research 7, 013281 (2025)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013281)
+[Phys. Rev. Research (2025)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013281)
 
 * V. Ankel et al., _Noise limits for dc SQUID readout of high-Q resonators below 300 MHz_, [arXiv:2504.20398 (2025)](https://arxiv.org/abs/2504.20398)
 
-* M.H. Kelsey et al., _G4CMP: Condensed Matter Physics Simulation Using the Geant4 Toolkit_, [Nuclear Inst. and Methods in Physics Research, A 1055, 168473 (2023)](https://www.sciencedirect.com/science/article/pii/S0168900223004631?via\%3Dihub)
+* M.H. Kelsey et al., _G4CMP: Condensed Matter Physics Simulation Using the Geant4 Toolkit_, [Nuclear Inst. and Methods in Physics Research, A (2023)](https://www.sciencedirect.com/science/article/pii/S0168900223004631?via\%3Dihub)
 
 * L. Brouwer et al. (DMRadio Collaboration), _Projected Sensitivity of DMRadio-m3: A Search for the QCD Axion below 1 µeV_, 
-[Phys. Rev. D 106, 103008 (2022)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.103008)
+[Phys. Rev. D (2022)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.103008)
 
 * L. Brouwer et al. (DMRadio Collaboration), _Proposal for a definitive search for GUT-scale QCD axions_, 
-[Phys. Rev. D 106, 112003 (2022)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.112003)
+[Phys. Rev. D (2022)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.112003)
 
 * **Jyotirmai Singh**, Preey Shah, _Investing in the future of Indian Science_,
 [Observer Research Foundation (2022)](https://www.orfonline.org/expert-speak/investing-in-the-future-of-indian-science/)
 
 * B. Aharmim et al. (SNO Collaboration), _Measurement of neutron production in atmospheric neutrino interactions at the Sudbury Neutrino Observatory_,
-  [Phys. Rev. D 99, 112007 (2019)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.112007)
+  [Phys. Rev. D (2019)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.112007)
 
 <!---
 ## Header 2
