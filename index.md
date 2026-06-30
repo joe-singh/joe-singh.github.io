@@ -41,7 +41,7 @@ You can get in touch with me via [email](mailto:joesingh@stanford.edu) or follow
 * Stephen E. Kuenstner, Elizabeth C. van Assendelft, Saptarshi Chaudhuri, Hsiao-Mei Cho, Jason Corbin, Shawn W. Henderson, Fedja Kadribasic, Dale Li, Arran Phipps, Nicholas M. Rapidis, Maria Simanovskaia, **Jyotirmai Singh**, Cyndia Yu, Kent D. Irwin, _Quantum metrology of low frequency electromagnetic modes with frequency upconverters_,
 [Phys. Rev. Research (2025)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.7.013281)
 
-* V. Ankel et al., _Noise limits for dc SQUID readout of high-Q resonators below 300 MHz_, [arXiv:2504.20398 (2025)](https://arxiv.org/abs/2504.20398)
+* V. Ankel et al., _Noise limits for dc SQUID readout of high-Q resonators below 300 MHz_, [Journal of Applied Physics (2025)](https://pubs.aip.org/aip/jap/article/138/9/094505/3361544)
 
 * M.H. Kelsey et al., _G4CMP: Condensed Matter Physics Simulation Using the Geant4 Toolkit_, [Nuclear Inst. and Methods in Physics Research, A (2023)](https://www.sciencedirect.com/science/article/pii/S0168900223004631?via\%3Dihub)
 
