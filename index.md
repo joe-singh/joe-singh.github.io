@@ -34,6 +34,8 @@ You can get in touch with me via [email](mailto:joesingh@stanford.edu) or follow
 
 # Publications/Articles
 
+* Jyotirmai Singh, _Lie Group Diffusion Models for Hardware-Aware Quantum Circuit Synthesis_, [arXiv:2606.29636](https://arxiv.org/abs/2606.29636)
+
 * Jyotirmai Singh, Samar Khanna, James Burgess, _Squeezed Diffusion Models_, [NeurIPS Workshop on Machine Learning for the Physical Sciences (2025)](https://arxiv.org/pdf/2508.14871)
 
 * Stephen E. Kuenstner, Elizabeth C. van Assendelft, Saptarshi Chaudhuri, Hsiao-Mei Cho, Jason Corbin, Shawn W. Henderson, Fedja Kadribasic, Dale Li, Arran Phipps, Nicholas M. Rapidis, Maria Simanovskaia, **Jyotirmai Singh**, Cyndia Yu, Kent D. Irwin, _Quantum metrology of low frequency electromagnetic modes with frequency upconverters_,
